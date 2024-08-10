@@ -5,7 +5,7 @@ blending creativity with technology to craft extraordinary solutions.
 Our website is more than a platform—it's a gateway to a vibrant community of pioneers and dreamers dedicated to pushing the boundaries of what robots can achieve.
 
 Explore our site to find:
-          Exciting Projects
-          Engaging Events
-          Inspiring Stories
-          Interactive Resources
+          Exciting Projects,
+          Engaging Events,
+          Inspiring Stories,
+          Interactive Resources.
