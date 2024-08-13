@@ -18,7 +18,7 @@ layout: page
 <hr>
 <br>
 <br>
-<img align="left" src="https://www.niser.ac.in/~smishra/club/rtc/wp-content/uploads/2021/08/1200px-National_Institute_of_Science_Education_and_Research-291x300.png.webp" width="200" height="180">
+<img align="left" src="/images/niser.webp" width="200" height="200">
 <center><p>Robotech club is a NISER community consisting of students from various streams of science. The club functions under <strong> Dr. Subhankar Mishra's Lab</strong>, School of Computer Sciences, <strong>NISER (National Institute for Science, Education and Research, Bhubaneshwar)</strong>. We aim to provide a platform for the young scientists of NISER to explore and learn to use automation and A.I. in their scientific research irrespective of their branch. </p>
 </center>
 <br>
