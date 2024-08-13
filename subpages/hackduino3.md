@@ -11,7 +11,7 @@ permalink: /subpages/hackduino3/
 </center>
 <br>
 
-<center><iframe width="644" height="315" src="https://www.youtube.com/embed/5hp2gr93Z58" title="Hackduino 3.0 || Hackathon in robotics || SMLab NISER Bhubaneswar || 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+<center><iframe width="100%" height="315" src="https://www.youtube.com/embed/5hp2gr93Z58" title="Hackduino 3.0 || Hackathon in robotics || SMLab NISER Bhubaneswar || 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
 
 <br>
 
