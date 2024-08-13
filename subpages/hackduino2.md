@@ -16,14 +16,14 @@ permalink: /subpages/hackduino2/
 ***Winner 1: Vaidya***
 - Submitted by Dhruv Gautam and Gulafsa Ahmed from Christ (Deemed to be university, Kengeri Campus)
 
-<iframe width="644" height="315" src="https://www.youtube.com/embed/lKOmQ3i_sOA" title="Vedya | Hackduino 2.0 Winning Idea 1 | Dhruv Gautam and Gulafsha Ahmed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/lKOmQ3i_sOA" title="Vedya | Hackduino 2.0 Winning Idea 1 | Dhruv Gautam and Gulafsha Ahmed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 
 ***Winner 2: Sign to Speech Communication System***
 - Submission by Jeet Soni from Indian Institute of Information Technology
 
-<iframe width="644" height="315" src="https://www.youtube.com/embed/1lBZq-uGNUY" title="Sign to Speech Communication System | Hackduino 2.0 Winning Idea 2 | Jeet Soni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/1lBZq-uGNUY" title="Sign to Speech Communication System | Hackduino 2.0 Winning Idea 2 | Jeet Soni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
 
