@@ -31,7 +31,6 @@ permalink: /activities/
   }
   .item: last-child {
     width: 100%
-    margin-bottom: 0;
     text-align: center;
     margin-bottom: 40px;
   }
@@ -54,8 +53,47 @@ permalink: /activities/
     width: 100%;
     border: 50px
   }
-  .blur{
-    filter: blur(100px);
+  @media (max-width: 768px) {
+    .container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border: none;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 800px;
+    }
+    .item {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    margin-bottom: 20px;
+    overflow: hidden;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    }
+    .item: last-child {
+    width: 100%
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .item button{
+    position: absolute;
+    bottom: 10px;
+    margin-left: 37.5%;
+    transform: translateX(-50%);
+    z-index: 1;
+  }
+  .center-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    border: 50px
   }
 
 </style>
@@ -170,6 +208,24 @@ permalink: /activities/
   .it p {
     margin-bottom: 20px;
   }
+  @media (max-width: 768px) {
+    .contain{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 800px; 
+    margin: 0 auto;
+  }
+  .it {
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 4px solid #ccc;
+    margin-bottom: 20px;
+    position: relative;
+  }
+}
 </style>
 </head>
 <body>
