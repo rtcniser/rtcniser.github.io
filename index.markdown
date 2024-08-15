@@ -5,16 +5,14 @@ layout: page
 
 <center><img src="/images/logo.png" height="200" width= "200"></center>
 
-<h1 style="font-family: Times New Roman; color: black; text-align: center"><font size="32">RoboTech Club</font></h1>
+<h1 style="font-family: Times New Roman; text-align: center"><font size="32">RoboTech Club</font></h1>
 
 <h2 style="font-family: cursive; color: darkgoldenrod; text-align: center;"> The Club For The Geeky Ones! </h2>
-<h4 style="color: black; text-align: center;"> A student community aimed at propagating the skills and knowledge required to better utilize the power of present day technology in various feats of science.</h4>
+<h4 style="text-align: center;"> A student community aimed at propagating the skills and knowledge required to better utilize the power of present day technology in various feats of science.</h4>
 
 <br>
 <br>
-
 <h2> About Us: </h2>
-
 <hr>
 <br>
 <br>
