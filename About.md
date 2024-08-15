@@ -4,9 +4,8 @@ permalink: /admin/
 title: About Us
 ---
 <hr>
-
 <br>
-<p style="color: #01474B;font-weight: 600;text-align: left;">
+<p style="font-weight: 600;text-align: left;">
 We are the Robotics and Technology Club of NISER, Bhubaneswar. We are a student-run body that functions under Dr. Subhankar Mishra’s Lab, School of Computer Sciences, NISER.
 
 
@@ -19,20 +18,20 @@ Our objective is to learn and propagate the knowledge about current day technolo
 <br>
 <br>
 
-<img src="/images/About1.jpg" align="left" height="500" width="100%" style="margin:0 0 40px 0" >
+<img src="/images/About1.jpg" align="left" height="500px" width="100%" style="margin:0 0 40px 0" >
 
 <h4 style="font-size: 24px; color: grey; margin-bottom: 20px;">The Story of</h4>
 
-<h3  style="font-size: 35px; color: red;">RoboTech Club, NISER</h3>
-<p style="font-weight: 600;">This student-run club was established in 2015, along the lines of similar clubs in the IITs and various engineering colleges. We have recently starting functioning under Dr. Subhankar Mishra’s Lab in the School of Computer Sciences, NISER and we work with cutting edge robotic technologies,  equipment and  modern tools such as 3D Printers, various micro-controllers, machining toolkits and numerous other instruments</p>
+<h3 style="font-size: 35px; color: red;">RoboTech Club, NISER</h3>
+<p style="font-weight: 600px;">This student-run club was established in 2015, along the lines of similar clubs in the IITs and various engineering colleges. We have recently starting functioning under Dr. Subhankar Mishra’s Lab in the School of Computer Sciences, NISER and we work with cutting edge robotic technologies,  equipment and  modern tools such as 3D Printers, various micro-controllers, machining toolkits and numerous other instruments</p>
+<p style="font-weight: 600px;">Initially set up as a means to serve the hobbies of a group of robotics enthusiasts, the club has grown into a much bigger endeavor, with more than 100 club members. We seek to provide the students of NISER with the opportunity to turn their novel ideas into reality. Most of our current projects are direct products of the handwork of such innovative students. We have worked on several fun and useful projects, listed in the projects page. We also love to do competitive robotics and participate in various Robotics Competitions, held around the country. We have a number of projects dedicated to those competitions. We have also collaborated with the NISER Astronomy Club (NAC) and the School of Earth and Planetary Sciences (SEPS) in our ventures.</p>
+<br>
+<br>
+<p style="text-align: center; color: #ffffff;font-family: aldrich;font-size:35px; text-decoration: underline;">Gallery of our Domain</p>
 
-<p style="font-weight: 600px;">
-Initially set up as a means to serve the hobbies of a group of robotics enthusiasts, the club has grown into a much bigger endeavor, with more than 100 club members. We seek to provide the students of NISER with the opportunity to turn their novel ideas into reality. Most of our current projects are direct products of the handwork of such innovative students. We have worked on several fun and useful projects, listed in the projects page. We also love to do competitive robotics and participate in various Robotics Competitions, held around the country. We have a number of projects dedicated to those competitions. We have also collaborated with the NISER Astronomy Club (NAC) and the School of Earth and Planetary Sciences (SEPS) in our ventures.</p>
-<p style="text-align: center;color: #000000;font-family: aldrich;font-size:35px; text-decoration: underline;">Gallery of our Domain</p>
 
 
-
-<p style="color: #646464;font-family: Tahoma, Sans-serif;text-align: center;font-size: 25px">A glimpse at our projects and resources
+<p style="color: #ffffff;font-family: Tahoma, Sans-serif;text-align: center;font-size: 25px;">A glimpse at our projects and resources
 </p>
 <br>
 <head>
@@ -41,11 +40,12 @@ Initially set up as a means to serve the hobbies of a group of robotics enthusia
   <title>Image Gallery</title>
   <style>
     .gallery-container {
-      border: 2px solid black;
+      border: 2px solid white;
       padding: 20px;
       height: 320px; 
       overflow-y: auto; 
       color: black
+      background-color: black;
     }
     .keyword {
       margin-bottom: 10px;
@@ -57,7 +57,7 @@ Initially set up as a means to serve the hobbies of a group of robotics enthusia
       border: none;
       background-color: transparent;
       text-decoration: underline;
-      color: black;
+      color: white;
     }
     .keyword button:hover {
       background-color: orange; 
@@ -86,6 +86,7 @@ Initially set up as a means to serve the hobbies of a group of robotics enthusia
     }
     .image-description {
       margin-top: 5px;
+      color: white;
     }
   </style>
 </head>
