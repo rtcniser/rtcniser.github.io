@@ -36,6 +36,7 @@ We present to you an inter-college robotics and technology magazine for nationwi
 <iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" src="https://heyzine.com/flip-book/cf0bac2e33.html" style="border: 1px solid lightgray; width: 100%; height: 600px;"></iframe>
 <br>
 </center>
+<br>
 <h3><em>Brought to you by:</em>
 <center>
 <br>
