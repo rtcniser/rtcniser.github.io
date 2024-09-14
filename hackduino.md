@@ -9,7 +9,7 @@ permalink: /hackduino/
     <br>
     <p style="font-size: 20px"><em>The annual hackathon style robotics event brought to you by the RoboTech Club, NISER. We look out for minds with perspective and inventive ideas that can be applied through automation to deal with real world problems.</em></p>
     <br>
-    <h2 style="font-family: cursive; text-decoration: underline;">Previous Editions:</h2>
+    <h2 style="font-family: comic; text-decoration: underline;">Previous Editions:</h2>
     <br>    
     <h3>2023:</h3>
     <a href="{{ '/subpages/hackduino3/' | relative_url }}">
