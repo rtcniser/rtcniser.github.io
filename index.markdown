@@ -30,7 +30,7 @@ layout: page
 <hr style="color: darkgoldenrod">
 <br>
 <br>
-<p style="text-align: center;"><strong>This club was set up as a means to serve the hobbies of a group of robotics enthusiasts. The club has grown into a much bigger endeavour, with more than 100 club members as of 2022.</strong></p>
+<p style="text-align: center;"><strong>This club was set up as a means to serve the hobbies of a group of robotics enthusiasts. The club has grown into a much bigger endeavour, with more than 25 active club members as of 2022.</strong></p>
 
 <p style="text-align: center;">We seek to provide the students of NISER with the opportunity to turn their novel ideas into reality. As a community, we empower each other with skills and knowledge about present day technology such as Developement Board Programming Language, Image Processing, IOT etc. We are currently working on a one year schedule for all club members with the hopes of enabling everyone with the required knowledge of using technology in most efficient way for functioning in various feats of our academic and professional career.</p>
 
@@ -45,12 +45,12 @@ layout: page
 <body>
 <div class="con">
     <div class="number-text">
-        <center><p style="font-size: 60px;"><strong>140</strong></p>
+        <center><p style="font-size: 60px;"><strong>25</strong></p>
         <h1>Active Members</h1>
         </center>
     </div>
     <div class="number-text">
-        <center><p style="font-size: 60px;"><strong>07</strong></p>
+        <center><p style="font-size: 60px;"><strong>08</strong></p>
         <h1>Years of Existence</h1>
         </center>
     </div>
@@ -72,6 +72,6 @@ layout: page
 
 <hr>
 <br>
-<p style="text-align: left;">Robotech Club welcomes people from across the scientific society for talking to us if you think your research can you a helping robot.
+<p style="text-align: left;">Robotech Club welcomes people from across the scientific society for talking to us if you think your research needs a helping robot.
 
 We can help you with automation and artificial intelligence to reduce human labour in your laboratory. Contact us today to explore the possibilities.</p>
