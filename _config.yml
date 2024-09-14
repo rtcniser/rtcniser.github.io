@@ -24,10 +24,9 @@ description: >- # this means to ignore newlines until "baseurl:"
   A student community aimed at propagating the skills and knowledge required to better utilize the power of present day technology in various feats of science.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username: robotechniser
+github_username: rtcniser
 instagram_username:  rtc_niser
-facebook_username: rtcniser
-youtube_username: RoboTech Club
+youtube_username: rtcniser
 whatsapp: RTC Webpage
 
 # Build settings
