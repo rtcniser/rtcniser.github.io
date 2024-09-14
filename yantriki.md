@@ -37,13 +37,13 @@ We present to you an inter-college robotics and technology magazine for nationwi
 <br>
 </center>
 <br>
+<br>
 <h3><em>Brought to you by:</em>
 <center>
 <br>
 <img class="niser" src="/images/niser.webp" height="400" width="400">
 <br>
 <br>
-<img src="/images/Azadi-ka-amrit-mahotsavlogo-e1641992033865.png.webp" height="200" width="350">
 <br>
 <center>
 </center></center></h3>
