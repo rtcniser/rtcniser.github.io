@@ -17,8 +17,12 @@ title: Team
 
 <br>
 <img float="left" style="border-radius: 100px; border: solid 5px black; margin-right: 30px;" align=left src="/images/subhankar.webp" height= "300" width= "300">
-<p style="font-weight: bold; font-size: xx-large; font-style: italic;"><u> Dr. Subhankar Mishra</u></p>
+<br>
+<p style="font-weight: bold; font-size: xx-large;"><u>Dr. Subhankar Mishra</u></p>
 <p>His visionary leadership inspires creativity and innovation, propelling the club members to push boundaries and excel in their projects. As <strong><em>Faculty-In-Charge</em></strong> Mr. Subhankar Mishra cultivates a spirit of collaboration, empowering students to work together seamlessly towards their shared goals.</p>
+<br>
+<br>
+<br>
 <hr>
 
 <br>
@@ -92,8 +96,8 @@ Website Managers:</p>
 <p style="font-size: 18px;"><em>Please contact us for any discrepancies, errors or empty links in the website. We will correct it in a jiffy!!!</em></p>
 <br>
 <ul>
-<li><h4 style="font-style: italic">Aditya Mridul (Chief Editor)<a class="u-email" href="mailto:aditya.mridul@niser.ac.in"><img align=right src="/images/email-logo-png-gmail.png"  height="25" width="25"></a>
+<li><h4>Aditya Mridul (Chief Editor)<a class="u-email" href="mailto:aditya.mridul@niser.ac.in"><img align=right src="/images/email-logo-png-gmail.png"  height="25" width="25"></a>
 <a href="https://www.linkedin.com/in/aditya-mridul-069646288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img align=right src="/images/link.webp" height="25" width="25"></a></h4></li>
 
-<li><h4 style="font-style: italic">Abhinav Raj (Chief Editor)<a class="u-email" href="mailto:abhinav.raj@niser.ac.in"><img align=right src="/images/email-logo-png-gmail.png"  height="25" width="25"></a>
+<li><h4>Abhinav Raj (Chief Editor)<a class="u-email" href="mailto:abhinav.raj@niser.ac.in"><img align=right src="/images/email-logo-png-gmail.png"  height="25" width="25"></a>
 <a href="https://www.linkedin.com/in/abhinav-raj-25a3692a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img align=right src="/images/link.webp" height="25" width="25"></a></h4></li>
