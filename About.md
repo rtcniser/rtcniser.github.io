@@ -1,216 +1,298 @@
 ---
 layout: page
-permalink: /admin/
-title: About Us
+title: Activities
+permalink: /activities/
 ---
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Heading Layout</title>
+<style>
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border: none;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 800px;
+  }
+  .item {
+    width: 30%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    margin-bottom: 20px;
+    overflow: hidden;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+  }
+  .item: last-child {
+    width: 100%
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .item h2{
+    margin-bottom: 10px;
+}
+  .item p{
+    margin-bottom: 20px;
+  }
+  .item button{
+    position: absolute;
+    bottom: 10px;
+    left: 50%
+    transform: translateX(-50%);
+    z-index: 1;
+  }
+  .center-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    border: 50px
+  }
+  @media (max-width: 768px) {
+    .container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    border: none;
+    padding: 20px;
+    margin: 0 auto;
+    max-width: 800px;
+    }
+    .item {
+    width: 100%;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    margin-bottom: 20px;
+    overflow: hidden;
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+    }
+    .item: last-child {
+    width: 100%
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .item button{
+    position: absolute;
+    bottom: 10px;
+    margin-left: 37.5%;
+    transform: translateX(-50%);
+    z-index: 1;
+  }
+  .center-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    border: 50px
+  }
+}
+</style>
+</head>
+<body>
 <hr>
 <br>
-<p style="font-weight: 600;text-align: left;">
-We are the Robotics and Technology Club of NISER, Bhubaneswar. We are a student-run body that functions under Dr. Subhankar Mishra’s Lab, School of Computer Sciences, NISER.
 
+<center><h3 style="color: gray; font-style: italic; font-size: 30px; font-family: cursive;">"We strongly believe that the only necessity in life is <strong>consistency.</strong>"</h3></center> 
 
-<br>
-<br>
-
-Our objective is to learn and propagate the knowledge about current day technology, and the skills required to incorporate it in our daily lives as well as academic curriculum. Our domain includes- Automation, IOT, Machine Learning, 3D Printing etc.
-</p>
+<center><p><h3 style=" font-size: 20px;">Keeping that in mind, we, the members of <strong>RoboTech Club</strong> have actively worked on a lot of projects. Catch a glimpse of few of our projects below:</h3></p></center>
 
 <br>
+
+<p style="font-size: xx-large; font-family: cursive; ">Recent Projects:</p>
+<hr>
+<p><h3 style="font-size: 22px;">Listed below are the projects on which we have been working in the recent times. To know more about them, click the buttons below:</h3></p>
 <br>
-
-<img src="/images/About1.jpg" align="left" height="500px" width="100%" style="margin:0 0 40px 0" >
-
-<h4 style="font-size: 24px; color: grey; margin-bottom: 20px;">The Story of</h4>
-
-<h3 style="font-size: 35px; color: red;">RoboTech Club, NISER</h3>
-<p style="font-weight: 600px;">This student-run club was established in 2015, along the lines of similar clubs in the IITs and various engineering colleges. We have recently starting functioning under Dr. Subhankar Mishra’s Lab in the School of Computer Sciences, NISER and we work with cutting edge robotic technologies,  equipment and  modern tools such as 3D Printers, various micro-controllers, machining toolkits and numerous other instruments</p>
-<p style="font-weight: 600px;">Initially set up as a means to serve the hobbies of a group of robotics enthusiasts, the club has grown into a much bigger endeavor, with more than 100 club members. We seek to provide the students of NISER with the opportunity to turn their novel ideas into reality. Most of our current projects are direct products of the handwork of such innovative students. We have worked on several fun and useful projects, listed in the projects page. We also love to do competitive robotics and participate in various Robotics Competitions, held around the country. We have a number of projects dedicated to those competitions. We have also collaborated with the NISER Astronomy Club (NAC) and the School of Earth and Planetary Sciences (SEPS) in our ventures.</p>
-<br>
-<br>
-<p style="text-align: center; color: #ffffff;font-family: aldrich;font-size:35px; text-decoration: underline;">Gallery of our Domain</p>
-
-
-
-<p style="color: #ffffff;font-family: Tahoma, Sans-serif;text-align: center;font-size: 25px;">A glimpse at our projects and resources
-</p>
-<br>
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Image Gallery</title>
-  <style>
-    .gallery-container {
-      border: 2px solid white;
-      padding: 20px;
-      height: 320px; 
-      overflow-y: auto; 
-      color: black
-      background-color: black;
-    }
-    .keyword {
-      margin-bottom: 10px;
-    }
-    .keyword button {
-      cursor: pointer;
-      padding: 5px 10px;
-      margin-right: 10px;
-      border: none;
-      background-color: transparent;
-      text-decoration: underline;
-      color: white;
-    }
-    .keyword button:hover {
-      background-color: orange; 
-    }
-    .keyword button.active {
-      background-color: blue; 
-      color: white;
-      text-decoration: underline; 
-    }
-    .image-container {
-      overflow-x: auto; 
-      white-space: nowrap;
-    }
-    .image-wrapper {
-      display: inline-block;
-      text-align: center;
-      vertical-align: top;
-      width: 300px; 
-      margin-right: 20px; 
-    }
-    .image {
-      width: 100%;
-      border: 2px solid black;
-      object-fit: cover;
-      transition: transform 0.3s ease;
-    }
-    .image-description {
-      margin-top: 5px;
-      color: white;
-    }
-  </style>
-</head>
-<body onload="showImages('keyword1')">
-  <div class="gallery-container">
-    <div class="keyword">
-      <button onclick="showImages('keyword1')" class="active">Projects</button>
-      <button onclick="showImages('keyword2')">Equipment</button>
-      <button onclick="showImages('keyword3')">Experiment</button>
-      <button onclick="showImages('keyword4')">Workspace</button>
-    </div>
-    <hr>
+<div>
+<div class="container">
+  <div class="item">
+      <h3 style="font-weight: bold; text-decoration: underline;">Line Follower</h3>
+      <p>A 5 IR Sensor Based Track Follower. Ready for line following events. This guy has fared really well in competitions.</p>
+      &nbsp; &nbsp; &nbsp; &nbsp;<button style="border-radius: 5px; background-color: hotpink; color: white; padding: 8px 16px; cursor: pointer;">KNOW MORE</button>
+  </div>
+  <div class="item">
+    <h3 style="font-weight: bold; text-decoration: underline;">Radio Telescope</h3>
+    <p>An "Autonomous IR Detector"</p>
     <br>
-    <div class="image-container">
-      <div class="image-wrapper" id="keyword1">
-        <img class="image" src="/images/robsket.jpg" height="200" width="200">
-        <div class="image-description">Robotic Sketcher</div>
-        <br>
-      </div>
-      <div class="image-wrapper" id="keyword1">
-        <img class="image" src="/images/scop.png" height="200" width="200">
-        <div class="image-description">Scorpion</div>
-      </div>
-      <div class="image-wrapper" id="keyword1">
-        <img class="image" src="/images/radio.jpg" height="200" width="200">
-        <div class="image-description">Radio Telescope</div>
-      </div>
-      <div class="image-wrapper" id="keyword1">
-        <img class="image" src="/images/maze.jpg" height="200" width="200">
-        <div class="image-description">Maze Solver Bot</div>
-      </div>
-      <div class="image-wrapper" id="keyword1">
-        <img class="image" src="/images/remote.png" height="200" width="200">
-        <div class="image-description">Remote Site Monitoring System</div>
-      </div>
-      <div class="image-wrapper" id="keyword1">
-        <img class="image" src="/images/pragyan.jpg" height="200" width="200">
-        <div class="image-description">Pragyan Rover</div>
-      </div>
-      <div class="image-wrapper" id="keyword1">
-        <img class="image" src="/images/smart.jpg" height="200" width="200">
-        <div class="image-description"> Smart Mirror</div>
-      </div>
-      <div class="image-wrapper" id="keyword1">
-        <img class="image" src="/images/line.jpg" height="200" width="200">
-        <div class="image-description">Line Follower</div>
-      </div>
-      <div class="image-wrapper" id="keyword1">
-        <img class="image" src="/images/amar.png" height="200" width="200">
-        <div class="image-description">AMaR</div>
-      </div>
-      <div class="image-wrapper" id="keyword2" style="display: none;">
-        <img class="image" src="/images/eq1.jpg" height="200" width="200">
-        <div class="image-description">Keysight Model</div>
-        <br>
-      </div>
-      <div class="image-wrapper" id="keyword2" style="display: none;">
-        <img class="image" src="/images/eq2.jpg" height="200" width="200">
-        <div class="image-description">3D Printer</div>
-      </div>
-      <div class="image-wrapper" id="keyword2" style="display: none;">
-        <img class="image" src="/images/eq3.jpg" height="200" width="200">
-        <div class="image-description">Flashforge Finder</div>
-      </div>
-      <div class="image-wrapper" id="keyword2" style="display: none;">
-        <img class="image" src="/images/eq4.jpg" height="200" width="200">
-        <div class="image-description">FDM 3D Printer</div>
-      </div>
-      <div class="image-wrapper" id="keyword2" style="display: none;">
-        <img class="image" src="/images/eq5.jpg" height="200" width="200">
-        <div class="image-description">Creality CR10S500</div>
-      </div>
-      <div class="image-wrapper" id="keyword2" style="display: none;">
-        <img class="image" src="/images/eq6.jpg" height="200" width="200">
-        <div class="image-description">Flux Beambox Pro</div>
-      </div>
-      <div class="image-wrapper" id="keyword2" style="display: none;">
-        <img class="image" src="/images/eq7.jpg" height="200" width="200">
-        <div class="image-description">SLA Printer</div>
-      </div>
-      <div class="image-wrapper" id="keyword2" style="display: none;">
-        <img class="image" src="/images/eq8.jpg" height="200" width="200">
-        <div class="image-description">Laser Workings</div>
-      </div>
-      <div class="image-wrapper" id="keyword3" style="display: none;">
-        <img class="image" src="/images/ex1.jpg" height="200" width="300">
-        <div class="image-description">Arduino Teaching Lessons</div>
-        <br>
-      </div>
-      <div class="image-wrapper" id="keyword3" style="display: none;">
-        <img class="image" src="/images/ex2.jpg" height="200" width="300">
-        <div class="image-description">Tesla Coil Working Demo</div>
-      </div>
-      <div class="image-wrapper" id="keyword4" style="display: none;">
-        <img class="image" src="/images/wk1.jpg" height="200" width="200">
-        <div class="image-description">Our Lab with  Awesome Resources</div>
-        <br>
-      </div>
-      <div class="image-wrapper" id="keyword4" style="display: none;">
-        <img class="image" src="/images/wk2.jpg" height="200" width="200">
-        <div class="image-description">Handy Working Area</div>
-      </div>
+    <br><br><br>
+    &nbsp; &nbsp; &nbsp; &nbsp;<button style="border-radius: 5px; background-color: hotpink; color: white; padding: 8px 16px; cursor: pointer;">KNOW MORE</button>
+  </div>
+  <div class="item">
+    <h3 style="font-weight: bold; text-decoration: underline;">Remote Site Monitoring System</h3>
+    <p>A "3 Axis Remote Controlled Robotic Camera Arm". It is designed for remote surveillance.</p><br><br>
+    &nbsp; &nbsp; &nbsp; &nbsp;<a href=" {{ '/subpages/rsms/' }} "><button style="border-radius: 5px; background-color: hotpink; color: white; padding: 8px 16px; cursor: pointer;">KNOW MORE</button></a>
+  </div>
+  <div class="item">
+    <h3 style="font-weight: bold; text-decoration: underline;">Scorpion v0.1</h3>
+    <p>"Scorpion" is the next generation of AMaR, designed to fit into everyday campus life. The bot minds it's own business and does the task it's assigned autonomously.</p>
+    &nbsp; &nbsp; &nbsp; &nbsp;<a href=" {{ '/subpages/scorpion/' }}"><button style="border-radius: 5px; background-color: hotpink; color: white; padding: 8px 16px; cursor: pointer;">KNOW MORE</button></a>
+  </div>
+  <div class="item">
+    <h3 style="font-weight: bold; text-decoration: underline;">Smart Access Control System</h3>
+    <p>This is an IOT Powered Smart Access Control System developed for our lab. It is especially handy in the current pandemic situation.</p>
+    <br><br>
+    &nbsp; &nbsp; &nbsp; &nbsp;<button style="border-radius: 5px; background-color: hotpink; color: white; padding: 8px 16px; cursor: pointer;">KNOW MORE</button>
+  </div>
+  <div class="item">
+    <h3 style="font-weight: bold; text-decoration: underline;">NIRMAL</h3>
+    <p> "Smart Handsfree Sanitizer Dispenser" is an IOT powered device built with the intension of making it easy to manage big number of sanitizer stations across  institutes..</p><br>
+    &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://niser.ac.in/~smishra/project/nirmal/"><button style="border-radius: 5px; background-color: hotpink; color: white; padding: 8px 16px; cursor: pointer;">KNOW MORE</button></a>
+  </div>
+  <div class="center-container">
+    <div class="item">
+        <h3 style="font-weight: bold; text-decoration: underline;">AMaR</h3>
+        <p>"AMaR or Autonomous Multi-utility Rover", is a affordable Robotic System, that can substitute human interference in potentially hazardous scenarios. It can prove to be a blessing in the current COVID-19 pandemic.</p>
+        &nbsp; &nbsp; &nbsp; &nbsp;<button style="border-radius: 5px; background-color: hotpink; color: white; padding: 8px 16px; cursor: pointer;">KNOW MORE</button>
+    </div>
+    <div class="item">
+        <h3 style="font-weight: bold; text-decoration: underline;">Blynk IoT Tutorial</h3>
+        <p>A blog on getting started with Blynk IoT Platform. The blog aims at a very basic IoT project while teaching the essentials through the process.</p><br><br><br><br>
+        &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://rtcniser.github.io/Blynk-IoT-Blogs/2021/12/08/Blynk-IOT.html"><button style="border-radius: 5px; background-color: hotpink; color: white; padding: 8px 16px; cursor: pointer;">KNOW MORE</button></a>
+  </div>
+  </div>
+</div>
+</div>
+<br>
+<br>
+<p style="font-size: xx-large; font-family: cursive">Older Projects:</p>
+
+<hr>
+<br>
+<p><h3 style="font-size: 22px;">And here are our older projects which speak volumes about our work. Prepare to be amazed!!!</h3></p>
+<br>
+
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Heading Layout with Images</title>
+<style>
+  .contain{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 800px; 
+    margin: 0 auto;
+  }
+  .it {
+    width: 48%;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 4px solid #ccc;
+    margin-bottom: 20px;
+    position: relative;
+  }
+  .it:nth-child(odd) img {
+    background-image: url('/images/bk99.avif');
+    float: right;
+    margin-left: 20px;
+    margin-bottom: 10px;
+  }
+  .it:nth-child(even) img {
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 10px;
+  }
+  .it h2 {
+    margin-bottom: 10px;
+  }
+  .it p {
+    margin-bottom: 20px;
+  }
+  @media (max-width: 768px) {
+    .contain{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 800px; 
+    margin: 0 auto;
+  }
+  .it {
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    border: 4px solid #ccc;
+    margin-bottom: 20px;
+    position: relative;
+  }
+}
+</style>
+</head>
+<body>
+
+<div class="contain">
+  <div class="it">
+    <img src="/images/pragyan.jpg" alt="Image 1">
+    <div>
+      <h2 style="font-weight: bold; text-decoration: underline;">Pragyan Model (Chandrayaan - II Rover)</h2>
+      <p>Made, in collaboration with the School of Earth and Planetary Sciences, for an event on the historic occasion of Chandrayaan – II Moon Landing.<br>The model was put on display, during a series of talks and discussions over the Moon Landing Mission, on September 07, 2019. Made, in collaboration with the School of Earth and Planetary Sciences, for the historic Chandrayaan – II Moon Landing.</p>
     </div>
   </div>
+  <div class="it">
+    <img src="/images/robsket.jpg" alt="Image 2">
+    <div>
+      <h2 style="font-weight: bold; text-decoration: underline;">Robotic Sketcher</h2>
+      <p>This robot can sketch images on a sheet of paper, using a pen, mounted on a twin-axis system, typical of CNC mechines. The drawing system is controlled using an Arduino UNO. In the near future, we intend to couple this sketching system, with an image processing unit and make it a robotic Picasso!</p>
+    </div>
+  </div>
+<div class="contain">
+  <div class="it">
+    <img src="/images/smart.jpg" alt="Image 1">
+    <div>
+      <h2 style="font-weight: bold; text-decoration: underline;">Smart Mirror</h2>
+      <p>Based on a Raspberry Pi 3b, this is a Smart Mirror (largely an implementation of MichMich’s MagicMirror 2.0), which also features Google Assistant, hosts our ownCloud, and is capable of casting phone or PC displays. All other features aside, it compliments you everytime, you look at it. Well, who doesn’t like compliments!</p>
+    </div>
+  </div>
+  <div class="it">
+    <img src="/images/tesla.jpg" alt="Image 2">
+    <div>
+      <h2 style="font-weight: bold; text-decoration: underline;">TESLA COIL</h2>
+      <p>This is a Solid State Tesla Coil (Slayer Exciter), that can output upto 1200 V and lights up fluorescent bulbs, held in close proximity. It can also transmit wireless electricity (~5 V, albeit with lots of noise) to small circuits. Since, the circuit is simple to understand and easy to build, we can use it for educational purposes for common people, interested in understanding wireless power transmission.</p>
+    </div>
+  </div>
+<div class="contain">
+  <div class="it">
+    <img src="/images/radio.jpg" alt="Image 1">
+    <div>
+      <h2 style="font-weight: bold; text-decoration: underline;">Radio Telescope</h2>
+      <p>This project is the result of a collaboration with the NISER Astronomy Club. It consists of a basic setup, that can detect radio waves, coming from target celestial body, with a maximum frequency of 22 KHz. The main component is a Satellite Dish and a Satellite Finder, used to measure intensity of waves falling on it. At the moment, we can detect Solar Radiation, at an intensity of about 8 dB.Our main objective, with this project, is educational – to learn the analysis of astrophysical data and to raise awareness among people, about radio astronomy.</p>
+    </div>
+  </div>
+  <div class="it">
+    <img src="/images/maze.jpg" alt="Image 2">
+    <div>
+      <h2 style="font-weight: bold; text-decoration: underline;">MAZE SOLVER BOT</h2>
+      <p>A Maze Solving Robot is an upgraded version of autonomous line following robot, which is able to follow either a black or white line, that is drawn on a surface, consisting of contrasting colours. It uses IR Proximity sensors with an Arduino Uno, to identify the line, thereby allowing it to stay on the track. This project aims to fine-tune the movement of the robot and enhance the performance, by proper tweaking of the control parameters. The robot experiments with various combinations of trajectories to finally solve the maze and get reach the end.</p>
+    </div>
+  </div>
+<div class="contain">
+  <div class="it">
+    <img src="/images/rc.jpg" alt="Image 1">
+    <div>
+      <h2 style="font-weight: bold; text-decoration: underline;">RC SOCCER BOT</h2>
+      <p>If you love to make robots and see them rolling in soccer arena, then you’ll love this! This bot can play soccer by dribbling and kicking a ball, though not as good as a real soccer player. Powered by a 12 V Battery Pack, this robot is controlled, using a simple remote control. For movements, it makes use of 4 metal-geared motors (300 RPM) and it uses a 500 RPM geared motor, connected to metal shaft, for kicking the ball. With multiple of these, we can have a marvelous robo soccer match!</p>
+    </div>
+  </div>
+  <div class="it">
+    <img src="/images/8bit.jpg" alt="Image 2">
+    <div>
+      <h2 style="font-weight: bold; text-decoration: underline;">8-BIT COMPUTER</h2>
+      <p>We plan to make a 8-bit computer on breadboard, using only simple logic gates. Its main objective would be to understand computer logic at the very basic level and see how things work at that level. It ia a big project, but we would work gradually and make each module progressively, and learn how information is processed electronically. It will consist of various modules, such as, a Clock, Registers, an Arithmetic Logic Unit, an Output Register and a 16-Bit RAM. For more information, check out: <a href="https://eater.net/8bit/">https://eater.net/8bit/ </a></p>
+    </div>
+  </div>
+</div>
 
-  <script>
-    function showImages(keyword) {
-      const images = document.querySelectorAll('.image-wrapper');
-      images.forEach(image => {
-        if (image.id === keyword) {
-          image.style.display = 'inline-block';
-        } else {
-          image.style.display = 'none';
-        }
-      });
-
-      document.querySelectorAll('.keyword button').forEach(btn => {
-        btn.classList.remove('active');
-      });
-
-      document.querySelector(`.keyword button[data-keyword="${keyword}"]`).classList.add('active');
-    }
-  </script>
-</body>
+</div>
 
 
 
