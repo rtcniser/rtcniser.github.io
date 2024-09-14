@@ -7,7 +7,7 @@ layout: page
 
 <h1 style="font-family: Times New Roman; text-align: center"><font size="32">RoboTech Club</font></h1>
 
-<h2 style="font-family: cursive; color: darkgoldenrod; text-align: center;"> The Club For The Geeky Ones! </h2>
+<h2 style="font-family: comic; color: darkgoldenrod; text-align: center;"> The Club For The Geeky Ones! </h2>
 <h4 style="text-align: center;"> A student community aimed at propagating the skills and knowledge required to better utilize the power of present day technology in various feats of science.</h4>
 
 <br>
@@ -45,7 +45,7 @@ layout: page
 <body>
 <div class="con">
     <div class="number-text">
-        <center><p style="font-size: 60px;"><strong>25</strong></p>
+        <center><p style="font-size: 60px;"><strong>25+</strong></p>
         <h1>Active Members</h1>
         </center>
     </div>
