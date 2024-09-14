@@ -102,7 +102,7 @@ permalink: /activities/
 <hr>
 <br>
 
-<center><h3 style="color: gray; font-style: italic; font-size: 30px; font-family: comic;">"We strongly believe that the only necessity in life is <strong>consistency.</strong>"</h3></center> 
+<center><h3 style="color: gray; font-size: 30px; font-family: comic;">"We strongly believe that the only necessity in life is <strong>consistency.</strong>"</h3></center> 
 
 <center><p><h3 style=" font-size: 20px;">Keeping that in mind, we, the members of <strong>RoboTech Club</strong> have actively worked on a lot of projects. Catch a glimpse of few of our projects below:</h3></p></center>
 
