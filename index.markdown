@@ -74,4 +74,4 @@ layout: page
 <br>
 <p style="text-align: left;">Robotech Club welcomes people from across the scientific society for talking to us if you think your research can you a helping robot.
 
-We can help you with automation and artificial intelligence to reduce human labour in your laboratory. <a href="{{site.baseurl}} Contact.html">Contact us</a> today to explore the possibilities.</p>
+We can help you with automation and artificial intelligence to reduce human labour in your laboratory. Contact us today to explore the possibilities.</p>
