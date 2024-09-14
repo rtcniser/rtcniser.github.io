@@ -1,49 +1,102 @@
 ---
-
-title: Yantriki
+permalink: /team/
 layout: page
-permalink: /yantriki/
-
+title: Team
 ---
+
 <hr>
-<style>
-    @media (max-width: 768px) {
-        img {
-            height: 200px;
-            width: 100%
-            margin: 1px 1px 1px 1px;
-        }
-        .niser {
-            height: 350px;
-            width: 400px;
-        }
-    }
-    </style>
 <br>
+<center><p><h4 style="color: gray; font-size: 30px; font-family: comic;">"A strong organisation needs an even stronger community to support it."</h4></p></center> 
+
+<center><p><h4 style="font-style: italic; font-size: 22px;">Here is the list of our dedicated team members:</h4></p></center>
 <br>
-<img class="okay" src="/images/Yantriki2-1024x428.png.webp" height="300" width="2000" style="border: 5px solid black; background-color: #F5F5F5;
-" />
+<hr>
+
 <br>
+
+
 <br>
-We present to you an inter-college robotics and technology magazine for nationwide yearly publication. Send your entries in the form of Project blogs/research articles/tutorials or geek discussions.
+<img float="left" style="border-radius: 100px; border: solid 5px black; margin-right: 30px;" align=left src="/images/subhankar.webp" height= "300" width= "300">
 <br>
-<br>
-<center>
-<button style="background-color: #00BFFF; padding: 15px 15px 15px 15px; border-radius: 5px 5px 5px 5px;">Registeration Form - Closed</button>
+<p style="font-weight: bold; font-size: xx-large;"><u>Dr. Subhankar Mishra</u></p>
+<p>His visionary leadership inspires creativity and innovation, propelling the club members to push boundaries and excel in their projects. As <strong><em>Faculty-In-Charge</em></strong> Mr. Subhankar Mishra cultivates a spirit of collaboration, empowering students to work together seamlessly towards their shared goals.</p>
 <br>
 <br>
 <br>
-<iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" src="https://heyzine.com/flip-book/cf0bac2e33.html" style="border: 1px solid lightgray; width: 100%; height: 600px;"></iframe>
-<br>
-</center>
+
 <br>
 <br>
-<h3><em>Brought to you by:</em>
-<center>
+
+<p class="headings">Advisors:</p>
+<hr>
 <br>
-<img class="niser" src="/images/niser.webp" height="400" width="400">
+<div class="list-elements">
+<ul>
+<li>Jyothish Kumar J. (Ex-Club Head)</li>
+<li>Shriman Keshri</li>
+<li>Sourav Mahto</li>
+<li>Oomen P. Jose (Ex-Club Head)</li>
+</ul>
+</div>
+
 <br>
+<p class="headings">Current Members:</p>
+<hr>
 <br>
+<div class="list-elements">
+<ul>
+<li>Girija Shankar Ray (Club Head)</li>
+<li>Pritipriya Dasbehera</li>
+<li>Aaditya Vikram Saraf</li>
+<li>Sandipan Samanta</li>
+<li>Abhishekh Singh (Co-ordinator, Yantriki 24)</li>
+<li>Vishnu Santosh Kumar (Co-ordinator, Hackduino 23)</li>
+<li>Karan Kumar Sahoo</li>
+<li>Aditya Pravin Kamble</li>
+<li>Abhishek</li>
+<li>Prasad Murmu</li>
+<li>Sanat Kumar Behera</li>
+<li>Vishal Meena</li>
+<li>Gayatri P.</li>
+<li>Shibashis Divyajyoti (Co-ordinator, Hackduino 24)</li>
+<li>Soumya Prakash Behera</li>
+<li>Suraj Pradhan</li>
+<li>Suraj Kumar Behera</li>
+</ul>
+</div>
+
 <br>
-<center>
-</center></center></h3>
+<p class="headings">Past Members:</p>
+<hr>
+<br>
+<div class="list-elements">
+<ul>
+<li>Aritra Mukhopadhyay</li>
+<li>Vasanth Kashyap</li>
+<li>Sarin C. Jacob</li>
+<li>Sreehari C.</li>
+<li>Ajay Krishna A.</li>
+<li>Yashaswini Gupta</li>
+<li>Krishna Kant Parida</li>
+<li>Manabputra (Ex-Club Head)</li>
+<li>Jyotirmoy Shivottam</li>
+<li>Nitesh Patel</li>
+<li>Debankit Priyadarshi</li>
+<li>Devansh Sharma</li>
+<li>Abhinav Gupta</li>
+</ul>
+</div>
+
+<br>
+<p style="font-size: xx-large; font-family: comic">
+Website Managers:</p>
+<hr>
+<br>
+<p style="font-size: 18px;"><em>Please contact us for any discrepancies, errors or empty links in the website. We will correct it in a jiffy!!!</em></p>
+<br>
+<ul>
+<li><h4>Aditya Mridul (Chief Editor)<a class="u-email" href="mailto:aditya.mridul@niser.ac.in"><img align=right src="/images/email-logo-png-gmail.png"  height="25" width="25"></a>
+<a href="https://www.linkedin.com/in/aditya-mridul-069646288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img align=right src="/images/link.webp" height="25" width="25"></a></h4></li>
+
+<li><h4>Abhinav Raj (Chief Editor)<a class="u-email" href="mailto:abhinav.raj@niser.ac.in"><img align=right src="/images/email-logo-png-gmail.png"  height="25" width="25"></a>
+<a href="https://www.linkedin.com/in/abhinav-raj-25a3692a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img align=right src="/images/link.webp" height="25" width="25"></a></h4></li>
