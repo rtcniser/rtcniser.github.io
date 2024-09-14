@@ -6,7 +6,7 @@ title: Team
 
 <hr>
 <br>
-<center><p><h4 style="color: gray; font-style: italic; font-size: 30px; font-family: cursive;">"A strong organisation needs an even stronger community to support it."</h4></p></center> 
+<center><p><h4 style="color: gray; font-size: 30px; font-family: comic;">"A strong organisation needs an even stronger community to support it."</h4></p></center> 
 
 <center><p><h4 style="font-style: italic; font-size: 22px;">Here is the list of our dedicated team members:</h4></p></center>
 <br>
@@ -23,7 +23,6 @@ title: Team
 <br>
 <br>
 <br>
-<hr>
 
 <br>
 <br>
@@ -89,7 +88,7 @@ title: Team
 </div>
 
 <br>
-<p style="font-size: xx-large; font-family: cursive">
+<p style="font-size: xx-large; font-family: comic">
 Website Managers:</p>
 <hr>
 <br>
