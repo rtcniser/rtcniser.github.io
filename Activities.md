@@ -136,12 +136,12 @@ permalink: /activities/
     <div class="item">
         <h3 style="font-weight: bold; text-decoration: underline;">Scorpion v0.1</h3>
         <p>"Scorpion" is the next generation of AMaR, designed to fit into everyday campus life. The bot minds it's own business and does the task it's assigned autonomously.</p>
-        &nbsp; &nbsp; &nbsp; &nbsp;<button style="border-radius: 5px; background-color: hotpink; color: white; padding: 8px 16px; cursor: pointer;">KNOW MORE</button>
+        &nbsp; &nbsp; &nbsp; &nbsp;<a href=" {{ '/subpages/scorpion/' }} "><button style="border-radius: 5px; background-color: hotpink; color: white; padding: 8px 16px; cursor: pointer;">KNOW MORE</button></a>
     </div>
     <div class="item">
         <h3 style="font-weight: bold; text-decoration: underline;">Door Darshan</h3>
         <p>This is an IOT Powered Smart Access Control System developed for our lab. It is especially handy in the current pandemic situation.</p><br><br><br><br>
-        &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://rtcniser.github.io/Blynk-IoT-Blogs/2021/12/08/Blynk-IOT.html"><button style="border-radius: 5px; background-color: hotpink; color: white; padding: 8px 16px; cursor: pointer;">KNOW MORE</button></a>
+        &nbsp; &nbsp; &nbsp; &nbsp;<button style="border-radius: 5px; background-color: hotpink; color: white; padding: 8px 16px; cursor: pointer;">KNOW MORE</button>
   </div>
   </div>
 </div>
