@@ -3,6 +3,7 @@ layout: page
 title: Activities
 permalink: /activities/
 ---
+<div class="veil">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -102,13 +103,13 @@ permalink: /activities/
 <hr>
 <br>
 
-<center><h3 style="color: gray; font-size: 30px; font-family: comic;">"We strongly believe that the only necessity in life is <strong>consistency.</strong>"</h3></center> 
+<center><h3 style="color: gray; font-style: italic; font-size: 30px; font-family: comic;">"We strongly believe that the only necessity in life is <strong>consistency.</strong>"</h3></center> 
 
-<center><p><h3 style=" font-size: 20px;">Keeping that in mind, we, the members of <strong>RoboTech Club</strong> have actively worked on a lot of projects. Catch a glimpse of few of our projects below:</h3></p></center>
+<center><p><h3 style=" font-size: 20px;">Keeping that in mind, we, the members of <strong>RoboTech Club</strong> are actively working on a lot of projects. Catch a glimpse of few of our projects below. Prepare to be amazed!!!</h3></p></center>
 
 <br>
 
-<p style="font-size: xx-large; font-family: comic; ">Recent Projects:</p>
+<p style="font-size: xx-large; font-family: MyCustomFont; ">Hosted Projects: </p>
 <hr>
 <p><h3 style="font-size: 22px;">Listed below are the projects on which we have been working in the recent times. To know more about them, click the buttons below:</h3></p>
 <br>
@@ -131,31 +132,15 @@ permalink: /activities/
     <p>A "3 Axis Remote Controlled Robotic Camera Arm". It is designed for remote surveillance.</p><br><br>
     &nbsp; &nbsp; &nbsp; &nbsp;<a href=" {{ '/subpages/rsms/' }} "><button style="border-radius: 5px; background-color: hotpink; color: white; padding: 8px 16px; cursor: pointer;">KNOW MORE</button></a>
   </div>
-  <div class="item">
-    <h3 style="font-weight: bold; text-decoration: underline;">Scorpion v0.1</h3>
-    <p>"Scorpion" is the next generation of AMaR, designed to fit into everyday campus life. The bot minds it's own business and does the task it's assigned autonomously.</p>
-    &nbsp; &nbsp; &nbsp; &nbsp;<a href=" {{ '/subpages/scorpion/' }}"><button style="border-radius: 5px; background-color: hotpink; color: white; padding: 8px 16px; cursor: pointer;">KNOW MORE</button></a>
-  </div>
-  <div class="item">
-    <h3 style="font-weight: bold; text-decoration: underline;">Smart Access Control System</h3>
-    <p>This is an IOT Powered Smart Access Control System developed for our lab. It is especially handy in the current pandemic situation.</p>
-    <br><br>
-    &nbsp; &nbsp; &nbsp; &nbsp;<button style="border-radius: 5px; background-color: hotpink; color: white; padding: 8px 16px; cursor: pointer;">KNOW MORE</button>
-  </div>
-  <div class="item">
-    <h3 style="font-weight: bold; text-decoration: underline;">NIRMAL</h3>
-    <p> "Smart Handsfree Sanitizer Dispenser" is an IOT powered device built with the intension of making it easy to manage big number of sanitizer stations across  institutes..</p><br>
-    &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://niser.ac.in/~smishra/project/nirmal/"><button style="border-radius: 5px; background-color: hotpink; color: white; padding: 8px 16px; cursor: pointer;">KNOW MORE</button></a>
-  </div>
   <div class="center-container">
     <div class="item">
-        <h3 style="font-weight: bold; text-decoration: underline;">AMaR</h3>
-        <p>"AMaR or Autonomous Multi-utility Rover", is a affordable Robotic System, that can substitute human interference in potentially hazardous scenarios. It can prove to be a blessing in the current COVID-19 pandemic.</p>
+        <h3 style="font-weight: bold; text-decoration: underline;">Scorpion v0.1</h3>
+        <p>"Scorpion" is the next generation of AMaR, designed to fit into everyday campus life. The bot minds it's own business and does the task it's assigned autonomously.</p>
         &nbsp; &nbsp; &nbsp; &nbsp;<button style="border-radius: 5px; background-color: hotpink; color: white; padding: 8px 16px; cursor: pointer;">KNOW MORE</button>
     </div>
     <div class="item">
-        <h3 style="font-weight: bold; text-decoration: underline;">Blynk IoT Tutorial</h3>
-        <p>A blog on getting started with Blynk IoT Platform. The blog aims at a very basic IoT project while teaching the essentials through the process.</p><br><br><br><br>
+        <h3 style="font-weight: bold; text-decoration: underline;">Door Darshan</h3>
+        <p>This is an IOT Powered Smart Access Control System developed for our lab. It is especially handy in the current pandemic situation.</p><br><br><br><br>
         &nbsp; &nbsp; &nbsp; &nbsp;<a href="https://rtcniser.github.io/Blynk-IoT-Blogs/2021/12/08/Blynk-IOT.html"><button style="border-radius: 5px; background-color: hotpink; color: white; padding: 8px 16px; cursor: pointer;">KNOW MORE</button></a>
   </div>
   </div>
@@ -163,11 +148,11 @@ permalink: /activities/
 </div>
 <br>
 <br>
-<p style="font-size: xx-large; font-family: comic">Older Projects:</p>
+<p style="font-size: xx-large; font-family: MyCustomFont; ">Older Projects:</p>
 
 <hr>
 <br>
-<p><h3 style="font-size: 22px;">And here are our older projects which speak volumes about our work. Prepare to be amazed!!!</h3></p>
+<p><h3 style="font-size: 22px;">And here are our older projects which we currently don't host in our lab but they speak volumes about our past work.</h3></p>
 <br>
 
 
@@ -247,6 +232,21 @@ permalink: /activities/
   </div>
 <div class="contain">
   <div class="it">
+    <img src="/images/amar.png" alt="Image 1">
+    <div>
+      <h2 style="font-weight: bold; text-decoration: underline;">AMaR</h2>
+      <p>"AMaR or Autonomous Multi-utility Rover", is a affordable Robotic System, that can substitute human interference in potentially hazardous scenarios. It can prove to be a blessing in the current COVID-19 pandemic.</p>
+    </div>
+  </div>
+  <div class="it">
+    <img src="/images/aslinirmal.jpg" alt="Image 2">
+    <div>
+      <h2 style="font-weight: bold; text-decoration: underline;">NIRMAL</h2>
+      <p>"Smart Handsfree Sanitizer Dispenser" is an IOT powered device built with the intension of making it easy to manage big number of sanitizer stations across institutes..</p>
+    </div>
+  </div>
+<div class="contain">
+  <div class="it">
     <img src="/images/smart.jpg" alt="Image 1">
     <div>
       <h2 style="font-weight: bold; text-decoration: underline;">Smart Mirror</h2>
@@ -291,7 +291,7 @@ permalink: /activities/
     </div>
   </div>
 </div>
-
+</div>
 </div>
 
 
