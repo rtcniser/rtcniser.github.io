@@ -219,14 +219,14 @@ permalink: /activities/
   <div class="it">
     <img src="/images/pragyan.jpg" alt="Image 1">
     <div>
-      <h2 style="font-weight: bold; text-decoration: underline;">Pragyan Model (Chandrayaan - II Rover)</h2>
+      <h2 style="font-weight: bold; text-decoration: underline;">PRAGYAN MODEL (CHANDRAYAAN-II) ROVER</h2>
       <p>Made, in collaboration with the School of Earth and Planetary Sciences, for an event on the historic occasion of Chandrayaan – II Moon Landing.<br>The model was put on display, during a series of talks and discussions over the Moon Landing Mission, on September 07, 2019. Made, in collaboration with the School of Earth and Planetary Sciences, for the historic Chandrayaan – II Moon Landing.</p>
     </div>
   </div>
   <div class="it">
     <img src="/images/robsket.jpg" alt="Image 2">
     <div>
-      <h2 style="font-weight: bold; text-decoration: underline;">Robotic Sketcher</h2>
+      <h2 style="font-weight: bold; text-decoration: underline;">ROBOTIC SKETCHER</h2>
       <p>This robot can sketch images on a sheet of paper, using a pen, mounted on a twin-axis system, typical of CNC mechines. The drawing system is controlled using an Arduino UNO. In the near future, we intend to couple this sketching system, with an image processing unit and make it a robotic Picasso!</p>
     </div>
   </div>
@@ -249,7 +249,7 @@ permalink: /activities/
   <div class="it">
     <img src="/images/smart.jpg" alt="Image 1">
     <div>
-      <h2 style="font-weight: bold; text-decoration: underline;">Smart Mirror</h2>
+      <h2 style="font-weight: bold; text-decoration: underline;">SMART MIRROR</h2>
       <p>Based on a Raspberry Pi 3b, this is a Smart Mirror (largely an implementation of MichMich’s MagicMirror 2.0), which also features Google Assistant, hosts our ownCloud, and is capable of casting phone or PC displays. All other features aside, it compliments you everytime, you look at it. Well, who doesn’t like compliments!</p>
     </div>
   </div>
@@ -264,7 +264,7 @@ permalink: /activities/
   <div class="it">
     <img src="/images/radio.jpg" alt="Image 1">
     <div>
-      <h2 style="font-weight: bold; text-decoration: underline;">Radio Telescope</h2>
+      <h2 style="font-weight: bold; text-decoration: underline;">RADIO TELESCOPE</h2>
       <p>This project is the result of a collaboration with the NISER Astronomy Club. It consists of a basic setup, that can detect radio waves, coming from target celestial body, with a maximum frequency of 22 KHz. The main component is a Satellite Dish and a Satellite Finder, used to measure intensity of waves falling on it. At the moment, we can detect Solar Radiation, at an intensity of about 8 dB.Our main objective, with this project, is educational – to learn the analysis of astrophysical data and to raise awareness among people, about radio astronomy.</p>
     </div>
   </div>
