@@ -1,8 +1,6 @@
 ---
 layout: page
 ---
-
-
 <center><img src="/images/logo.png" height="200" width= "200"></center>
 
 <h1 style="font-family: Times New Roman; text-align: center"><font size="32">RoboTech Club</font></h1>
@@ -11,8 +9,9 @@ layout: page
 <h4 style="text-align: center;"> A student community aimed at propagating the skills and knowledge required to better utilize the power of present day technology in various feats of science.</h4>
 
 <br>
+<div class="veil">
 <br>
-<h2> About Us: </h2>
+<h2> Who Are We: </h2>
 <hr>
 <br>
 <br>
@@ -22,20 +21,20 @@ layout: page
 <br>
 <br>
 <br>
-<center><img src="/images/arm.jpg"></center>
+
+<center><img src="/images/arm.jpg" width="100%" height="25%" style="border: solid 4px white; border-radius: 40px 40px 40px 40px;"></center>
 <br>
 
-<h2> Our Vision:</h2>
+<h2> Our Vision: </h2>
 
 <hr style="color: darkgoldenrod">
 <br>
 <br>
-<p style="text-align: center;"><strong>This club was set up as a means to serve the hobbies of a group of robotics enthusiasts. The club has grown into a much bigger endeavour, with more than 25 active club members as of 2022.</strong></p>
+<p style="text-align: center;"><strong>This club was set up as a means to serve the hobbies of a group of robotics enthusiasts. The club has grown into a much bigger endeavour, with more than 25 dynamic members. We develop ambitious robotics projects, host a national-level magazine and competition, and actively engage in disseminating technical knowledge to our fellow NISERites!</strong></p>
 
-<p style="text-align: center;">We seek to provide the students of NISER with the opportunity to turn their novel ideas into reality. As a community, we empower each other with skills and knowledge about present day technology such as Developement Board Programming Language, Image Processing, IOT etc. We are currently working on a one year schedule for all club members with the hopes of enabling everyone with the required knowledge of using technology in most efficient way for functioning in various feats of our academic and professional career.</p>
+<p style="text-align: center;">We seek to provide the students of NISER with the opportunity to turn their novel ideas into reality. As a community, we empower each other with skills and knowledge about present day technology such as Development Board Programming, Machine Learning & Image Processing, IOT, 3D Modelling & 3D Printing, Simulations, etc. We are currently working on a one year schedule for all club members with the hopes of enabling everyone with the required knowledge of using technology in most efficient way for functioning in various feats of our academic and professional career.</p>
 
 <br>
-
 <center>
 <hr>
 <br>
@@ -63,7 +62,7 @@ layout: page
 
 <h2> What's new? </h2>
 <hr><br>
-<p>NISER has always been a center for activity and progress. Things keep happening here all the year around. From Debating Clubs to Cleanliness Drives...just name it...we have it all!!!
+<p>RoboTech Club has always been a center for activity and progress. Things keep happening here all the year around.
 <br>
 <br>
 <br>
@@ -75,3 +74,4 @@ layout: page
 <p style="text-align: left;">Robotech Club welcomes people from across the scientific society for talking to us if you think your research needs a helping robot.
 
 We can help you with automation and artificial intelligence to reduce human labour in your laboratory. Contact us today to explore the possibilities.</p>
+<br>
