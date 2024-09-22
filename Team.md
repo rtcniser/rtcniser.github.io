@@ -5,6 +5,7 @@ title: Team
 ---
 
 <hr>
+<div class="veil">
 <br>
 <center><p><h4 style="color: gray; font-size: 30px; font-family: comic;">"A strong organisation needs an even stronger community to support it."</h4></p></center> 
 
@@ -18,28 +19,16 @@ title: Team
 <br>
 <img float="left" style="border-radius: 100px; border: solid 5px black; margin-right: 30px;" align=left src="/images/subhankar.webp" height= "300" width= "300">
 <br>
-<p style="font-weight: bold; font-size: xx-large;"><u>Dr. Subhankar Mishra</u></p>
-<p>His visionary leadership inspires creativity and innovation, propelling the club members to push boundaries and excel in their projects. As <strong><em>Faculty-In-Charge</em></strong> Mr. Subhankar Mishra cultivates a spirit of collaboration, empowering students to work together seamlessly towards their shared goals.</p>
+<p style="font-weight: bold; font-size: xx-large;">Dr. Subhankar Mishra</p>
+<p>His visionary leadership inspires creativity and innovation, propelling the club members to push boundaries and excel in their projects. As <strong><em>Faculty-In-Charge</em></strong> Mr. Subhankar Mishra cultivates a spirit of collaboration, empowering students to work together seamlessly towards their shared goals.
+<br>
+<br>
+<center><a href="https://smlab.niser.ac.in/"><button style="border-radius: 5px; color: black; padding: 8px 16px; cursor: pointer;">Visit Website</button></a></center>
+</p>
 <br>
 <br>
 <br>
 
-<br>
-<br>
-
-<p class="headings">Advisors:</p>
-<hr>
-<br>
-<div class="list-elements">
-<ul>
-<li>Jyothish Kumar J. (Ex-Club Head)</li>
-<li>Shriman Keshri</li>
-<li>Sourav Mahto</li>
-<li>Oomen P. Jose (Ex-Club Head)</li>
-</ul>
-</div>
-
-<br>
 <p class="headings">Current Members:</p>
 <hr>
 <br>
@@ -71,6 +60,10 @@ title: Team
 <br>
 <div class="list-elements">
 <ul>
+<li>Jyothish Kumar J. (Ex-Club Head)</li>
+<li>Shriman Keshri</li>
+<li>Sourav Mahto</li>
+<li>Oomen P. Jose (Ex-Club Head)</li>
 <li>Aritra Mukhopadhyay</li>
 <li>Vasanth Kashyap</li>
 <li>Sarin C. Jacob</li>
