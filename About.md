@@ -4,8 +4,9 @@ permalink: /admin/
 title: About Us
 ---
 <hr>
+<div class="veil">
 <br>
-<p style="font-weight: 600;text-align: left;">
+<p> 
 We are the Robotics and Technology Club of NISER, Bhubaneswar. We are a student-run body that functions under Dr. Subhankar Mishra’s Lab, School of Computer Sciences, NISER.
 
 
@@ -18,21 +19,21 @@ Our objective is to learn and propagate the knowledge about current day technolo
 <br>
 <br>
 
-<img src="/images/About1.jpg" align="left" height="500px" width="100%" style="margin:0 0 40px 0" >
-
-<h4 style="font-size: 24px; color: grey; margin-bottom: 20px;">The Story of</h4>
-
-<h3 style="font-size: 35px; color: red;">RoboTech Club, NISER</h3>
-<p style="font-weight: 600px;">This student-run club was established in 2015, along the lines of similar clubs in the IITs and various engineering colleges. We have recently starting functioning under Dr. Subhankar Mishra’s Lab in the School of Computer Sciences, NISER and we work with cutting edge robotic technologies,  equipment and  modern tools such as 3D Printers, various micro-controllers, machining toolkits and numerous other instruments</p>
-<p style="font-weight: 600px;">Initially set up as a means to serve the hobbies of a group of robotics enthusiasts, the club has grown into a much bigger endeavor, with more than 100 club members. We seek to provide the students of NISER with the opportunity to turn their novel ideas into reality. Most of our current projects are direct products of the handwork of such innovative students. We have worked on several fun and useful projects, listed in the projects page. We also love to do competitive robotics and participate in various Robotics Competitions, held around the country. We have a number of projects dedicated to those competitions. We have also collaborated with the NISER Astronomy Club (NAC) and the School of Earth and Planetary Sciences (SEPS) in our ventures.</p>
+<img src="/images/About1.jpg" height="25%" width="100%" style="border: solid 4px white; border-radius: 40px 40px 40px 40px;">
 <br>
 <br>
-<p style="text-align: center; color: #ffffff;font-family: aldrich;font-size:35px; text-decoration: underline;">Gallery of our Domain</p>
 
+<h4 style="font-size: 24px; color: grey; margin-bottom: 20px; font-family: MyCustomFont">The Story of</h4>
 
+<h3 style="font-size: 35px; color: darkgoldenrod; font-family: MyCustomFont; font-weight: bolder;">RoboTech Club, NISER</h3>
+<p style="font-weight: 600px;">This student-run club was established in 2015, along the lines of similar clubs in the IITs and various engineering colleges. In 2019, we started functioning under Dr. Subhankar Mishra’s Lab in the School of Computer Sciences, NISER and we work with cutting edge robotic technologies,  equipment and  modern tools such as 3D Printers, various micro-controllers, machining toolkits and numerous other instruments</p>
+<p style="font-weight: 600px;">Initially set up as a means to serve the hobbies of a group of robotics enthusiasts, the club has grown into a much bigger endeavor with numerous achievements, producing highly skilled alumni. We seek to provide the students of NISER with the opportunity to turn their novel ideas into reality. Most of our current projects are direct products of the handwork of such innovative students. We have worked on several fun and useful projects, listed in the projects page. We also love to do competitive robotics and participate in various Robotics Competitions, held around the country. We have a number of projects dedicated to those competitions. We have also collaborated with different clubs and departments of NISER in our ventures.</p>
+<br>
+<br>
+<span style="color: #ffffff;font-family: MyCustomFont;font-size:35px;">Gallery of our Domain:</span>
+<hr>
+<br>
 
-<p style="color: #ffffff;font-family: Tahoma, Sans-serif;text-align: center;font-size: 25px;">A glimpse at our projects and resources
-</p>
 <br>
 <head>
   <meta charset="UTF-8">
