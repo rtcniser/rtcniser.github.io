@@ -19,7 +19,7 @@ The RoboTech club harbours 3D printers (FDM, SLA) and Laser Cutter in the lab fo
 <br>
 <br>
 <center>
-<iframe src="https://forms.gle/Z2BfhucCFttkA842A" style="border: 2px solid #000000;" width="100%" height="1575pxz" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<a href="https://forms.gle/Z2BfhucCFttkA842A"><button style="font-size: 18px; background-color: hotpink; color: white; border: solid 2px white; border-radius: 15px 15px 15px 15px; padding: 15px 15px 15px 15px; cursor: pointer;">Click here to fill the form!!!</button></a>
 </center>
 
 </div>
