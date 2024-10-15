@@ -3,13 +3,37 @@ layout: page
 title: Hackduino
 permalink: /hackduino/
 ---
+<style>
+    .imgarea{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-around;
+        align-items: stretch;
+    }
+    .imgcont {
+        width: 45%;
+        height: 300px;
+    }
+    .logo{
+        height: 250px;
+        width: 250px;
+        border-radius: 50%;
+    }
+    .text {
+        width: 100%;
+        font-family: MyCustomFont
+    }
+
+</style>
 <hr>
 <br>
 <center>
     <br>
     <p style="font-size: 20px"><em>The annual hackathon style robotics event brought to you by the RoboTech Club, NISER. We look out for minds with perspective and inventive ideas that can be applied through automation to deal with real world problems.</em></p>
     <br>
-    <h2 style="font-family: comic; text-decoration: underline;">Previous Editions:</h2>
+    <br>
+    <h2 style="font-family: MyCustomFont; text-decoration: underline;">Previous Editions:</h2>
     <br>    
     <h3>2023:</h3>
     <a href="{{ '/subpages/hackduino3/' | relative_url }}">
@@ -23,3 +47,28 @@ permalink: /hackduino/
     <h3>2021:</h3>
     <a href= "https://hackduino.github.io/">
     <img src="/images/hack-1-1024x195.png.webp" width="1000" height="130" style="border-radius: 500px; transition: background-color 0.3s, transform 0.3s;" onmouseover="this.style.backgroundColor='white'; this.style.transform='scale(1.05)'" onmouseout="this.style.backgroundColor='white'; this.style.transform='scale(1)'" ></a>
+</center>
+<br>
+<br>
+<br>
+<h3>Powered By:</h3>
+<br>
+<br>
+<center>
+<div class="imgarea">
+    <div class="imgcont">
+    <img src="/images/smlab.png" class="logo">
+    <div class="text">
+    <br>
+    <span>Subhankar Mishra LAB.</span>
+    </div>
+    </div>
+    <div class="imgcont">
+    <img src="/images/niser.webp" class="logo">
+    <div class="text">
+    <br>
+    <span>National Institute for Science Education and Research, Bhubaneswar.</span>
+    </div>
+    </div>
+</div>
+</center>
