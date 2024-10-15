@@ -5,46 +5,59 @@ layout: page
 permalink: /yantriki/
 
 ---
-<hr>
 <style>
-    @media (max-width: 768px) {
-        img {
-            height: 200px;
-            width: 100%
-            margin: 1px 1px 1px 1px;
-        }
-        .niser {
-            height: 350px;
-            width: 100%
-        }
+    .imgarea{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-around;
+        align-items: stretch;
     }
-    </style>
+    .imgcont {
+        width: 45%;
+        height: 300px;
+    }
+    .logo{
+        height: 250px;
+        width: 250px;
+        border-radius: 50%;
+    }
+    .text {
+        width: 100%;
+        font-family: MyCustomFont
+    }
+</style>
+<hr>
 <br>
-<br>
-<img class="okay" src="/images/Yantriki2-1024x428.png.webp" height="300" width="2000" style="border: 5px solid black; background-color: #F5F5F5;
-" />
-<br>
-<br>
-We present to you an inter-college robotics and technology magazine for nationwide yearly publication. Send your entries in the form of Project blogs/research articles/tutorials or geek discussions.
-<br>
+<p>Yantriki is our inter-college robotics and technology magazine for nationwide yearly publication. College students all across India send their entries in the form of project blogs/ research articles/ tutorials or geek discussions. </p>
 <br>
 <center>
-<button style="background-color: #00BFFF; padding: 15px 15px 15px 15px; border-radius: 5px 5px 5px 5px;">Registeration Form - Closed</button>
+<h2 style="font-family: MyCustomFont; text-decoration: underline;">Previous Editions:</h2>
 <br>
+<h3>Edition 1:</h3>
+<a href="{{ '/subpages/yantrikied1/' | relative_url }}">
+<img src="/images/Yantriki2-1024x428.png.webp" width="1000" height="290px" style=" object-fit: fill; border-radius: 500px; transition: background-color 0.3s, transform 0.3s;" onmouseover="this.style.backgroundColor='black'; this.style.transform='scale(1.05)'" onmouseout="this.style.backgroundColor='white'; this.style.transform='scale(1)'"></a>
 <br>
-<br>
-<iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" src="https://heyzine.com/flip-book/cf0bac2e33.html" style="border: 1px solid lightgray; width: 100%; height: 600px;"></iframe>
 <br>
 </center>
-<br>
-<br>
-<h3><em>Brought to you by:</em>
-<center>
-<br>
-<img class="niser" src="/images/niser.webp" height="400" width="400">
-<br>
+<h3>Powered By:</h3>
 <br>
 <br>
 <center>
-</center></center></h3>
-
+<div class="imgarea">
+    <div class="imgcont">
+    <img src="/images/smlab.png" class="logo">
+    <div class="text">
+    <br>
+    <span>Subhankar Mishra LAB.</span>
+    </div>
+    </div>
+    <div class="imgcont">
+    <img src="/images/niser.webp" class="logo">
+    <div class="text">
+    <br>
+    <span>National Institute for Science Education and Research, Bhubaneswar.</span>
+    </div>
+    </div>
+</div>
+</center>
