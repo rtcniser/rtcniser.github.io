@@ -49,14 +49,14 @@ permalink: /yantriki/
     <img src="/images/smlab.png" class="logo">
     <div class="text">
     <br>
-    <span>Subhankar Mishra LAB.</span>
+    <span>Subhankar Mishra LAB, NISER, Bhubaneswar</span>
     </div>
     </div>
     <div class="imgcont">
     <img src="/images/niser.webp" class="logo">
     <div class="text">
     <br>
-    <span>National Institute for Science Education and Research, Bhubaneswar.</span>
+    <span>National Institute for Science Education and Research, Bhubaneswar</span>
     </div>
     </div>
 </div>
