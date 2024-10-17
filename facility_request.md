@@ -32,7 +32,7 @@ NISER Members can request 3D printing for their academic requirements by filling
 <span class="adminheading; font-size: 24px;">Calender</span>
 <hr>
 <br>
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Asia%2FKolkata&bgcolor=%23ffffff&src=cnRjQG5pc2VyLmFjLmlu&color=%233F51B5" style="border-width:0" width="700" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Asia%2FKolkata&bgcolor=%23ffffff&src=cnRjQG5pc2VyLmFjLmlu&color=%233F51B5" style="border-width:0" width="720" height="600" frameborder="0" scrolling="no"></iframe>
 <br>
 <br>
 
