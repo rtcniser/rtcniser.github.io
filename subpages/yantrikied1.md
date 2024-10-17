@@ -18,6 +18,6 @@ permalink: /subpages/yantrikied1/
 <br>
 <p class="headings">Yantriki Team:</p>
 <center>
-  <p><h4 style="font-style: italic; font-size: 22px;">Here is the team from different fields of science!</h4></p>
-  <img src="/images/yantriki_team.jpg" height="25%" width="100%" style="border: solid 4px white; border-radius: 40px 40px 40px 40px;">
+  <p><h4 style="font-style: italic; font-size: 22px;">Here is our team which made it all possible!</h4></p>
+  <img src="/images/yantriki_team.JPG" height="25%" width="100%" style="border: solid 4px white; border-radius: 40px 40px 40px 40px;">
 </center>
