@@ -29,7 +29,7 @@ permalink: /yantriki/
 </style>
 <hr>
 <br>
-<p>Yantriki is our inter-college robotics and technology magazine for nationwide yearly publication. College students all across India send their entries in the form of project blogs/ research articles/ tutorials or geek discussions. </p>
+<p>Yantriki is our inter-college robotics and technology magazine for nationwide yearly publication. College students all across India send their entries in the form of project blogs, research articles, tutorials or academic discussions in robotics. </p>
 <br>
 <center>
 <h2 style="font-family: MyCustomFont; text-decoration: underline;">Previous Editions:</h2>
