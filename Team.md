@@ -9,24 +9,9 @@ title: Team
 <br>
 <center><p><h4 style="color: gray; font-size: 30px; font-family: comic;">"A strong organisation needs an even stronger community to support it."</h4></p></center> 
 
-<center><p><h4 style="font-style: italic; font-size: 22px;">Here is the list of our dedicated team members:</h4></p></center>
+<center><p><h4 style="font-style: italic; font-size: 22px;">Here is the list of our dedicated team members</h4></p></center>
 <br>
 <hr>
-
-<br>
-
-
-<br>
-<img float="left" style="border-radius: 100px; border: solid 5px black; margin-right: 30px;" align=left src="/images/subhankar.webp" height= "300" width= "300">
-<br>
-<p style="font-weight: bold; font-size: xx-large;">Dr. Subhankar Mishra</p>
-<p>His visionary leadership inspires creativity and innovation, propelling the club members to push boundaries and excel in their projects. As <strong><em>Faculty-In-Charge</em></strong> Mr. Subhankar Mishra cultivates a spirit of collaboration, empowering students to work together seamlessly towards their shared goals.
-<br>
-<br>
-<center><a href="https://smlab.niser.ac.in/"><button style="border-radius: 5px; color: black; padding: 8px 16px; cursor: pointer;">Visit Website</button></a></center>
-</p>
-<br>
-<br>
 <br>
 
 <p class="headings">Current Members:</p>
@@ -53,9 +38,23 @@ title: Team
 <li>Suraj Kumar Behera</li>
 </ul>
 </div>
-
 <br>
-<p class="headings">Past Members:</p>
+<br>
+<p class="headings">Faculty In-Charge:</p>
+<hr>
+<br>
+<img float="left" style="border-radius: 100px; border: solid 5px black; margin-right: 30px;" align=left src="/images/subhankar.webp" height= "300" width= "300">
+<br>
+<p style="font-weight: bold; font-size: xx-large;">Dr. Subhankar Mishra</p>
+<p>His visionary guidance inspires creativity and innovation, propelling the club members to push boundaries and excel in their projects. As <strong><em>Faculty-In-Charge</em></strong> Dr. Subhankar Mishra cultivates a spirit of collaboration, empowering students to work together seamlessly towards their shared goals.
+<br>
+<br>
+<center><a href="https://smlab.niser.ac.in/"><button style="border-radius: 5px; color: black; padding: 8px 16px; cursor: pointer;">Visit Website</button></a></center>
+</p>
+<br>
+<br>
+<br>
+<p class="headings">Past Club Members:</p>
 <hr>
 <br>
 <div class="list-elements">
