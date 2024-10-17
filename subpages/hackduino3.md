@@ -5,15 +5,6 @@ permalink: /subpages/hackduino3/
 ---
 <br>
 <br>
-<br>
-<center>
-<img src="/images/3.0.jpg"  height=600 width=500>
-</center>
-<br>
-
-<center><iframe width="100%" height="315" src="https://www.youtube.com/embed/5hp2gr93Z58" title="Hackduino 3.0 || Hackathon in robotics || SMLab NISER Bhubaneswar || 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
-
-<br>
 
 # **WELCOME to the official website of HACKDUINO 3.0 !**
 
@@ -26,6 +17,16 @@ This year, we want you to brainstorm ideas using the power of robotics to on the
 The most relevant and innovative concepts have the opportunity of actualizing their ideas at Dr. Subhankar Mishra’s Lab through an internship at School of Computer Sciences, NISER Bhubaneswar.
 
 <br>
+<br>
+<center>
+<img src="/images/3.0.jpg"  height=650 width=500>
+</center>
+<br>
+
+<center><iframe width="100%" height="315" src="https://www.youtube.com/embed/5hp2gr93Z58" title="Hackduino 3.0 || Hackathon in robotics || SMLab NISER Bhubaneswar || 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></center>
+
+<br>
+
 <br>
 
 <p class="headings">The Judges Panel:</p>
