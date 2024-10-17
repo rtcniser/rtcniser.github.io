@@ -51,7 +51,7 @@ permalink: /hackduino/
 <br>
 <br>
 <br>
-<h3>Powered By:</h3>
+<h3>Brought To You By:</h3>
 <br>
 <br>
 <center>
@@ -67,7 +67,7 @@ permalink: /hackduino/
     <img src="/images/smlab.png" class="logo">
     <div class="text">
     <br>
-    <span>Subhankar Mishra LAB, NISER, Bhubaneswar</span>
+    <span>Subhankar Mishra LAB, School of Computere Sciences, NISER</span>
     </div>
     </div>
 </div>
