@@ -80,8 +80,7 @@ title: Team
 </div>
 
 <br>
-<p style="font-size: xx-large; font-family: comic">
-Website Managers:</p>
+<p class="headings">Web-Masters:</p>
 <hr>
 <br>
 <p style="font-size: 18px;"><em>Please contact us for any discrepancies, errors or empty links in the website. We will correct it in a jiffy!!!</em></p>
@@ -90,5 +89,5 @@ Website Managers:</p>
 <li><h4>Aditya Mridul (Chief Editor)<a class="u-email" href="mailto:aditya.mridul@niser.ac.in"><img align=right src="/images/email-logo-png-gmail.png"  height="25" width="25"></a>
 <a href="https://www.linkedin.com/in/aditya-mridul-069646288?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img align=right src="/images/link.webp" height="25" width="25"></a></h4></li>
 
-<li><h4>Abhinav Raj (Chief Editor)<a class="u-email" href="mailto:abhinav.raj@niser.ac.in"><img align=right src="/images/email-logo-png-gmail.png"  height="25" width="25"></a>
+<li><h4>Abhinav Raj (Deployment)<a class="u-email" href="mailto:abhinav.raj@niser.ac.in"><img align=right src="/images/email-logo-png-gmail.png"  height="25" width="25"></a>
 <a href="https://www.linkedin.com/in/abhinav-raj-25a3692a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img align=right src="/images/link.webp" height="25" width="25"></a></h4></li>
