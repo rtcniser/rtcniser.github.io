@@ -16,14 +16,7 @@ permalink: /subpages/yantrikied1/
 <iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" src="https://heyzine.com/flip-book/cf0bac2e33.html" style="border: 1px solid lightgray; width: 100%; height: 600px;"></iframe>
 <br>
 <br>
-  
-<p class="headings">The Judges Panel:</p>
 
-|Name|Institute|Position|Expertise|
-|----|---------|--------|---------|
-|Dr. V. Pandu Ranga|Indian Institute of Technology, Bhubaneswar|Associate Professor|Biologically Inspired Robots|
-|Dr. Umesh Chandra Pati|National Institute of Technology, Rourkela|Professor|IOT, Industrial Automation and Instrumenation|
-|Dr. B.B.V.L. Deepak|National Institute of Technology, Rourkela|Assistant Professor|Mechatronics|
 
   
 <p class="headings">Yantriki Team:</p>
