@@ -46,7 +46,7 @@ title: Team
 <img float="left" style="border-radius: 100px; border: solid 5px black; margin-right: 30px;" align=left src="/images/subhankar.webp" height= "300" width= "300">
 <br>
 <p style="font-weight: bold; font-size: xx-large;">Dr. Subhankar Mishra</p>
-<p>His visionary guidance inspires creativity and innovation, propelling the club members to push boundaries and excel in their projects. As <strong><em>Faculty-In-Charge</em></strong> Dr. Subhankar Mishra cultivates a spirit of collaboration, empowering students to work together seamlessly towards their shared goals.
+<p>His visionary guidance inspires creativity and innovation, propelling the club members to push boundaries and excel in their projects. As <strong><em>Faculty-In-Charge</em></strong>, Dr. Subhankar Mishra cultivates a spirit of collaboration, empowering students to work together seamlessly towards their shared goals.
 <br>
 <br>
 <center><a href="https://smlab.niser.ac.in/"><button style="border-radius: 5px; color: black; padding: 8px 16px; cursor: pointer;">Visit Website</button></a></center>
