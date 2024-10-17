@@ -15,6 +15,11 @@ permalink: /subpages/yantrikied1/
 <br>
 <iframe allowfullscreen="allowfullscreen" scrolling="no" class="fp-iframe" src="https://heyzine.com/flip-book/cf0bac2e33.html" style="border: 1px solid lightgray; width: 100%; height: 600px;"></iframe>
 <br>
+|Name|Institute|Position|Expertise|
+|----|---------|--------|---------|
+|Dr. V. Pandu Ranga|Indian Institute of Technology, Bhubaneswar|Associate Professor|Biologically Inspired Robots|
+|Dr. Umesh Chandra Pati|National Institute of Technology, Rourkela|Professor|IOT, Industrial Automation and Instrumenation|
+|Dr. B.B.V.L. Deepak|National Institute of Technology, Rourkela|	Assistant Professor|Mechatronics|
 <br>
 <p class="headings">Yantriki Team:</p>
 <center>
