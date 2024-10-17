@@ -10,7 +10,7 @@ permalink: /facilities/
 <br>
 
 
-The RoboTech club harbours 3D printers (FDM, SLA) and Laser Cutter in the lab for prototyping and fabrication purposes. Our electronics workspace is fully equipped with an oscilloscope, power supply units, soldering and rework stations, and charging stations. We also have a range of tools for solid rework, including an angle grinder, hacksaws, a drilling kit, and customizable wrenches and screwdrivers. Supported by powerful computers and advanced computing setups, we are well-prepared to efficiently carry out a wide variety of projects.
+The RoboTech Club harbours 3D printers (FDM, SLA) and Laser Cutter in the lab for prototyping and fabrication purposes. Our electronics workspace is fully equipped with an oscilloscope, power supply units, soldering and rework stations, and charging stations. We also have a range of tools for solid rework, including an angle grinder, hacksaws, a drilling kit, and customizable wrenches and screwdrivers. Supported by powerful computers and advanced computing setups, we are well-prepared to efficiently carry out a wide variety of projects.
 <br>
 <br>
 <strong>NISER Members can request 3D printing services for their academic requirements by filling out the Google Form below.</strong> All print request are to processed by you, including slicing of the print, setting the print and removal. Prior approval from Dr. Subhankar Mishra is required to be attached in the form for verification. You'll be assigned slots through Google Calender, according to which you can come and set your prints.
