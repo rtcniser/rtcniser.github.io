@@ -25,6 +25,9 @@ This year, we want you to brainstorm ideas using the power of robotics to on the
 
 The most relevant and innovative concepts have the opportunity of actualizing their ideas at Dr. Subhankar Mishra’s Lab through an internship at School of Computer Sciences, NISER Bhubaneswar.
 
+<br>
+<br>
+
 <p class="headings">The Judges Panel:</p>
 
 |Name|Institute|Position|Expertise|
