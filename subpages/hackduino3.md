@@ -15,30 +15,11 @@ permalink: /subpages/hackduino3/
 
 <br>
 
-<p class="headings"> Results:</p>
-
-We are thrilled to announce the results of Hackduino 3.0 and with great excitement, we announce the rankings of the participants, acknowledging their remarkable incites in the world of robotics. Here, we proudly present the top 6 teams who showed great skill and knowledge through their ideas. 
-
-We extend our heartfelt congratulations to all participants for their innovative contributions to the field of robotics. It was a tight choice but we were constrained to select the top two teams ( VibraSight and Jal Sodhak). Congratulations to them! 
-
-Thank you for your outstanding participation in this robotics event, and stay tuned for more captivating challenges on the horizon. 
-
-| Project Title | Team Members |
-|---------------|--------------|
-|VibraSight(Attending Internship)|Sanat Kumar Behera,Abhishek S, Vishal Meena (NISER, Bhubaneswar)|
-|Jal Sodhak|Prakhar Moses, Mudivarthy Tulasi Vardhani, Mihir (IIT, Tirupati)|
-|Automatic Traffic Control|	Sarthak Tarasia, Biswajit Kuanr, Subham Bose (BOSE, Cuttack)|
-|Mission Protector|Mehar Raj Pradhan(NLA, Namchi)|
-|Short Circuit Detection|Sudhanshu Prasad, Papali Priya Ratan Sahu, Himanshu Rout (ITER, Bhubaneswar)|
-|Drone for Personal Safety|Bhavesh Gupta,(RCOEM, Nagpur)|
-
-# **WELCOME to the official website of HACkDUINO 3.0 !**
+# **WELCOME to the official website of HACKDUINO 3.0 !**
 
 It’s the unique hackathon-style robotics competition that aims to encourage and enable budding inventors to explore the potential of robotics application. Hosted annually by the RoboTech Club of NISER, Bhubaneswar on the occasion of Arduino Day.
 
 This year, we want you to brainstorm ideas using the power of robotics to on the theme:
-
-
 
 **_Technology for personal well-being_**
 
@@ -55,6 +36,23 @@ The most relevant and innovative concepts have the opportunity of actualizing th
 The judges were initially anonymized during the evaluation period. Now we honourably mention them as the judging period concludes.
 
 Entries for Hackduino 3.0 are now closed!
+
+<p class="headings"> Results:</p>
+
+We are thrilled to announce the results of Hackduino 3.0 and with great excitement, we announce the rankings of the participants, acknowledging their remarkable incites in the world of robotics. Here, we proudly present the top 6 teams who showed great skill and knowledge through their ideas. 
+
+We extend our heartfelt congratulations to all participants for their innovative contributions to the field of robotics. It was a tight choice but we were constrained to select the top two teams ( VibraSight and Jal Sodhak). Congratulations to them! 
+
+Thank you for your outstanding participation in this robotics event, and stay tuned for more captivating challenges on the horizon. 
+
+| Project Title | Team Members |
+|---------------|--------------|
+|VibraSight(Attending Internship)|Sanat Kumar Behera,Abhishek S, Vishal Meena (NISER, Bhubaneswar)|
+|Jal Sodhak|Prakhar Moses, Mudivarthy Tulasi Vardhani, Mihir (IIT, Tirupati)|
+|Automatic Traffic Control|	Sarthak Tarasia, Biswajit Kuanr, Subham Bose (BOSE, Cuttack)|
+|Mission Protector|Mehar Raj Pradhan(NLA, Namchi)|
+|Short Circuit Detection|Sudhanshu Prasad, Papali Priya Ratan Sahu, Himanshu Rout (ITER, Bhubaneswar)|
+|Drone for Personal Safety|Bhavesh Gupta,(RCOEM, Nagpur)|
 
 <p class="headings">Contact Us:</p>
 
