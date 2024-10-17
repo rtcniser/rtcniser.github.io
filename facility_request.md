@@ -18,7 +18,7 @@ The RoboTech club harbours 3D printers (FDM, SLA) and Laser Cutter in the lab fo
 <br>
 <br>
 <center>
-<a href="https://forms.gle/Z2BfhucCFttkA842A"><button style="font-size: 18px; background-color: #bf90f1; color: white; border: solid 2px white; border-radius: 15px 15px 15px 15px; padding: 12px 12px 12px 12px; cursor: pointer;">**FACILITY REQUEST**</button></a>
+<a href="https://forms.gle/Z2BfhucCFttkA842A"><button style="font-size: 18px; background-color: #bf90f1; color: white; border: solid 2px white; border-radius: 15px 15px 15px 15px; padding: 12px 12px 12px 12px; cursor: pointer;"><b>FACILITY REQUEST<b></button></a>
 </center>
 
 <br>
