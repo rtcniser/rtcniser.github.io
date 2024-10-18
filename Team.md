@@ -33,7 +33,7 @@ title: Team
 <li>Vishal Meena</li>
 <li>Gayatri P.</li>
 <li>Shibashis Divyajyoti (Co-ordinator, Hackduino 24)</li>
-<li>Soumya Prakash Behera (Competitions Team Lead)</li>
+<li>Soumya Prakash Jena (Competitions Team Lead)</li>
 <li>Suraj Pradhan</li>
 <li>Suraj Kumar Behera</li>
 <li>Mayukh Ghosh</li>
