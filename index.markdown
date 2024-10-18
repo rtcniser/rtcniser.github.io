@@ -22,7 +22,7 @@ layout: page
 <br>
 <br>
 
-<center><img src="/images/team_2023.JPG" width="100%" height="25%" style="border: solid 4px white; border-radius: 40px 40px 40px 40px;"></center>
+<center><img src="/images/collage.png" width="100%" height="25%" style="border: solid 4px white; border-radius: 40px 40px 40px 40px;"></center>
 <br>
 
 <h2> Our Vision: </h2>
@@ -45,7 +45,7 @@ layout: page
 <div class="con">
     <div class="number-text">
         <center><p style="font-size: 60px;"><strong>25+</strong></p>
-        <h1>Active Members</h1>
+        <h1>Yearly Members</h1>
         </center>
     </div>
     <div class="number-text">
