@@ -22,7 +22,7 @@ layout: page
 <br>
 <br>
 
-<center><img src="/images/arm.jpg" width="100%" height="25%" style="border: solid 4px white; border-radius: 40px 40px 40px 40px;"></center>
+<center><img src="/images/collage.png" width="100%" height="25%" style="border: solid 4px white; border-radius: 40px 40px 40px 40px;"></center>
 <br>
 
 <h2> Our Vision: </h2>
@@ -45,7 +45,7 @@ layout: page
 <div class="con">
     <div class="number-text">
         <center><p style="font-size: 60px;"><strong>25+</strong></p>
-        <h1>Active Members</h1>
+        <h1>Yearly Members</h1>
         </center>
     </div>
     <div class="number-text">
@@ -71,7 +71,7 @@ layout: page
 
 <hr>
 <br>
-<p style="text-align: left;">Robotech Club welcomes people from across the scientific society for talking to us if you think your research needs a helping robot.
+<p style="text-align: left;">Robotech Club welcomes people from across the scientific society for talking to us if you think your research needs a helping hand.
 
-We can help you with automation and artificial intelligence to reduce human labour in your laboratory. Contact us today to explore the possibilities.</p>
+We can help you with guidance in automation to reduce human labour in your laboratory. Reach out to us to explore the possibilities.</p>
 <br>

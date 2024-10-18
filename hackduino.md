@@ -30,7 +30,7 @@ permalink: /hackduino/
 <br>
 <center>
     <br>
-    <p style="font-size: 20px"><em>The annual hackathon style robotics event brought to you by the RoboTech Club, NISER. We look out for minds with perspective and inventive ideas that can be applied through automation to deal with real world problems.</em></p>
+    <p style="font-size: 20px">The annual hackathon style robotics event brought to you by the RoboTech Club, NISER. We look out for undergraduates having perspectives for innovative ideas that can be applied through automation to deal with real world problems.</p>
     <br>
     <br>
     <h2 style="font-family: MyCustomFont; text-decoration: underline;">Previous Editions:</h2>
@@ -57,17 +57,17 @@ permalink: /hackduino/
 <center>
 <div class="imgarea">
     <div class="imgcont">
-    <img src="/images/smlab.png" class="logo">
-    <div class="text">
-    <br>
-    <span>Subhankar Mishra LAB.</span>
-    </div>
-    </div>
-    <div class="imgcont">
     <img src="/images/niser.webp" class="logo">
     <div class="text">
     <br>
     <span>National Institute for Science Education and Research, Bhubaneswar.</span>
+    </div>
+    </div>
+    <div class="imgcont">
+    <img src="/images/smlab.png" class="logo">
+    <div class="text">
+    <br>
+    <span>Subhankar Mishra LAB, School of Computere Sciences, NISER</span>
     </div>
     </div>
 </div>
