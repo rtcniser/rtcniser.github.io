@@ -23,7 +23,6 @@ The RoboTech Club harbours 3D printers (FDM, SLA) and Laser Cutter in the lab fo
 <hr>
 <br>
 NISER Members can request 3D printing for their academic requirements by filling out the Google Form below.All print request are to processed by you, including slicing of the print, setting the print and removal. Prior approval from Dr. Subhankar Mishra is required to be attached in the form for verification. You'll be assigned slots through Google Calender, according to which you can come and set your prints.
-
 <br>
 <br>
 <center>
@@ -31,12 +30,13 @@ NISER Members can request 3D printing for their academic requirements by filling
 </center>
 
 <br>
-<span class="adminheading"></span>
+<span class="adminheading"> </span>
 <br>
 <strong>NOTE: </strong>In order to prevent any sort of spamming of the form by personnel not belonging to the institute, we require you to be signed in to your niser.ac.in IDs on Google Chrome in order to obtain access to the form. Please sign-in to your NISER email on Chrome if you receive an error message.
 <br>
 <br>
 Similarly, you can view the calender fully-fledged by signing in to your niser.ac.in on your browser.
+<br>
 <br>
 <span class="adminheading">Calender</span>
 <hr>
