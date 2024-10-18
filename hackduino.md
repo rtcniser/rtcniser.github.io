@@ -24,6 +24,30 @@ permalink: /hackduino/
         width: 100%;
         font-family: MyCustomFont
     }
+    @media (max-width: 768px) {
+        .imgarea{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: stretch;
+    }
+    .imgcont {
+        width: 100%;
+        height: 400px;
+    }
+    .logo{
+        height: 250px;
+        width: 250px;
+        border-radius: 50%;
+    }
+    .text {
+        width: 100%;
+        font-family: MyCustomFont
+    }
+    }
+        
+
 
 </style>
 <hr>
@@ -67,7 +91,7 @@ permalink: /hackduino/
     <img src="/images/smlab.png" class="logo">
     <div class="text">
     <br>
-    <span>Subhankar Mishra LAB, School of Computere Sciences, NISER</span>
+    <span>Subhankar Mishra LAB, School of Computer Sciences, NISER</span>
     </div>
     </div>
 </div>
