@@ -9,9 +9,8 @@ title: Team
 <br>
 <center><p><h4 style="color: gray; font-size: 30px; font-family: comic;">"A strong organisation needs an even stronger community to support it."</h4></p></center> 
 
-<center><p><h4 style="font-style: italic; font-size: 22px;">Here is the list of our dedicated team members</h4></p></center>
+<center><p><h4 style="font-style: italic; font-size: 22px;">Here is the list of our dedicated team members...</h4></p></center>
 <br>
-<hr>
 <br>
 
 <p class="headings">Current Members:</p>
