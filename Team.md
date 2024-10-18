@@ -17,6 +17,8 @@ title: Team
 <p class="headings">Current Members:</p>
 <hr>
 <br>
+<center><img src="/images/team_2023.JPG" width="100%" height="25%" style="border: solid 4px white; border-radius: 40px 40px 40px 40px;"></center>
+<br>
 <div class="list-elements">
 <ul>
 <li>Girija Sankar Ray (Club Head)</li>
@@ -36,8 +38,8 @@ title: Team
 <li>Suraj Kumar Behera</li>
 <li>Mayukh Ghosh</li>
 <li>Nikitha Kumaraguru</li>
-<li>Abhinav Raj (Web-Master)</li>
-<li>Aditya Mridul (Web-Master)</li>
+<li>Abhinav Raj (Web-Master, Deployment)</li>
+<li>Aditya Mridul (Web-Master, Chief Editor)</li>
 <li>Alan Ajay</li>
 <li>Anshika Singhal</li>
 <li>Arya Niyogi</li>
@@ -98,10 +100,7 @@ title: Team
 </div>
 
 <br>
-<p class="headings">Web-Masters:</p>
-<hr>
-<br>
-<p style="font-size: 18px;"><em>Please contact us for any discrepancies, errors or empty links in the website. We will correct it in a jiffy!!!</em></p>
+<p style="font-size: 18px;"><em>Please contact the web-masters for any discrepancies, errors or empty links in the website. We will correct it in a jiffy!!!</em></p>
 <br>
 <ul>
 <li><h4>Aditya Mridul (Chief Editor)<a class="u-email" href="mailto:aditya.mridul@niser.ac.in"><img align=right src="/images/email-logo-png-gmail.png"  height="25" width="25"></a>
