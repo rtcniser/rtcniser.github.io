@@ -109,7 +109,7 @@ permalink: /activities/
 
 <br>
 
-<p style="font-size: xx-large; font-family: MyCustomFont; ">Hosted Projects: </p>
+<p style="font-size: xx-large; font-family: MyCustomFont; ">Active / Hosted Projects: </p>
 <hr>
 <p><h3 style="font-size: 22px;">Listed below are the projects on which we have been working in the recent times. To know more about them, click the buttons below:</h3></p>
 <br>
