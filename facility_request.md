@@ -31,9 +31,10 @@ NISER Members can request 3D printing for their academic requirements by filling
 </center>
 
 <br>
-<strong>NOTE: </strong>In order to prevent any sort of spamming of the form by personnel not belonging to the institute, we require you to be signed in to your niser.ac.in IDs on Google Chrome in order to obtain access to the form below. Please sign-in to your NISER email on Chrome if you receive an error message.
+<strong>NOTE: </strong>In order to prevent any sort of spamming of the form by personnel not belonging to the institute, we require you to be signed in to your niser.ac.in IDs on Google Chrome in order to obtain access to the form. Please sign-in to your NISER email on Chrome if you receive an error message.
 <br>
 <br>
+Similarly, you can view the calender fully-fledged by signing in to your niser.ac.in on your browser.
 <br>
 <span class="adminheading; font-size: 24px;">Calender</span>
 <hr>
