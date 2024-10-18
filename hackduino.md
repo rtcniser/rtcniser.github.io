@@ -51,7 +51,7 @@ permalink: /hackduino/
 <br>
 <br>
 <br>
-<h3>Brought To You By:</h3>
+<h3>Powered By:</h3>
 <br>
 <br>
 <center>
