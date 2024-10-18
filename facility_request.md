@@ -35,7 +35,7 @@ NISER Members can request 3D printing for their academic requirements by filling
 Similarly, you can view the calender fully-fledged by signing in to your niser.ac.in on your browser.
 <br>
 <br>
-<span class="adminheading">Calender</span>
+<span class="adminheading">Calendar</span>
 <hr>
 <br>
 <center><iframe width="100%" height="600" src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Asia%2FKolkata&bgcolor=%23ffffff&src=cnRjQG5pc2VyLmFjLmlu&color=%233F51B5" style="border-width:2" frameborder="0" scrolling="no"></iframe></center>
