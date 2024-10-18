@@ -26,6 +26,28 @@ permalink: /yantriki/
         width: 100%;
         font-family: MyCustomFont
     }
+    @media (max-width: 768px) {
+        .imgarea{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: stretch;
+    }
+    .imgcont {
+        width: 100%;
+        height: 400px;
+    }
+    .logo{
+        height: 250px;
+        width: 250px;
+        border-radius: 50%;
+    }
+    .text {
+        width: 100%;
+        font-family: MyCustomFont
+    }
+    }
 </style>
 <hr>
 <br>
