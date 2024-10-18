@@ -19,23 +19,34 @@ title: Team
 <br>
 <div class="list-elements">
 <ul>
-<li>Girija Shankar Ray (Club Head)</li>
+<li>Girija Sankar Ray (Club Head)</li>
 <li>Pritipriya Dasbehera</li>
 <li>Aaditya Vikram Saraf</li>
 <li>Sandipan Samanta</li>
 <li>Abhishekh Singh (Co-ordinator, Yantriki 24)</li>
-<li>Vishnu Santosh Kumar (Co-ordinator, Hackduino 23)</li>
 <li>Karan Kumar Sahoo</li>
 <li>Aditya Pravin Kamble</li>
-<li>Abhishek</li>
 <li>Prasad Murmu</li>
 <li>Sanat Kumar Behera</li>
 <li>Vishal Meena</li>
 <li>Gayatri P.</li>
 <li>Shibashis Divyajyoti (Co-ordinator, Hackduino 24)</li>
-<li>Soumya Prakash Behera</li>
+<li>Soumya Prakash Behera (Competitions Team Lead)</li>
 <li>Suraj Pradhan</li>
 <li>Suraj Kumar Behera</li>
+<li>Mayukh Ghosh</li>
+<li>Nikitha Kumaraguru</li>
+<li>Abhinav Raj (Web-Master)</li>
+<li>Aditya Mridul (Web-Master)</li>
+<li>Alan Ajay</li>
+<li>Anshika Singhal</li>
+<li>Arya Niyogi</li>
+<li>Bratanu Saha</li>
+<li>Dadhichi Das (Co-ordinator, SDP 24)</li>
+<li>Joshna Anna Sam</li>
+<li>Linna Rose Tojan</li>
+<li>Neharika Varma</li>
+<li>Rikan Mahakur</li>
 </ul>
 </div>
 <br>
@@ -59,6 +70,13 @@ title: Team
 <br>
 <div class="list-elements">
 <ul>
+<li>Vishnu Santosh Kumar (Co-ordinator, Hackduino 23)</li>
+<li>M. Sreerag</li>
+<li>Rahul Madhav</li>
+<li>Tanishaa Aswin</li>
+<li>Upasana Das</li>
+<li>Aritra Mukhopadhyay</li>
+<li>Abhishek.22</li>
 <li>Jyothish Kumar J. (Ex-Club Head)</li>
 <li>Shriman Keshri</li>
 <li>Sourav Mahto</li>
