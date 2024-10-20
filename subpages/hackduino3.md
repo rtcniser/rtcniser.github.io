@@ -42,18 +42,6 @@ Thank you for your outstanding participation in this robotics event, and stay tu
 |Short Circuit Detection|Sudhanshu Prasad, Papali Priya Ratan Sahu, Himanshu Rout (ITER, Bhubaneswar)|
 |Drone for Personal Safety|Bhavesh Gupta,(RCOEM, Nagpur)|
 
-# **WELCOME to the official website of HACkDUINO 3.0 !**
-
-It’s the unique hackathon-style robotics competition that aims to encourage and enable budding inventors to explore the potential of robotics application. Hosted annually by the RoboTech Club of NISER, Bhubaneswar on the occasion of Arduino Day.
-
-This year, we want you to brainstorm ideas using the power of robotics to on the theme:
-
-
-
-**_Technology for personal well-being_**
-
-The most relevant and innovative concepts have the opportunity of actualizing their ideas at Dr. Subhankar Mishra’s Lab through an internship at School of Computer Sciences, NISER Bhubaneswar.
-
 <p class="headings">The Judges Panel:</p>
 
 |Name|Institute|Position|Expertise|
