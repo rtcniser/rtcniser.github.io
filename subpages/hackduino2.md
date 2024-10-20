@@ -26,9 +26,15 @@ permalink: /subpages/hackduino2/
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/1lBZq-uGNUY" title="Sign to Speech Communication System | Hackduino 2.0 Winning Idea 2 | Jeet Soni" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <br>
+<p class="headings">The Judges Panel:</p>
 
-Notice: Stage 1 participation certificates, Stage 2 qualifiers certificate and gift kits for Stage 2 qualifiers have been dispatched from our end. Please get in touch with us if you haven't received the shipments.
+| Name | Institute | Designtion | Expertise |
+|------|-----------|------------|-----------|
+|Lalatendu Mishra|NISER|SO-C|CT Simulation, Robotic Radio, Surgery, Radiation Dosimetry|
+|Earu Banoth|NIT, Rourkela|Assistant Professor|Medical Devices and Instrumentation|
+|Ganesh Jagannath Tambave|NISER|SO-D|Silicon detector and their electronics, High energy Nuclear and Medical physics|
 
+<br>
 <p class="headings">Stage 1 Qualifiers:</p>
 
 RoboTech Club and Dr. Subhankar Mishra’s Lab congratulates the following participants for their victory in stage 1 of Hackduino 2.0. We hope to support them through their further journey and wish them good luck for the stage 2 of Hackduino 2.0.
