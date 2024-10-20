@@ -1,77 +1,104 @@
 ---
 layout: page
+title: Hackduino
+permalink: /hackduino/
 ---
-<center><img src="/images/logo.png" height="200" width= "200"></center>
+<style>
+    .imgarea{
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        justify-content: space-around;
+        align-items: stretch;
+    }
+    .imgcont {
+        width: 45%;
+        height: 300px;
+    }
+    .logo{
+        height: 250px;
+        width: 250px;
+        border-radius: 50%;
+    }
+    .text {
+        width: 100%;
+        font-family: MyCustomFont
+    }
+    @media (max-width: 768px) {
+        .imgarea{
+        display: flex;
+        flex-direction: column;
+        flex-wrap: nowrap;
+        justify-content: center;
+        align-items: stretch;
+    }
+    .imgcont {
+        width: 100%;
+        height: 400px;
+    }
+    .logo{
+        height: 250px;
+        width: 250px;
+        border-radius: 50%;
+    }
+    .text {
+        width: 100%;
+        font-family: MyCustomFont
+    }
+    }
+        
 
-<h1 style="font-family: Times New Roman; text-align: center"><font size="32">RoboTech Club</font></h1>
 
-<h2 style="font-family: comic; color: darkgoldenrod; text-align: center;"> The Club For The Geeky Ones! </h2>
-<h4 style="text-align: center;"> A student community aimed at propagating the skills and knowledge required to better utilize the power of present day technology in various feats of science.</h4>
-
-<br>
-<div class="veil">
-<br>
-<h2> Who Are We: </h2>
+</style>
 <hr>
-<br>
-<br>
-<img align="left" src="/images/niser.webp" width="200" height="200">
-<center><p>Robotech club is a NISER community consisting of students from various streams of science. The club functions under <strong> Dr. Subhankar Mishra's Lab</strong>, School of Computer Sciences, <strong>NISER (National Institute for Science, Education and Research, Bhubaneshwar)</strong>. We aim to provide a platform for the young scientists of NISER to explore and learn to use automation and A.I. in their scientific research irrespective of their branch. </p>
-</center>
-<br>
-<br>
-<br>
-
-<center><img src="/images/arm.jpg" width="100%" height="25%" style="border: solid 4px white; border-radius: 40px 40px 40px 40px;"></center>
-<br>
-
-<h2> Our Vision: </h2>
-
-<hr style="color: darkgoldenrod">
-<br>
-<br>
-<p style="text-align: center;"><strong>This club was set up as a means to serve the hobbies of a group of robotics enthusiasts. The club has grown into a much bigger endeavour, with more than 25 dynamic members. We develop ambitious robotics projects, host a national-level magazine and competition, and actively engage in disseminating technical knowledge to our fellow NISERites!</strong></p>
-
-<p style="text-align: center;">We seek to provide the students of NISER with the opportunity to turn their novel ideas into reality. As a community, we empower each other with skills and knowledge about present day technology such as Development Board Programming, Machine Learning & Image Processing, IOT, 3D Modelling & 3D Printing, Simulations, etc. We are currently working on a one year schedule for all club members with the hopes of enabling everyone with the required knowledge of using technology in most efficient way for functioning in various feats of our academic and professional career.</p>
-
 <br>
 <center>
-<hr>
-<br>
-<br>
+    <br>
+    <p style="font-size: 20px">The annual hackathon style robotics event brought to you by the RoboTech Club, NISER. We look out for undergraduates having perspectives for innovative ideas that can be applied through automation to deal with real world problems.</p>
+    <br>
+    <h2 style="font-family: MyCustomFont; text-decoration: underline;">Coming event:</h2>
+    <br>
+    <img src="/images/hackduino4.png" style="width: 100%; height: 230px; object-fit: cover; border-radius: 20px 20px 20px">   
+    <br>
+    <br>
+    <p style="font-size: 36px;">Stay tuned!!!</p>
+    <br>
+    <h2 style="font-family: MyCustomFont; text-decoration: underline;">Previous Editions:</h2>
+    <br>    
+    <h3>2023:</h3>
+    <a href="{{ '/subpages/hackduino3/' | relative_url }}">
+    <img src="/images/Hackduino23_Poster_Thumbnail_Short-1024x260.jpg" width="1000" height="130" style="border-radius: 500px; transition: background-color 0.3s, transform 0.3s;" onmouseover="this.style.backgroundColor='white'; this.style.transform='scale(1.05)'" onmouseout="this.style.backgroundColor='white'; this.style.transform='scale(1)'"></a>
+    <br>
+    <br>
+    <h3>2022:</h3>
+    <a href="{{ '/subpages/hackduino2/' | relative_url }}">
+    <img src="/images/hack-2-1024x185.png.webp" width="1000" height="130" style="border-radius: 500px; transition: background-color 0.3s, transform 0.3s;" onmouseover="this.style.backgroundColor='white'; this.style.transform='scale(1.05)'" onmouseout="this.style.backgroundColor='white'; this.style.transform='scale(1)'"></a>
+    <br><br>
+    <h3>2021:</h3>
+    <a href= "https://hackduino.github.io/">
+    <img src="/images/hack-1-1024x195.png.webp" width="1000" height="130" style="border-radius: 500px; transition: background-color 0.3s, transform 0.3s;" onmouseover="this.style.backgroundColor='white'; this.style.transform='scale(1.05)'" onmouseout="this.style.backgroundColor='white'; this.style.transform='scale(1)'" ></a>
 </center>
-
-<body>
-<div class="con">
-    <div class="number-text">
-        <center><p style="font-size: 60px;"><strong>25+</strong></p>
-        <h1>Active Members</h1>
-        </center>
+<br>
+<br>
+<br>
+<h3>Powered By:</h3>
+<br>
+<br>
+<center>
+<div class="imgarea">
+    <div class="imgcont">
+    <img src="/images/niser.webp" class="logo">
+    <div class="text">
+    <br>
+    <span>National Institute for Science Education and Research, Bhubaneswar.</span>
     </div>
-    <div class="number-text">
-        <center><p style="font-size: 60px;"><strong>08</strong></p>
-        <h1>Years of Existence</h1>
-        </center>
+    </div>
+    <div class="imgcont">
+    <img src="/images/smlab.png" class="logo">
+    <div class="text">
+    <br>
+    <span>Subhankar Mishra LAB, School of Computer Sciences, NISER</span>
+    </div>
     </div>
 </div>
-</body>
-<br>
-
-
-
-
-<h2> What's new? </h2>
-<hr><br>
-<p>RoboTech Club has always been a center for activity and progress. Things keep happening here all the year around.
-<br>
-<br>
-<br>
-
-<h2 style="text-align: left;"> Need Help in your Research? </h2>
-
-<hr>
-<br>
-<p style="text-align: left;">Robotech Club welcomes people from across the scientific society for talking to us if you think your research needs a helping robot.
-
-We can help you with automation and artificial intelligence to reduce human labour in your laboratory. Contact us today to explore the possibilities.</p>
-<br>
+</center>
