@@ -37,14 +37,14 @@ permalink: /activities/
 <summary>Line Follower</summary>
 <br>
 <p>A 5 IR Sensor Based Track Follower. Ready for line following events. This guy has fared really well in competitions.</p>
-<center><a href=""><button>KNOW MORE</button></a></center>
+<center><a href="https://github.com/rtcniser/2022-23_Line_Follower_CONCLUDED"><button>KNOW MORE</button></a></center>
 </details>
 <br>
 <details>
 <summary>Door Darshan</summary>
 <br>
 <p>This is an IOT Powered Smart Access Control System developed for our lab. It is especially handy in the current pandemic situation</p>
-<center><a href=""><button>KNOW MORE</button></a></center>
+<center><a href="https://github.com/rtcniser/2023-YY_DoorDarshan_ACTIVE"><button>KNOW MORE</button></a></center>
 </details>
 <br>
 <details>
