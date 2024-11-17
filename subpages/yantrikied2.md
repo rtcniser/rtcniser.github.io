@@ -5,7 +5,7 @@ permalink: /subpages/yantrikied2/
 ---
 <br>
 <br>
-<p class="headings">Yantriki: A Robotics and Technology Magazine</p>
+<p class="headings">Yantriki Ed2: Where Circuitry Meets Creativity</p>
 Yantriki is an annual publication by the RoboTech Club at NISER, aimed at making robotics and technology accessible to everyone. Whether you're a beginner or an expert, Yantriki offers project blogs, research articles, and tutorials to expand your knowledge.
 We welcome nationwide contributions, providing a platform for sharing ideas and work. From project reports to cutting-edge research, Yantriki connects innovators. Submit your articles for a chance to be featured and enjoy exciting perks like customized gifts.
 Join us as we explore the future of robotics and technology together!
