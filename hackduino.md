@@ -60,7 +60,9 @@ permalink: /hackduino/
     <br>
 
     <a href=" {{ '/subpages/hackduino4/' | relative_url }}">
+
 <img src="/images/hackduino4.png" style="width: 100%; height: 230px; object-fit: cover; border-radius: 20px 20px 20px; transition: background-color 0.3s, transform 0.3s;" onmouseover="this.style.backgroundColor='white'; this.style.transform='scale(1.05)'" onmouseout="this.style.backgroundColor='white'; this.style.transform='scale(1)'"></a>  
+
     <br>
     <br>
     <p style="font-size: 36px;">Stay tuned!!!</p>
