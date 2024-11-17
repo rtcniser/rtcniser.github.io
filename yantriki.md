@@ -56,7 +56,15 @@ permalink: /yantriki/
     <p style="font-size: 20px">Yantriki is our inter-college robotics and technology magazine for nationwide yearly publication. College students all across India send their entries in the form of project blogs, research articles, tutorials or academic discussions in robotics. </p>
     <br>
 <br>
+<h2 style="font-family: MyCustomFont; text-decoration: underline;">Currently Conducting:</h2>
+<br>
+<h3>Edition 2:</h3>
+<a href="{{ '/subpages/yantrikied2/' | relative_url }}">
+<img src="/images/yantrikied2.jpg" height="800px" width="600px" style=" object-fit: fill; transition: background-color 0.3s, transform 0.3s;" onmouseover="this.style.backgroundColor='black'; this.style.transform='scale(1.05)'" onmouseout="this.style.backgroundColor='white'; this.style.transform='scale(1)'"></a>
+<br>
+<br>
 <h2 style="font-family: MyCustomFont; text-decoration: underline;">Previous Editions:</h2>
+<br>
 <br>
 <h3>Edition 1:</h3>
 <a href="{{ '/subpages/yantrikied1/' | relative_url }}">
