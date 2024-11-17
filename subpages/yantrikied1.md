@@ -5,7 +5,7 @@ permalink: /subpages/yantrikied1/
 ---
 <br>
 <br>
-<p class="headings">Welcome to Yantriki: A Robotics and Technology Magazine</p>
+<p class="headings">Yantriki: A Chatroom for Robotics and Technology Geeks</p>
 <br>
 <img class="okay" src="/images/Yantriki2-1024x428.png.webp" height="300" width="100%" style="border: 5px solid black; border-radius: 20px 20px 20px 20px; background-color: #F5F5F5;
 " />
