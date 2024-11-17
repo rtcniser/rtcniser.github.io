@@ -58,8 +58,10 @@ permalink: /hackduino/
     <br>
     <h2 style="font-family: MyCustomFont; text-decoration: underline;">Coming event:</h2>
     <br>
+
     <a href=" {{ '/subpages/hackduino4/' | relative_url }}">
     <img src="/images/hackduino4.png" style="width: 100%; height: 230px; object-fit: cover; border-radius: 20px 20px 20px"></a>  
+
     <br>
     <br>
     <p style="font-size: 36px;">Stay tuned!!!</p>

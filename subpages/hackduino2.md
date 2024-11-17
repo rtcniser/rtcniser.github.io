@@ -1,6 +1,6 @@
 ---
 title: Hackduino 2.0
-layout: subpages
+layout: subpageshackduino
 permalink: /subpages/hackduino2/
 ---
 <br>
