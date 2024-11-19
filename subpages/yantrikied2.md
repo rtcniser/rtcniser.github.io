@@ -1,10 +1,8 @@
 ---
-title: Yantriki Ed2
-layout: subpagesyantriki
+title: Yantriki ed2
+layout: yform
 permalink: /subpages/yantrikied2/
 ---
-<br>
-<br>
 <p class="headings">Welcome to Yantriki: A Robotics and Technology Magazine</p>
 Yantriki is an annual publication by the RoboTech Club at NISER, aimed at making robotics and technology accessible to everyone. Whether you're a beginner or an expert, Yantriki offers project blogs, research articles, and tutorials to expand your knowledge.
 We welcome nationwide contributions, providing a platform for sharing ideas and work. From project reports to cutting-edge research, Yantriki connects innovators. Submit your articles for a chance to be featured and enjoy exciting perks like customized gifts.
@@ -23,6 +21,12 @@ Join us as we explore the future of robotics and technology together!
  and enhancing robots or how the field of robotics is helping in the advancement of
  different fields, with emphasis on the former.</p>
  <br>
+<center><button>Submit your Abstract here.</button>
+<br>
+<br>
+<button>Submit your Articles here.</button>
+</center>
+<br>
  <p class="headings">Submission Process</p>
 1. <strong>Abstract Submission:</strong> Authors can submit a 300-word abstract for feedback
 prior to the final article submission. Feedback will be provided within a week of submission, allowing time to incorporate suggestions. The abstract process not only assists in refining ideas but also helps our team send reminders and keep track of expected articles.
@@ -88,11 +92,6 @@ If your article is selected, it will be published in Yantriki ed2. The authors o
 2. Anonymity may be requested to the editorial board before the article is published.
 3. By submitting, authors grant the Yantriki magazine the right to publish and distribute their work.
 <br>
-<p class="headings">Submission Links:</p>
-1. Submit your Abstract <a href=" {{ '/subpages/yform/' | relative_url }}">here.</a>
-2. Submit your Article here.
-<br> 
-
 
 
 
