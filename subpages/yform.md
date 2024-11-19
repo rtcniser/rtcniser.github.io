@@ -1,6 +1,6 @@
 ---
 layout: yform
-permalink: /yantrikied2/form/
+permalink: /subpages/yform/
 ---
 <br>
 <br>
