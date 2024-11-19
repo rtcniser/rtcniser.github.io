@@ -11,7 +11,7 @@ Hello Participants!
 We’re excited to see your innovative ideas and projects in Hackduino 2025! Please carefully review the following submission guidelines to ensure your entries meet all the requirements for each stage.
 <br>
 <br>
-<center><a href="https://docs.google.com/forms/d/e/1FAIpQLScThQmXguPeuG_FQ3i1Dplkop3CiO8y8J8rttkt242APR1aqw/viewform?usp=sf_link"><button>Register for Hackduino 4.0 here.</button></a></center>
+<center><a href="https://docs.google.com/forms/d/e/1FAIpQLScThQmXguPeuG_FQ3i1Dplkop3CiO8y8J8rttkt242APR1aqw/viewform?usp=sf_link"><button>Register for Hackduino 4.0 Stage 1 here.</button></a></center>
 <br>
 <h1 class="headings">Stage 1: Registration</h1>
 
