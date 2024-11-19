@@ -11,7 +11,7 @@ Join us as we explore the future of robotics and technology together!
 <br>
 <p class="congratulations">Information regarding Yantriki Ed2:</p>
 <br>
-<center><img src="/images/yantrikied2.jpg" height="800px" width="600px"></center>
+<center><img class="poster" src="/images/yantrikied2.jpg" height="800px" width="600px"></center>
 <br>
 <p class="headings">Overview of this edition</p>
 <p> The Theme for Yantriki ed2 is “Forging Novel Horizons”. This year, Yantriki serves as an
