@@ -89,7 +89,7 @@ If your article is selected, it will be published in Yantriki ed2. The authors o
 3. By submitting, authors grant the Yantriki magazine the right to publish and distribute their work.
 <br>
 <p class="headings">Submission Links:</p>
-1. Submit your Abstract here.
+1. Submit your Abstract <a href=" {{ '/yantrikied2/form' }}">here.</a>
 2. Submit your Article here.
 <br> 
 
