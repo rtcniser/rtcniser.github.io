@@ -56,13 +56,12 @@ permalink: /hackduino/
     <br>
     <p style="font-size: 20px">The annual hackathon style robotics event brought to you by the RoboTech Club, NISER. We look out for undergraduates having perspectives for innovative ideas that can be applied through automation to deal with real world problems.</p>
     <br>
-    <h2 style="font-family: MyCustomFont; text-decoration: underline;">Coming event:</h2>
+    <h2 style="font-family: MyCustomFont; text-decoration: underline;">Currently Conducting</h2>
     <br>
 
     <a href=" {{ '/subpages/hackduino4/' | relative_url }}">
 
 <img src="/images/hackduino4.png" style="width: 100%; height: 230px; object-fit: cover; border-radius: 20px 20px 20px; transition: background-color 0.3s, transform 0.3s;" onmouseover="this.style.backgroundColor='white'; this.style.transform='scale(1.05)'" onmouseout="this.style.backgroundColor='white'; this.style.transform='scale(1)'"></a>  
-
     <br>
     <br>
     <p style="font-size: 36px;">Stay tuned!!!</p>
