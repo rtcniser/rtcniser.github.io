@@ -1,6 +1,6 @@
 ---
 title: Yantriki ed2
-layout: yform
+layout: y2
 permalink: /subpages/yantrikied2/
 ---
 <p class="headings">Yantriki: Where Circuitry Meets Creativity</p>
