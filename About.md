@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /admin/
+permalink: /about/
 title: About Us
 ---
 <style>
