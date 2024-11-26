@@ -51,7 +51,7 @@ We’re excited to see your innovative ideas and projects in Hackduino 2025! Ple
 2. **Funding and Stipend:**
    - Each team will receive a maximum reimbursement of ₹30,000 for project expenses and a stipend of ₹15,000 per team member for the internship period.
 3. **Project Completion:**
-   - Your team is expected to develop a working prototype by the end of the internship. The project must be completed to claim ownership of the finished product.
+   - Your team is expected to develop a working prototype (technological readiness level 4) by the end of the internship. The project must be completed to claim ownership of the finished product.
 4. **Presentation to Incubators:**
    - At the end of the internship, an event will be held to showcase your projects to potential incubators. Prepare to present and discuss your work, as this could be a valuable opportunity for future funding or development.
 
