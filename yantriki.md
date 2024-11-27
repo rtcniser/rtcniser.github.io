@@ -63,7 +63,7 @@ permalink: /yantriki/
 <br>
 <h3>Edition 2:</h3>
 <a href="{{ '/subpages/yantrikied2/' | relative_url }}">
-<img class="poster" src="/images/yantrikied2_1000x290.jpg" height="1000px" width="290px" style=" object-fit: fill; transition: background-color 0.3s, transform 0.3s;" onmouseover="this.style.backgroundColor='black'; this.style.transform='scale(1.05)'" onmouseout="this.style.backgroundColor='white'; this.style.transform='scale(1)'"></a>
+<img class="poster" src="/images/yantrikied2_1000x290.jpg" width="1000px" height="290px" style=" object-fit: fill; border-radius: 250px; transition: background-color 0.3s, transform 0.3s;" onmouseover="this.style.backgroundColor='black'; this.style.transform='scale(1.05)'" onmouseout="this.style.backgroundColor='white'; this.style.transform='scale(1)'"></a>
 <br>
 <br>
 <h2 style="font-family: MyCustomFont; text-decoration: underline;">Previous Editions:</h2>
@@ -71,7 +71,7 @@ permalink: /yantriki/
 <br>
 <h3>Edition 1:</h3>
 <a href="{{ '/subpages/yantrikied1/' | relative_url }}">
-<img src="/images/Yantriki2-1024x428.png.webp" width="290px" height="1000px" style=" object-fit: fill; border-radius: 500px; transition: background-color 0.3s, transform 0.3s;" onmouseover="this.style.backgroundColor='black'; this.style.transform='scale(1.05)'" onmouseout="this.style.backgroundColor='white'; this.style.transform='scale(1)'"></a>
+<img src="/images/Yantriki2-1024x428.png.webp" width="1000px" height="290px" style=" object-fit: fill; border-radius: 250px; transition: background-color 0.3s, transform 0.3s;" onmouseover="this.style.backgroundColor='black'; this.style.transform='scale(1.05)'" onmouseout="this.style.backgroundColor='white'; this.style.transform='scale(1)'"></a>
 </center>
 <br>
 <br>
