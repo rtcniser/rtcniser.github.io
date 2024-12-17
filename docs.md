@@ -9,7 +9,7 @@ permalink: /docs/
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Heading Layout</title>
 <hr>
-<p><h3 style="font-size: 22px;">Welcome to the page where we keep links to important documents related to RTC, hidden!</h3></p>
+<p><h3 style="font-size: 22px;">Welcome to the page where we keep links to important documents related to RTC, hidden!</h3>You would need to login using the rtc.niser account to view.</p>
 <iframe 
     src="https://docs.google.com/document/d/1PjmykHcyHw5va_O4m6TcmW8sqHzYTcAU86tMb3dpUZM/preview" 
     width="100%" 
