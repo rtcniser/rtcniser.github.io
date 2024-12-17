@@ -19,7 +19,7 @@ permalink: /docs/
 
 <p style="font-size: xx-large; font-family: MyCustomFont; ">Toidoist Embedding</p>
 <hr>
-<p><h3 style="font-size: 22px;">Because we need to keep track of our work!</h3></p>
+<p><h3 style="font-size: 22px;">Because we need to keep track of our work!</h3>Might take some time to fetch.</p>
 <div style="position: relative; width: 100%; height: 7000px; overflow: hidden;">
     <iframe 
         src="https://app.todoist.com/app/project/rtc-and-robotics-lab-2312927392" 
