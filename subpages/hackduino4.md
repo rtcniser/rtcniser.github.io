@@ -15,6 +15,8 @@ We’re excited to see your innovative ideas and projects in Hackduino 2025! Ple
 <br>
 <center><a href="https://docs.google.com/forms/d/e/1FAIpQLScThQmXguPeuG_FQ3i1Dplkop3CiO8y8J8rttkt242APR1aqw/viewform?usp=sf_link"><button>Register for Hackduino 4.0 Stage 1 here.</button></a></center>
 <br>
+_Registration deadline has been extened to 10th of January. You can optionally register through [Unstop]([https://unstop.com/hackathons/hackduino-40-national-institute-of-science-education-and-research-niser-odisha-1318461]) but Google form above is preferred._ 
+<br>
 <h1 class="headings">Stage 1: Registration</h1>
 
 - **Team Composition:**
