@@ -59,14 +59,13 @@
         rgba(255, 255, 255, 0.3) 45%, /* Thin center gradient */
         rgba(255, 255, 255, 0.3) 50%, /* Narrow fade-out */
         rgba(255, 255, 255, 0.2) 60%,        
-        rgba(255, 255, 255, 0.0) 
-    );
+        rgba(255, 255, 255, 0.0) );
     z-index: -5;
     opacity: 0;
     animation: lightSwipeUp 12s cubic-bezier(0.13, 0.45, 0.68, 1) infinite;
-}
-/* Define the light swipe-up animation with a pause at the end */
-@keyframes lightSwipeUp {
+    }
+    /* Define the light swipe-up animation with a pause at the end */
+    @keyframes lightSwipeUp {
     0% {
         transform: translateY(100%);
         opacity: 0;
@@ -81,8 +80,9 @@
         transform: translateY(-100%);
         opacity: 0; /* Includes the 10-second pause naturally as part of the 15s cycle */
     }
-}
+    }
     </style>
+    <div class="swipe-light"></div>
     <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
  </head>
  <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="RoboTech Club" /></head>
