@@ -32,6 +32,56 @@
       font-family: comic;
       src: url('/font/Comic1.ttf');
     }
+        @font-face {
+      font-family: MyCustomFont;
+      src: url('/font/RobotoSerif-Thin.ttf');
+    }
+    @font-face {
+      font-family: Baskerville;
+      src: url('/font/Baskervville-R.ttf');
+    }
+    @font-face {
+      font-family: comic;
+      src: url('/font/Comic1.ttf');
+    }
+    /* CSS for swipe light*/
+    .swipe-light {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(
+        to top,
+        rgba(255, 255, 255, 0), 
+        rgba(255, 255, 255, 0.2) 10%,
+        rgba(255, 255, 255, 0.3) 40%, /* Start of main gradient */
+        rgba(255, 255, 255, 0.3) 45%, /* Thin center gradient */
+        rgba(255, 255, 255, 0.3) 50%, /* Narrow fade-out */
+        rgba(255, 255, 255, 0.2) 60%,        
+        rgba(255, 255, 255, 0.0) 
+    );
+    z-index: -5;
+    opacity: 0;
+    animation: lightSwipeUp 12s cubic-bezier(0.13, 0.45, 0.68, 1) infinite;
+}
+/* Define the light swipe-up animation with a pause at the end */
+@keyframes lightSwipeUp {
+    0% {
+        transform: translateY(100%);
+        opacity: 0;
+    }
+    30% {
+        opacity: 0.2;
+    }
+    70% {
+        opacity: 0.2;
+    }
+    100% {
+        transform: translateY(-100%);
+        opacity: 0; /* Includes the 10-second pause naturally as part of the 15s cycle */
+    }
+}
     </style>
     <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
  </head>
