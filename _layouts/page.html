@@ -44,45 +44,68 @@
       font-family: comic;
       src: url('/font/Comic1.ttf');
     }
-    /* CSS for swipe light*/
     .swipe-light {
-    position: absolute;
+      position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
-    background: linear-gradient(
-        to top,
-        rgba(255, 255, 255, 0), 
-        rgba(255, 255, 255, 0.2) 10%,
-        rgba(255, 255, 255, 0.3) 40%, /* Start of main gradient */
-        rgba(255, 255, 255, 0.3) 45%, /* Thin center gradient */
-        rgba(255, 255, 255, 0.3) 50%, /* Narrow fade-out */
-        rgba(255, 255, 255, 0.2) 60%,        
-        rgba(255, 255, 255, 0.0) );
-    z-index: -5;
-    opacity: 0;
-    animation: lightSwipeUp 12s cubic-bezier(0.13, 0.45, 0.68, 1);
-    }
-    /* Define the light swipe-up animation with a pause at the end */
-    @keyframes lightSwipeUp {
+    background: 
+        linear-gradient(
+            to right,
+            rgba(125, 125, 125, 0.3), 
+            rgba(0, 0, 0, 1) 20%,
+            rgba(0, 0, 0, 1) 50%, 
+            rgba(0, 0, 0, 1) 80%,        
+            rgba(125, 125, 125, 0.3)
+        ),
+        linear-gradient(
+            to top,
+            rgba(0, 0, 0, 0), 
+            rgba(255, 255, 255, 0.4) 40%,
+            rgba(255, 255, 255, 0.6) 50%,
+            rgba(255, 255, 255, 0.4) 60%,        
+            rgba(0, 0, 0, 0)
+        );
+    background-blend-mode: multiply;
+    pointer-events: none;
+    z-index: -1;
+    animation: lightSwipe 18s cubic-bezier(0.33, 1, 0.68, 1) infinite;
+    
+    -webkit-mask-image: linear-gradient(
+        to bottom,
+        transparent 0%, 
+        black 20%, 
+        transparent 100%
+    );
+    mask-image: linear-gradient(
+        to bottom,
+        transparent 0%, 
+        black 20%, 
+        transparent 100%
+    );
+}
+/* Define the light swipe animation */
+@keyframes lightSwipe {
     0% {
-        transform: translateY(100%);
+        transform: translateY(-100%);
         opacity: 0;
     }
     30% {
-        opacity: 0.35;
+        opacity: 0.7;
     }
-    70% {
-        opacity: 0.35;
+
+    80% {
+        opacity: 0.4;
     }
     100% {
-        transform: translateY(-100%);
-        opacity: 0; /* Includes the 10-second pause naturally as part of the 15s cycle */
+        transform: translateY(+100%);
+        opacity: 0;
     }
-    }
+}
     </style>
-    <div class="swipe-light"></div>
+<!-- Light swipe effect -->
+<div class="swipe-light"></div>
     <link rel="shortcut icon" type="image/x-icon" href="favicon.png">
  </head>
  <link rel="stylesheet" href="/assets/main.css"><link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" title="RoboTech Club" /></head>
@@ -122,7 +145,7 @@
       }
 
       .veil {
-        background-color: rgba(0, 0, 0, 0.1);
+        background-color: rgba(0, 0, 0, 0.2);
         color: white;
         padding: 10px 10px 10px 10px;
         border-radius:  10px 10px 10px 10px;
