@@ -51,7 +51,14 @@ permalink: /yantriki/
         width: 100%;
         height: 500px;
     }
+@media (max-width: 768px) {
+    .poster {
+        width: 100%;
+        height: 250px;
+    }
+}
 </style>
+
 <hr>
 <br>
 <center>
@@ -63,7 +70,7 @@ permalink: /yantriki/
 <br>
 <h3>Edition 2:</h3>
 <a href="{{ '/subpages/yantrikied2/' | relative_url }}">
-<img class="poster" src="/images/yantrikied2_1000x290.jpg" style=" object-fit: fill; border-radius: 80px; transition: background-color 0.3s, transform 0.3s;" onmouseover="this.style.backgroundColor='black'; this.style.transform='scale(1.05)'" onmouseout="this.style.backgroundColor='white'; this.style.transform='scale(1)'"></a>
+<img class="poster" src="/images/yantrikied2_1000x290.jpg" style="object-fit: fill; border-radius: 80px; transition: background-color 0.3s, transform 0.3s;" onmouseover="this.style.backgroundColor='black'; this.style.transform='scale(1.05)'" onmouseout="this.style.backgroundColor='white'; this.style.transform='scale(1)'"></a>
 <br>
 <br>
 <h2 style="font-family: MyCustomFont; text-decoration: underline;">Previous Editions:</h2>
