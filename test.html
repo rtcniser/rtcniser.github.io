@@ -1,0 +1,212 @@
+---
+layout: page
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Team Page</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background-color: #1a1a1a;
+      color: white;
+    }
+
+    .tabs {
+      display: flex;
+      overflow-x: auto;
+      background-color: black;
+      padding: 10px;
+      border-bottom: 3px solid darkgoldenrod;
+    }
+
+    .tab {
+      color: white;
+      font-family: 'Baskerville', serif;
+      padding: 10px 15px;
+      cursor: pointer;
+      border: none;
+      background: none;
+      font-size: 16px;
+      transition: color 0.3s, border-bottom 0.3s;
+      flex-shrink: 0; /* Prevent tabs from shrinking */
+    }
+
+    .tab:hover, .tab.active {
+      color: darkgoldenrod;
+      border-bottom: 3px solid darkgoldenrod;
+    }
+
+    .team {
+      display: none;
+      justify-content: center;
+      flex-wrap: wrap;
+      padding: 20px;
+      max-height: calc(100vh - 60px); /* Adjust height for content */
+      overflow-y: auto; /* Enable scrolling for large content */
+    }
+
+    .team.active {
+      display: flex;
+    }
+
+    .member {
+      position: relative;
+      margin: 15px;
+      width: 200px;
+      height: 250px;
+      overflow: hidden;
+      border-radius: 10px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+      cursor: pointer;
+    }
+
+    .member img {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform 0.3s, box-shadow 0.3s;
+    }
+
+    .member:hover img {
+      transform: scale(1.1);
+      box-shadow: 0 6px 8px rgba(218, 165, 32, 0.7); /* Darkgoldenrod */
+    }
+
+    .info {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: rgba(0, 0, 0, 0.8);
+      color: white;
+      padding: 10px;
+      transform: translateY(100%);
+      transition: transform 0.3s;
+      text-align: center;
+      font-size: 14px; /* Reduced font size */
+    }
+
+    .member:hover .info {
+      transform: translateY(0);
+    }
+
+    /* Modal (Extra Info) */
+    .modal {
+      display: none;
+      position: fixed;
+      z-index: 1;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      background-color: rgba(0, 0, 0, 0.8);
+      overflow: auto;
+      padding-top: 60px;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .modal-content {
+      background-color: #333;
+      color: white;
+      margin: 10px;
+      padding: 20px;
+      border-radius: 10px;
+      width: 50%;
+      max-height: 70%;
+      overflow-y: auto;
+    }
+
+    .close {
+      color: #aaa;
+      font-size: 28px;
+      font-weight: bold;
+      position: absolute;
+      top: 10px;
+      right: 25px;
+    }
+
+    .close:hover,
+    .close:focus {
+      color: darkgoldenrod;
+      text-decoration: none;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+
+<div class="tabs">
+  <script>
+    for (let year = 2024; year >= 2015; year--) {
+      document.write(`<button onclick="showYear(${year})" class="tab${year === 2024 ? ' active' : ''}">${year}</button>`);
+    }
+  </script>
+</div>
+
+<div id="team-2024" class="team active">
+  <div class="member" onclick="showExtraInfo('Member 1', 'Role: Developer\nLoves coding and coffee.\nExtra Info: Passionate about AI and tech innovation.')">
+    <img src="images/member1.jpg" alt="Member 1">
+    <div class="info">
+      <h3>Member 1</h3>
+      <p>Role: Developer</p>
+    </div>
+  </div>
+  <div class="member" onclick="showExtraInfo('Member 2', 'Role: Designer\nLoves UI/UX Design.\nExtra Info: Interested in minimalism and creative coding.')">
+    <img src="images/member2.jpg" alt="Member 2">
+    <div class="info">
+      <h3>Member 2</h3>
+      <p>Role: Designer</p>
+    </div>
+  </div>
+</div>
+
+<!-- Generate empty team containers for other years -->
+<script>
+  for (let year = 2015; year <= 2023; year++) {
+    if (year !== 2024) {
+      document.write(`<div id="team-${year}" class="team"></div>`);
+    }
+  }
+</script>
+
+<!-- Modal for Extra Info -->
+<div id="extraInfoModal" class="modal">
+  <div class="modal-content">
+    <span class="close" onclick="closeModal()">&times;</span>
+    <h3 id="modalTitle"></h3>
+    <p id="modalDetails"></p>
+  </div>
+</div>
+
+<script>
+  function showYear(year) {
+    const teams = document.querySelectorAll('.team');
+    const tabs = document.querySelectorAll('.tab');
+
+    teams.forEach((team) => team.classList.remove('active'));
+    tabs.forEach((tab) => tab.classList.remove('active'));
+
+    document.getElementById(`team-${year}`).classList.add('active');
+    document.querySelector(`.tab[onclick="showYear(${year})"]`).classList.add('active');
+  }
+
+  // Show the modal with extra details
+  function showExtraInfo(memberName, extraDetails) {
+    document.getElementById('modalTitle').innerText = memberName;
+    document.getElementById('modalDetails').innerText = extraDetails;
+    document.getElementById('extraInfoModal').style.display = "flex";
+  }
+
+  // Close the modal
+  function closeModal() {
+    document.getElementById('extraInfoModal').style.display = "none";
+  }
+</script>
+
+</body>
+</html>
