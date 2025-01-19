@@ -22,7 +22,7 @@ layout: page
 <br>
 <br>
 
-<center><img src="/images/collage.png" width="100%" height="25%" style="border: solid 4px white; border-radius: 40px 40px 40px 40px;"></center>
+<center><img src="/images/Front_Collage.png" width="100%" height="25%" style="border: solid 4px white; border-radius: 40px 40px 40px 40px;"></center>
 <br>
 
 <h2> Our Vision: </h2>

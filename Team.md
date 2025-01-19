@@ -55,7 +55,7 @@ title: Team
 <p class="headings">Faculty In-Charge:</p>
 <hr>
 <br>
-<img float="left" style="border-radius: 100px; border: solid 5px black; margin-right: 30px;" align=left src="/images/subhankar.webp" height= "300" width= "300">
+<img float="left" style="border-radius: 100px; border: solid 5px black; margin-right: 30px;" align=left src="/profile_images/subhankar.webp" height= "300" width= "300">
 <br>
 <p style="font-weight: bold; font-size: xx-large;">Dr. Subhankar Mishra</p>
 <p>His visionary guidance inspires creativity and innovation, propelling the club members to push boundaries and excel in their projects. As <strong><em>Faculty-In-Charge</em></strong>, Dr. Subhankar Mishra cultivates a spirit of collaboration, empowering students to work together seamlessly towards their shared goals.

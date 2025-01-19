@@ -75,3 +75,10 @@ Membership is open to students from NISER who can commit at least 2-3 years to t
 </ul>
 </p>
 <br>
+
+<span class="adminheading">Collaboration:
+</span>
+<hr>
+<br>
+For impactful outcomes, we're open to collaboration with fellow students' clubs and technical firms! You can reach us out through an email.
+<br>

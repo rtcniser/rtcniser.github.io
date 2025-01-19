@@ -67,13 +67,17 @@ permalink: /docs/
 
 <div class="tab-container">
   <div class="tab-buttons">
-    <button onclick="showTab(0)" class="active">Club Guidelines</button>
-    <button onclick="showTab(1)">SDP Modules</button>
-    <button onclick="showTab(2)">Hackduino Guidelines</button>
-    <button onclick="showTab(3)">Yantriki Guidelines</button>
-    <button onclick="showTab(4)">To-doist</button>
+    <button onclick="showTab(0)" class="active">Meeting Summaries</button>
+    <button onclick="showTab(1)">Club Guidelines</button>
+    <button onclick="showTab(2)">SDP Modules</button>
+    <button onclick="showTab(3)">Hackduino Guidelines</button>
+    <button onclick="showTab(4)">Yantriki Guidelines</button>
+    <button onclick="showTab(5)">To-doist</button>
   </div>
 
+  <div class="tab-content active">
+    <iframe src="https://docs.google.com/document/d/1IP8ntQfjf5QhLxVHLX2f76-wcX--_r24x8cBOfMTBSQ/edit?tab=t.0#heading=h.kzz2hlswxrll" style="width: 100%; height: 100%; border: none;"></iframe>
+  </div>
   <div class="tab-content active">
     <iframe src="https://docs.google.com/document/d/16IzmOx266--G4dGWAzTwblzJgr2ASmREdiw0WKHgAqY/edit?tab=t.0#heading=h.myfgyqr040oy" style="width: 100%; height: 100%; border: none;"></iframe>
   </div>
