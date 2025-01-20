@@ -22,7 +22,7 @@ permalink: /docs/
       display: flex;
       justify-content: center;
       background-color: black;
-      border-bottom: 3px solid darkorange; /* Divider line below tabs */
+      border-bottom: 3px solid darkgoldenrod; /* Divider line below tabs */
     }
 
     .tab-buttons button {
@@ -72,7 +72,8 @@ permalink: /docs/
     <button onclick="showTab(2)">SDP Modules</button>
     <button onclick="showTab(3)">Hackduino Guidelines</button>
     <button onclick="showTab(4)">Yantriki Guidelines</button>
-    <button onclick="showTab(5)">To-doist</button>
+    <button onclick="showTab(5)">Lab Inventory</button>
+    <button onclick="showTab(6)">To-doist</button>
   </div>
 
   <div class="tab-content active">
@@ -94,11 +95,14 @@ permalink: /docs/
     style="width: 100%; height: 100%; border: none;"></iframe>
   </div>
   <div class="tab-content">
+    <iframe src="https://docs.google.com/spreadsheets/d/1pfoBKhvMqNE7sys6W8qDnDz4f3RJmZvBNbLKhKVbRPM/edit?gid=0#gid=0"
+    style="width: 100%; height: 100%; border: none;"></iframe>
+  </div>
+  <div class="tab-content">
     <iframe src="https://app.todoist.com/app/project/rtc-and-robotics-lab-2312927392"
     style="width: 100%; height: 100%; border: none;"></iframe>
   </div>
 </div>
-
 <script>
   function showTab(index) {
     const tabs = document.querySelectorAll('.tab-content');
