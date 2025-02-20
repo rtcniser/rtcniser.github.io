@@ -21,7 +21,7 @@ Join us as we explore the future of robotics and technology together!
 <br>
 <p class="congratulations">The Released Magazine!</p>
 <br>
-<a href="https://drive.google.com/file/d/1A_8eRH8JtMZ8AKpGtFgY_GeJh4mzgeua/view?usp=drivesdk"><img src="/images/yantrikimain.jpg" width="500px" height="700px" style=" object-fit: fill; transition: background-color 0.3s, transform 0.3s;" onmouseover="this.style.backgroundColor='black'; this.style.transform='scale(1.05)'" onmouseout="this.style.backgroundColor='white'; this.style.transform='scale(1)'"></a>
+<a href="https://drive.google.com/file/d/1Q_nn8XmTpPJ7ZXBXidSiuaXjeX5bz9EE/view?usp=sharing"><img src="/images/yantrikimain.jpg" width="500px" height="700px" style=" object-fit: fill; transition: background-color 0.3s, transform 0.3s;" onmouseover="this.style.backgroundColor='black'; this.style.transform='scale(1.05)'" onmouseout="this.style.backgroundColor='white'; this.style.transform='scale(1)'"></a>
 <br>
 <br>
 <br>
