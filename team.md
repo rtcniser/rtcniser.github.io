@@ -55,6 +55,7 @@ title: Team
             width: 100%;
             justify-content: space-between;
             flex-direction: row;
+            margin: 20px 50px 20px 20px;
     }
         .img_item {
             position: relative;
@@ -114,6 +115,13 @@ title: Team
             font-size: 16px;
             text-align: center;
     }
+        .epithet{
+            font-size: 24px;
+            font-weight: bold;
+            color: orange;
+            text-shadow: 0 0 5px #ff8c00, 0 0 10px #ff8c00, 0 0 15px #ff4500;
+            animation: flicker 0.1s infinite alternate;
+        }
         @media (max-width: 768px)
     {
         .img_cont {
@@ -149,6 +157,15 @@ title: Team
 }
 
     }
+@keyframes flicker {
+    0% { opacity: 0.8; text-shadow: 0 0 5px #ff8c00, 0 0 10px #ff8c00, 0 0 15px #ff4500; }
+    50% { opacity: 1; text-shadow: 0 0 8px #ff8c00, 0 0 15px #ff4500, 0 0 20px #ff4500; }
+    100% { opacity: 0.9; text-shadow: 0 0 6px #ff8c00, 0 0 12px #ff8c00, 0 0 18px #ff4500; }
+}
+@keyframes shine-light {
+    0% { left: -100%; }
+    100% { left: 100%; }
+}
 </style>    
 <hr>
 <div class="veil">
@@ -182,8 +199,8 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Dadhichi Das</span>
-                <p style="font-weight: bold;">Role: Technical (Club Head, 2025)
-                <br>Streamroller!</p>
+                <p style="font-weight: bold;">Technical (Club Head, 2025)
+                <br><span class="epithet">Streamroller!</span></p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -191,7 +208,8 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Aditya Mridul</span>
-                <p style="font-weight: bold;">Role: Webmaster, Yantriki</p>
+                <p style="font-weight: bold;">Webmaster, Yantriki
+                <br><span class="epithet">They didn't pay me for this.</span></p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -199,7 +217,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Neharika Varma</span>
-                <p style="font-weight: bold;">Role: Technical</p>
+                <p style="font-weight: bold;">Technical</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -207,7 +225,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Arya Niyogi</span>
-                <p style="font-weight: bold;">Role: Technical</p>
+                <p style="font-weight: bold;">Technical</p>
                 </div>
                 </div>
             </div>
@@ -217,7 +235,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Joshna Anna Sam</span>
-                <p style="font-weight: bold;">Role: Technical</p>
+                <p style="font-weight: bold;">Technical</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -225,7 +243,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Anshika Singhal</span>
-                <p style="font-weight: bold;">Role: Technical</p>
+                <p style="font-weight: bold;">Technical</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -233,7 +251,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Rikan Mahakur</span>
-                <p style="font-weight: bold;">Role: Technical</p>
+                <p style="font-weight: bold;">Technical</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -241,7 +259,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Mayukh Ghosh</span>
-                <p style="font-weight: bold;">Role: Technical</p>
+                <p style="font-weight: bold;">Technical</p>
                 </div>
                 </div>
             </div>
@@ -251,7 +269,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Abhinav Raj</span>
-                <p style="font-weight: bold;">Role: Events</p>
+                <p style="font-weight: bold;">Events</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -259,7 +277,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Nikitha Kumaraguru</span>
-                <p style="font-weight: bold;">Role: Yantriki</p>
+                <p style="font-weight: bold;">Yantriki</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -267,7 +285,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Bratanu Saha</span>
-                <p style="font-weight: bold;">Role: Yantriki</p>
+                <p style="font-weight: bold;">Yantriki</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -275,7 +293,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Linna Rose Tojan</span>
-                <p style="font-weight: bold;">Role: Yantriki</p>
+                <p style="font-weight: bold;">Yantriki</p>
                 </div>
                 </div>
             </div>
@@ -287,7 +305,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Gayatri P</span>
-                <p style="font-weight: bold;">Role: Technical</p>
+                <p style="font-weight: bold;">Technical</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -295,8 +313,8 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Aditya Pravin Kamble</span>
-                <p style="font-weight: bold;">Role: Technical
-                <br>The Unrealized Enginner!</p>
+                <p style="font-weight: bold;">Technical
+                <br><span class="epithet">The Unrealized Enginner!</span></p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -304,8 +322,8 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Karan Kumar Sahoo</span>
-                <p style="font-weight: bold;">Role: Technical
-                <br>Perseverance through skill issues!</p>
+                <p style="font-weight: bold;">Technical
+                <br><span class="epithet">Perseverance through skill issues!</span></p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -313,7 +331,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Sanat Kumar Behera</span>
-                <p style="font-weight: bold;">Role: Technical</p>
+                <p style="font-weight: bold;">Technical</p>
                 </div>
                 </div>
             </div>
@@ -323,7 +341,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Vishal Meena</span>
-                <p style="font-weight: bold;">Role: Technical</p>
+                <p style="font-weight: bold;">Technical</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -331,7 +349,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Soumya Ranjan Jena</span>
-                <p style="font-weight: bold;">Role: Events (Co-ordinator, 2024-2025)</p>
+                <p style="font-weight: bold;">Events (Co-ordinator, 2024-2025)</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -339,7 +357,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Shibashis Divyajyoti</span>
-                <p style="font-weight: bold;">Role: Hackduino (Co-ordinator, 2024-2025)</p>
+                <p style="font-weight: bold;">Hackduino (Co-ordinator, 2024-2025)</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -367,7 +385,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Girija Sankar Ray</span>
-                <p style="font-weight: bold;">Role: Technical (Club Head, 2023-2025)</p>
+                <p style="font-weight: bold;">Technical (Club Head, 2023-2025)</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -375,7 +393,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Aaditya Vicram Saraf</span>
-                <p style="font-weight: bold;">Role: Technical</p>
+                <p style="font-weight: bold;">Technical</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -383,7 +401,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Pritipriya Dasbehera</span>
-                <p style="font-weight: bold;">Role: Technical</p>
+                <p style="font-weight: bold;">Technical</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -391,7 +409,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Sandipan Samanta</span>
-                <p style="font-weight: bold;">Role: Technical</p>
+                <p style="font-weight: bold;">Technical</p>
                 </div>
                 </div>
             </div>
@@ -401,7 +419,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Vishnu Santosh Kumar</span>
-                <p style="font-weight: bold;">Role: Hackduino (Co-ordinator, 2023-2024)</p>
+                <p style="font-weight: bold;">Hackduino (Co-ordinator, 2023-2024)</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -409,7 +427,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Abhishek Singh</span>
-                <p style="font-weight: bold;">Role: Yantriki(Co-ordinator, 2024-2025)</p>
+                <p style="font-weight: bold;">Yantriki(Co-ordinator, 2024-2025)</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -442,8 +460,8 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Aritra Mukhopadhyay</span>
-                <p style="font-weight: bold;">Role: Technical
-                <br>Lol! Tooo Much Skills!</p>
+                <p style="font-weight: bold;">Technical
+                <br><span class="epithet">Lol! Tooo Much Skills!</span></p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -451,7 +469,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Tanishaa Aswin</span>
-                <p style="font-weight: bold;">Role: Yantriki</p>
+                <p style="font-weight: bold;">Yantriki</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -459,7 +477,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Upasana Das</span>
-                <p style="font-weight: bold;">Role: Yantriki</p>
+                <p style="font-weight: bold;">Yantriki</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -477,7 +495,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Oomen P. Jose</span>
-                <p style="font-weight: bold;">Role: Technical (Club Head, 2022-2023)</p>
+                <p style="font-weight: bold;">Technical (Club Head, 2022-2023)</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -485,7 +503,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Sarin C. Jacob</span>
-                <p style="font-weight: bold;">Role: Technical</p>
+                <p style="font-weight: bold;">Technical</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -493,7 +511,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Krishnakant Parida</span>
-                <p style="font-weight: bold;">Role: Technical</p>
+                <p style="font-weight: bold;">Technical</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -501,7 +519,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">R Vasanth Kashyap</span>
-                <p style="font-weight: bold;">Role: Hackduino</p>
+                <p style="font-weight: bold;">Hackduino</p>
                 </div>
                 </div>
             </div>
@@ -511,7 +529,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Sreehari C</span>
-                <p style="font-weight: bold;">Role: Yantriki (Co-ordinator, 2022-23)</p>
+                <p style="font-weight: bold;">Yantriki (Co-ordinator, 2022-23)</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -519,7 +537,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Yashaswini Gupta</span>
-                <p style="font-weight: bold;">Role: Yantriki</p>
+                <p style="font-weight: bold;">Yantriki</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -527,7 +545,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Prajwal Roopamath M M</span>
-                <p style="font-weight: bold;">Role: Yantriki</p>
+                <p style="font-weight: bold;">Yantriki</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -535,7 +553,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Aditi Pradhan</span>
-                <p style="font-weight: bold;">Role: Yantriki</p>
+                <p style="font-weight: bold;">Yantriki</p>
                 </div>
                 </div>
             </div>
@@ -545,7 +563,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Ajay Krishna A</span>
-                <p style="font-weight: bold;">Role: Yantriki</p>
+                <p style="font-weight: bold;">Yantriki</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -583,7 +601,7 @@ title: Team
                 <br>
                 <span style="font-weight: bold;">Jyothish Kumar J.</span>
                 <p style="font-weight: bold;">Technical (Club Head, 2019-2022)
-                <br>One man gang. The first true roboticist.</p>
+                <br><span class="epithet">One man gang. The first true roboticist.</span></p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -591,8 +609,8 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Sourav Mahto</span>
-                <p style="font-weight: bold;">Role: Technical
-                <br>Airborne Talents!</p>
+                <p style="font-weight: bold;">Technical
+                <br><span class="epithet">Airborne Talents!</span></p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -600,7 +618,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Shriman Keshri</span>
-                <p style="font-weight: bold;">Role: Technical</p>
+                <p style="font-weight: bold;">Technical</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -648,7 +666,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Jyotirmoy Shivottam</span>
-                <p style="font-weight: bold;">Role: Technical</p>
+                <p style="font-weight: bold;">Technical</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -682,7 +700,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Manabputra</span>
-                <p style="font-weight: bold;">Role: Club Head (2017-2019)</p>
+                <p style="font-weight: bold;">Club Head (2017-2019)</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -711,7 +729,8 @@ title: Team
 <p class="headings">Faculty In-Charge:</p>
 <hr>
 <br>
-<img float="left" style="border-radius: 100px; border: solid 5px black; margin-right: 30px;" align=left src="/profile_images/subhankar.webp" height= "300" width= "300">
+<img float="left" style="border-radius: 100px; border: solid 5px black; margin-right: 30px; border-radius: 10px;
+    box-shadow: 0 0 15px rgba(255, 165, 0, 0.8), 0 0 30px rgba(255, 69, 0, 0.6); border-radius: 50px;" align=left src="/profile_images/subhankar.webp" height= "300" width= "300">
 <br>
 <p style="font-weight: bold; font-size: xx-large;">Dr. Subhankar Mishra</p>
 <p>His visionary guidance inspires creativity and innovation, propelling the club members to push boundaries and excel in their projects. As <strong><em>Faculty-In-Charge</em></strong>, Dr. Subhankar Mishra cultivates a spirit of collaboration, empowering students to work together seamlessly towards their shared goals.
