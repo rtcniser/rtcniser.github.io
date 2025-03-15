@@ -22,7 +22,7 @@ Join us as we explore the future of robotics and technology together!
  different fields, with emphasis on the former.</p>
  <br>
 <center><button><s>Submit your Abstract here.</s></button>
- <p style="text-align:center; color: #FFA500;">Abstract Submissions Over.</p>w
+ <p style="text-align:center; color: #FFA500;">Abstract Submissions Over.</p>
 <br>
 <br>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScL6NToZw6S4aZvJ6dyBB86qYNTxDQMRYLq9B052Hw0AIPVSw/viewform?usp=sf_link"><button>Submit your Articles here.</button></a>
