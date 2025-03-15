@@ -26,7 +26,7 @@ Join us as we explore the future of robotics and technology together!
 <br>
 <br>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScL6NToZw6S4aZvJ6dyBB86qYNTxDQMRYLq9B052Hw0AIPVSw/viewform?usp=sf_link"><button>Submit your Articles here.</button></a>
-<p style="text-align:center; color: #FFA500;">Spot Entries Open till June 30th</p>
+<p style="text-align:center; color: #FFA500;">Spot Entries Open </p>
 </center>
 <br>
  <p class="headings">Submission Process</p>
