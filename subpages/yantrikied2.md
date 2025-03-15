@@ -21,7 +21,8 @@ Join us as we explore the future of robotics and technology together!
  and enhancing robots or how the field of robotics is helping in the advancement of
  different fields, with emphasis on the former.</p>
  <br>
-<center><a href="https://docs.google.com/forms/d/e/1FAIpQLSewUoqcPo7l6JykiwBTjy63qdc0o6kPEqL5JDsf9zNyjpfgVg/viewform?usp=sf_link"><button><s>Submit your Abstract here.</s>Over</button></a>
+<center><button><s>Submit your Abstract here.</s></button>
+ <p style="text-align:center; color: #FFA500;">Abstract Submissions Over.</p>w
 <br>
 <br>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLScL6NToZw6S4aZvJ6dyBB86qYNTxDQMRYLq9B052Hw0AIPVSw/viewform?usp=sf_link"><button>Submit your Articles here.</button></a>
