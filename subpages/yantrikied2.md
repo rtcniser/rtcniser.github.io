@@ -29,18 +29,17 @@ Join us as we explore the future of robotics and technology together!
 <p style="text-align:center; color: #FFA500;">Spot Entries Open </p>
 </center>
 <br>
- <p class="headings">Submission Process</p>
-1. <strong>Abstract Submission:</strong> Authors can submit a 300-word abstract for feedback
-prior to the final article submission. Feedback will be provided within a week of submission, allowing time to incorporate suggestions. The abstract process not only assists in refining ideas but also helps our team send reminders and keep track of expected articles.
-2. <strong>Article Submission:</strong> After receiving feedback (if applicable), authors must
- submit the final article following the specific formatting guidelines.
-3. <strong>Direct Submissions:</strong> Authors confident in their work may submit the full article directly without submitting an abstract.
- <br>
+ <p class="headings">Submission Process:</p>
+The process is plain and simple. Just fill the form and adhere to the theme. You can contact us if you need any help, but make sure to finish submit it by March 31.
+<br>
+<br>
+<strong><em>Do surprise us!!!</em></strong>
+
  <p class="headings">Important Dates:</p>
 1. <strong>Abstract Submission deadline:</strong>
  Dec 21, 2024 11:45 PM
-2. <strong>Article(s) Submission deadline:</strong>
- Jan 4, 2025 11:45 PM
+1. <strong>Article(s) Submission deadline:</strong>
+ Mar 31, 2025 11:45 PM
  <br>
 
 
