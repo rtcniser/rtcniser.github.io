@@ -30,7 +30,7 @@ Join us as we explore the future of robotics and technology together!
 </center>
 <br>
  <p class="headings">Submission Process:</p>
-The process is plain and simple. Just fill the form and adhere to the theme. You can contact us if you need any help, but make sure to finish submit it by March 31.
+The process is plain and simple. Just fill the form and adhere to the theme. You can contact us if you need any help, but make sure to submit by March 31.
 <br>
 <br>
 <strong><em>Do surprise us!!!</em></strong>
