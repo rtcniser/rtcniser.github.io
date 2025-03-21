@@ -314,7 +314,7 @@ title: Team
                 <br>
                 <span style="font-weight: bold;">Aditya Pravin Kamble</span>
                 <p style="font-weight: bold;">Technical
-                <br><span class="epithet">The Unrealized Enginner!</span></p>
+                <br><span class="epithet">The Unrealized Engineer!</span></p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -601,7 +601,7 @@ title: Team
                 <br>
                 <span style="font-weight: bold;">Jyothish Kumar J.</span>
                 <p style="font-weight: bold;">Technical (Club Head, 2019-2022)
-                <br><span class="epithet">One man gang. The first true roboticist.</span></p>
+                <br><span class="epithet">The one man gang and the first true roboticist.</span></p>
                 </div>
                 </div>
                 <div class="img_item">
