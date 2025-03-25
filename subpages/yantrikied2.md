@@ -39,7 +39,7 @@ The process is plain and simple. Just fill the form and adhere to the theme. You
 1. <strong>Abstract Submission deadline:</strong>
  Dec 21, 2024 11:45 PM
 1. <strong>Article(s) Submission deadline:</strong>
- Mar 31, 2025 11:45 PM
+ Apr 7, 2025 11:45 PM
  <br>
 
 
