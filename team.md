@@ -253,9 +253,6 @@ title: Team
                 <p style="font-weight: bold;">Technical</p>
                 </div>
                 </div>
-            </div>
-            <div class="img_cont">
-            <div class="img_item">
                 <img src="/profile_images/2023_abhinav.webp">
                 <div class="overlay">
                 <br>
@@ -263,6 +260,9 @@ title: Team
                 <p style="font-weight: bold;">Events</p>
                 </div>
                 </div>
+            </div>
+            <div class="img_cont">
+            <div class="img_item">
                 <div class="img_item">
                 <img src="/profile_images/2023_mridul.webp">
                 <div class="overlay">
