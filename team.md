@@ -253,6 +253,7 @@ title: Team
                 <p style="font-weight: bold;">Technical</p>
                 </div>
                 </div>
+                <div class="img_item">
                 <img src="/profile_images/2023_abhinav.webp">
                 <div class="overlay">
                 <br>
@@ -262,7 +263,6 @@ title: Team
                 </div>
             </div>
             <div class="img_cont">
-            <div class="img_item">
                 <div class="img_item">
                 <img src="/profile_images/2023_mridul.webp">
                 <div class="overlay">
@@ -765,4 +765,3 @@ title: Team
             event.currentTarget.className += " active";
         }
     </script>
-
