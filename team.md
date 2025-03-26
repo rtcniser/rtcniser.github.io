@@ -186,7 +186,7 @@ title: Team
         <button class="tablink" onclick="openTab(event, 'Tab7')">2018</button>
         <button class="tablink" onclick="openTab(event, 'Tab8')">2017</button>
         <button class="tablink" onclick="openTab(event, 'Tab9')">2016</button>
-        <button class="tablink" onclick="openTab(event, 'Tab310')">2015</button>
+        <button class="tablink" onclick="openTab(event, 'Tab10')">2015</button>
     </div>
     <div class="content">
     <div id="Tab1" class="tabcontent" style="display:none;">
@@ -201,15 +201,6 @@ title: Team
                 <span style="font-weight: bold;">Dadhichi Das</span>
                 <p style="font-weight: bold;">Technical (Club Head, 2025)
                 <br><span class="epithet">Streamroller!</span></p>
-                </div>
-                </div>
-                <div class="img_item">
-                <img src="/profile_images/2023_mridul.webp">
-                <div class="overlay">
-                <br>
-                <span style="font-weight: bold;">Aditya Mridul</span>
-                <p style="font-weight: bold;">Webmaster, Yantriki
-                <br><span class="epithet">They didn't pay me for this.</span></p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -270,6 +261,15 @@ title: Team
                 <br>
                 <span style="font-weight: bold;">Abhinav Raj</span>
                 <p style="font-weight: bold;">Events</p>
+                </div>
+                </div>
+                <div class="img_item">
+                <img src="/profile_images/2023_mridul.webp">
+                <div class="overlay">
+                <br>
+                <span style="font-weight: bold;">Aditya Mridul</span>
+                <p style="font-weight: bold;">Webmaster, Yantriki
+                <br><span class="epithet">They didn't pay me for all this.</span></p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -393,7 +393,8 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Aaditya Vicram Saraf</span>
-                <p style="font-weight: bold;">Technical</p>
+                <p style="font-weight: bold;">Technical
+                <br><span class="epithet">"Make an account in Onshape and you know how to 3D model."</span></p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -401,7 +402,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Pritipriya Dasbehera</span>
-                <p style="font-weight: bold;">Technical</p>
+                <p style="font-weight: bold;">Technical, Events</p>
                 </div>
                 </div>
                 <div class="img_item">
