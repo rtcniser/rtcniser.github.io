@@ -212,16 +212,6 @@ title: Team
                 </div>
                 </div>
                 <div class="img_item">
-                <img src="/profile_images/2023_arya.webp">
-                <div class="overlay">
-                <br>
-                <span style="font-weight: bold;">Arya Niyogi</span>
-                <p style="font-weight: bold;">Technical</p>
-                </div>
-                </div>
-            </div>
-            <div class="img_cont">
-                <div class="img_item">
                 <img src="/profile_images/2023_joshna.webp">
                 <div class="overlay">
                 <br>
@@ -230,18 +220,28 @@ title: Team
                 </div>
                 </div>
                 <div class="img_item">
-                <img src="/profile_images/2023_anshika.webp">
-                <div class="overlay">
-                <br>
-                <span style="font-weight: bold;">Anshika Singhal</span>
-                <p style="font-weight: bold;">Technical</p>
-                </div>
-                </div>
-                <div class="img_item">
                 <img src="/profile_images/2023_rikan.webp">
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Rikan Mahakur</span>
+                <p style="font-weight: bold;">Technical</p>
+                </div>
+                </div>
+            </div>
+            <div class="img_cont">
+                <div class="img_item">
+                <img src="/profile_images/2023_arya.webp">
+                <div class="overlay">
+                <br>
+                <span style="font-weight: bold;">Arya Niyogi</span>
+                <p style="font-weight: bold;">Technical</p>
+                </div>
+                </div>
+                <div class="img_item">
+                <img src="/profile_images/2023_anshika.webp">
+                <div class="overlay">
+                <br>
+                <span style="font-weight: bold;">Anshika Singhal</span>
                 <p style="font-weight: bold;">Technical</p>
                 </div>
                 </div>
