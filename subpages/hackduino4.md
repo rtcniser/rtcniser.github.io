@@ -11,7 +11,7 @@ The unique hackathon-style robotics competition that aims to encourage and enabl
 <br>
 <p class="headings">Results:</p>
 
-We are proud to announce that Hackduino 4.0 is now officially over.
+Entries for Hackduino 4.0 are now closed. 
 
 75 teams participated this year, and 13 teams were selected for the interview.
 
