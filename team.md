@@ -394,7 +394,7 @@ title: Team
                 <br>
                 <span style="font-weight: bold;">Aaditya Vicram Saraf</span>
                 <p style="font-weight: bold;">Technical
-                <br><span class="epithet">"You make an account on Onshape. Now know how to 3D model."</span></p>
+                <br><span class="epithet">"Make an account on Onshape..now you know 3D modelling."</span></p>
                 </div>
                 </div>
                 <div class="img_item">
