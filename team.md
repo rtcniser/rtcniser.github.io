@@ -410,7 +410,8 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Sandipan Samanta</span>
-                <p style="font-weight: bold;">Technical</p>
+                <p style="font-weight: bold;">Technical
+                <br><span class="epithet">"Engineering is too easy for me :)"</span></p>
                 </div>
                 </div>
             </div>
@@ -495,8 +496,9 @@ title: Team
                 <img src="/profile_images/2019_opj.webp">
                 <div class="overlay">
                 <br>
-                <span style="font-weight: bold;">Oomen P. Jose</span>
-                <p style="font-weight: bold;">Technical (Club Head, 2022-2023)</p>
+                <span style="font-weight: bold;">Oommen P. Jose</span>
+                <p style="font-weight: bold;">Technical (Club Head, 2022-2023)
+                <br><span class="epithet">"Sweet guy!"</span></p>
                 </div>
                 </div>
                 <div class="img_item">
