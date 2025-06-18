@@ -394,7 +394,7 @@ title: Team
                 <br>
                 <span style="font-weight: bold;">Aaditya Vicram Saraf</span>
                 <p style="font-weight: bold;">Technical
-                <br><span class="epithet">"Make an account in Onshape and you know how to 3D model."</span></p>
+                <br><span class="epithet">"You make an account on Onshape. Now know how to 3D model."</span></p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -411,7 +411,7 @@ title: Team
                 <br>
                 <span style="font-weight: bold;">Sandipan Samanta</span>
                 <p style="font-weight: bold;">Technical
-                <br><span class="epithet">"Engineering is too easy for me :)"</span></p>
+                <br><span class="epithet">Engineering easy :)</span></p>
                 </div>
                 </div>
             </div>
@@ -498,7 +498,7 @@ title: Team
                 <br>
                 <span style="font-weight: bold;">Oommen P. Jose</span>
                 <p style="font-weight: bold;">Technical (Club Head, 2022-2023)
-                <br><span class="epithet">"Sweet guy!"</span></p>
+                <br><span class="epithet">Sweet guy!</span></p>
                 </div>
                 </div>
                 <div class="img_item">
