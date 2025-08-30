@@ -21,10 +21,10 @@ permalink: /facilities/
     }
     .imgcont {
         width: 45%;
-        height: 400px;
+        height: 300px;
     }
     .logo{
-        height: 250px;
+        height: 350px;
         width: 100%;
         object-fit: cover;
         border-radius: 20px 20px 20px 20px;
@@ -47,7 +47,7 @@ permalink: /facilities/
     }
     .imgcont {
         width: 100%;
-        height: 400px;
+        height: 300px;
     }
     .logo{
         height: 250px;
