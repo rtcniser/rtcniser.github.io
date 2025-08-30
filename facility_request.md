@@ -21,7 +21,7 @@ permalink: /facilities/
     }
     .imgcont {
         width: 45%;
-        height: 300px;
+        height: 400px;
     }
     .logo{
         height: 250px;
@@ -127,10 +127,12 @@ NISER Members can request 3D printing for their academic requirements by filling
 <br>
 <br>
 <center>
-<a href="https://forms.gle/Z2BfhucCFttkA842A"><button style="font-size: 18px; background-color: #14466a; color: white; border: solid 0px white; border-radius: 15px 15px 15px 15px; padding: 12px 12px 12px 12px; cursor: pointer;"><strong>FACILITY REQUEST</strong></button></a>
+<!-- <a href="https://forms.gle/Z2BfhucCFttkA842A"><button style="font-size: 18px; background-color: #14466a; color: white; border: solid 0px white; border-radius: 15px 15px 15px 15px; padding: 12px 12px 12px 12px; cursor: pointer;"><strong>FACILITY REQUEST</strong></button></a> -->
 </center>
 <br>
 <strong>NOTE: </strong>In order to prevent any sort of spamming of the form by personnel not belonging to the institute, we require you to be signed in to your niser.ac.in IDs on Google Chrome in order to obtain access to the form. Please sign-in to your NISER email on Chrome if you receive an error message.
+
+<font color="red">UPDATE: As of 2024, we have temporarily suspended facility requests owing to excessive demand maintenance issues with the equipments.</font>
 <br>
 <br>
 
