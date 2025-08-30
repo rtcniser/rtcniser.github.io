@@ -411,7 +411,7 @@ title: Team
                 <br>
                 <span style="font-weight: bold;">Sandipan Samanta</span>
                 <p style="font-weight: bold;">Technical
-                <br><span class="epithet">Engineering easy :)</span></p>
+                <br><span class="epithet">Engineering is easy :)</span></p>
                 </div>
                 </div>
             </div>
@@ -767,3 +767,4 @@ title: Team
             event.currentTarget.className += " active";
         }
     </script>
+
