@@ -21,7 +21,7 @@ permalink: /facilities/
     }
     .imgcont {
         width: 45%;
-        height: 300px;
+        height: 400px;
     }
     .logo{
         height: 350px;
