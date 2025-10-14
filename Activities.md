@@ -265,7 +265,7 @@ Registered students: 27 (B23), 3 (B22)</strong></p>
   <div class="text">
     <h3 style="text-decoration: underline;">Open Day/Science Camp</h3>
     <p><em>10/4/2023</em></p>
-    <p>NISER holds an annual Open Day as a part of its outreach programme to expose teachers and students to scientific research and inspire STEM careers. <br><br>Our lab will be allowing a tour of all the projects and equipments.</strong></p>
+    <p>NISER holds an annual Open Day as a part of its outreach programme to expose teachers and students to scientific research and inspire STEM careers. <br><br>Our lab will be allowing a tour of all the projects and equipments.</p>
   </div>
 </div>
 <br>
