@@ -1,11 +1,7 @@
 # RoboTech Club's Website
 
-Discover a world where innovation meets imagination. At RoboTech Club NISER, we celebrate the art and science of robotics, 
-blending creativity with technology to craft extraordinary solutions.
-Our website is more than a platform—it's a gateway to a vibrant community of pioneers and dreamers dedicated to pushing the boundaries of what robots can achieve.
+## Updation Guidelines
 
-Explore our site to find:
-- Exciting Projects
-- Engaging Events
-- Inspiring Stories
-- Beneficial Resources
+- **Use .webp instead of .jpg** : For website images, webp images of similar quality takes lesser space. Hence, lesser loading times for pages.
+- **Segragate/chunk year-wise information** : Don't let everything load at once. Make separate tabs or dropdowns.
+- **CLean** : Don't add too much unnecessary details. Have proper formatting with minimal colours to make the pages beautiful and easy to read.
