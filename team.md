@@ -200,7 +200,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Aadya Durgaprasad Harichandan</span>
-                <p style="font-weight: bold;"></p>
+                <p style="font-weight: bold;">Yantriki</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -208,7 +208,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Abhijeet Parida</span>
-                <p style="font-weight: bold;"></p>
+                <p style="font-weight: bold;">Technical</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -216,7 +216,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Abhinav Raj</span>
-                <p style="font-weight: bold;"></p>
+                <p style="font-weight: bold;">Yantriki</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -224,7 +224,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Archisman Mukherjee</span>
-                <p style="font-weight: bold;"></p>
+                <p style="font-weight: bold;">Webmaster</p>
                 </div>
                 </div>
             </div>
@@ -234,7 +234,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Arnav Bhayana</span>
-                <p style="font-weight: bold;"></p>
+                <p style="font-weight: bold;">SDP</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -242,7 +242,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Gaurav Pal</span>
-                <p style="font-weight: bold;"></p>
+                <p style="font-weight: bold;">Technical, Photgraphy and Outreach</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -250,7 +250,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Manoj Kumar T</span>
-                <p style="font-weight: bold;"></p>
+                <p style="font-weight: bold;">Technical</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -258,7 +258,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Mayukh Mukherjee</span>
-                <p style="font-weight: bold;"></p>
+                <p style="font-weight: bold;">Mechanical, Technical and Lab Equipments Handling</p>
                 </div>
                 </div>
             </div>
@@ -268,7 +268,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Promit Ghosh</span>
-                <p style="font-weight: bold;"></p>
+                <p style="font-weight: bold;">Technical</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -276,7 +276,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Soumalya Naskar</span>
-                <p style="font-weight: bold;"></p>
+                <p style="font-weight: bold;">Technical</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -284,7 +284,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Sri Ram Nagulan</span>
-                <p style="font-weight: bold;"></p>
+                <p style="font-weight: bold;">Lab Equipments Handling and Technical</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -292,7 +292,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Vansh Patwa</span>
-                <p style="font-weight: bold;"></p>
+                <p style="font-weight: bold;">Technical</p>
                 </div>
                 </div>
             </div>
@@ -872,6 +872,7 @@ title: Team
             event.currentTarget.className += " active";
         }
     </script>
+
 
 
 
