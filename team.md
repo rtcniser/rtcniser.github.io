@@ -177,8 +177,9 @@ title: Team
 <br>
 
 <div class="tabs">
-        <button class="tablink" onclick="openTab(event, 'Tab1')">2024</button>
-        <button class="tablink active" onclick="openTab(event, 'Tab2')">2023</button>
+        <button class="tablink" onclick="openTab(event, 'Tab0')">2025</button>
+        <button class="tablink active" onclick="openTab(event, 'Tab1')">2024</button>
+        <button class="tablink" onclick="openTab(event, 'Tab2')">2023</button>
         <button class="tablink" onclick="openTab(event, 'Tab3')">2022</button>
         <button class="tablink" onclick="openTab(event, 'Tab4')">2021</button>
         <button class="tablink" onclick="openTab(event, 'Tab5')">2020</button>
@@ -186,13 +187,117 @@ title: Team
         <button class="tablink" onclick="openTab(event, 'Tab7')">2018</button>
         <button class="tablink" onclick="openTab(event, 'Tab8')">2017</button>
         <button class="tablink" onclick="openTab(event, 'Tab9')">2016</button>
-        <button class="tablink" onclick="openTab(event, 'Tab10')">2015</button>
+        <button class="tablink" onclick="openTab(event, 'Tab310')">2015</button>
     </div>
     <div class="content">
-    <div id="Tab1" class="tabcontent" style="display:none;">
+    <div id="Tab0" class="tabcontent" style="display:none;">
             <p>Still Recruiting...</p>
     </div>
-    <div id="Tab2" class="tabcontent">
+    <div id="Tab1" class="tabcontent">
+            <div class="img_cont">
+                <div class="img_item">
+                <img src="/profile_images/2024_aadya.webp">
+                <div class="overlay">
+                <br>
+                <span style="font-weight: bold;">Aadya Durgaprasad Harichandan</span>
+                <p style="font-weight: bold;"></p>
+                </div>
+                </div>
+                <div class="img_item">
+                <img src="/profile_images/2024_abhijeet.webp">
+                <div class="overlay">
+                <br>
+                <span style="font-weight: bold;">Abhijeet Parida</span>
+                <p style="font-weight: bold;"></p>
+                </div>
+                </div>
+                <div class="img_item">
+                <img src="/profile_images/2024_abhinav.webp">
+                <div class="overlay">
+                <br>
+                <span style="font-weight: bold;">Abhinav Raj</span>
+                <p style="font-weight: bold;"></p>
+                </div>
+                </div>
+                <div class="img_item">
+                <img src="/profile_images/2024_archisman.webp">
+                <div class="overlay">
+                <br>
+                <span style="font-weight: bold;">Archisman Mukherjee</span>
+                <p style="font-weight: bold;"></p>
+                </div>
+                </div>
+            </div>
+            <div class="img_cont">
+                <div class="img_item">
+                <img src="/profile_images/2024_arnav.webp">
+                <div class="overlay">
+                <br>
+                <span style="font-weight: bold;">Arnav Bhayana</span>
+                <p style="font-weight: bold;"></p>
+                </div>
+                </div>
+                <div class="img_item">
+                <img src="/profile_images/2024_gaurav.webp">
+                <div class="overlay">
+                <br>
+                <span style="font-weight: bold;">Gaurav Pal</span>
+                <p style="font-weight: bold;"></p>
+                </div>
+                </div>
+                <div class="img_item">
+                <img src="/profile_images/2024_manoj.webp">
+                <div class="overlay">
+                <br>
+                <span style="font-weight: bold;">Manoj Kumar T</span>
+                <p style="font-weight: bold;"></p>
+                </div>
+                </div>
+                <div class="img_item">
+                <img src="/profile_images/2024_mayukh.webp">
+                <div class="overlay">
+                <br>
+                <span style="font-weight: bold;">Mayukh Mukherjee</span>
+                <p style="font-weight: bold;"></p>
+                </div>
+                </div>
+            </div>
+            <div class="img_cont">
+            <div class="img_item">
+                <img src="/profile_images/2024_promit.webp">
+                <div class="overlay">
+                <br>
+                <span style="font-weight: bold;">Promit Ghosh</span>
+                <p style="font-weight: bold;"></p>
+                </div>
+                </div>
+                <div class="img_item">
+                <img src="/profile_images/2024_soumalya.webp">
+                <div class="overlay">
+                <br>
+                <span style="font-weight: bold;">Soumalya Naskar</span>
+                <p style="font-weight: bold;"></p>
+                </div>
+                </div>
+                <div class="img_item">
+                <img src="/profile_images/2024_sri.webp">
+                <div class="overlay">
+                <br>
+                <span style="font-weight: bold;">Sri Ram Nagulan</span>
+                <p style="font-weight: bold;"></p>
+                </div>
+                </div>
+                <div class="img_item">
+                <img src="/profile_images/2024_vansh.webp">
+                <div class="overlay">
+                <br>
+                <span style="font-weight: bold;">Vansh Patwa</span>
+                <p style="font-weight: bold;"></p>
+                </div>
+                </div>
+            </div>
+        </div>
+        <div id="Tab2" class="tabcontent">
             <div class="img_cont">
                 <div class="img_item">
                 <img src="/profile_images/2023_dad.webp">
@@ -767,4 +872,5 @@ title: Team
             event.currentTarget.className += " active";
         }
     </script>
+
 
