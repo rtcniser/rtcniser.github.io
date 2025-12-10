@@ -242,7 +242,7 @@ title: Team
                 <div class="overlay">
                 <br>
                 <span style="font-weight: bold;">Gaurav Pal</span>
-                <p style="font-weight: bold;">Technical, Photgraphy and Outreach</p>
+                <p style="font-weight: bold;">Technical, Photography and Outreach</p>
                 </div>
                 </div>
                 <div class="img_item">
@@ -872,6 +872,7 @@ title: Team
             event.currentTarget.className += " active";
         }
     </script>
+
 
 
 
