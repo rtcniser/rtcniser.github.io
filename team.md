@@ -856,7 +856,7 @@ title: Team
     for (var i = 0; i < tabcontent.length; i++) {
         tabcontent[i].style.display = "none";
     }
-    document.getElementById("Tab2").style.display = "block";
+    document.getElementById("Tab1").style.display = "block";
 });
         function openTab(event, tabName) {
             var i, tabcontent, tablinks;
@@ -872,5 +872,6 @@ title: Team
             event.currentTarget.className += " active";
         }
     </script>
+
 
 
