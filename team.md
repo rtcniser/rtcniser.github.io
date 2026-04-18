@@ -386,14 +386,6 @@ title: Team
                 </div>
                 </div>
                 <div class="img_item">
-                <img src="/profile_images/2023_bratanu.webp">
-                <div class="overlay">
-                <br>
-                <span style="font-weight: bold;">Bratanu Saha</span>
-                <p style="font-weight: bold;">Yantriki</p>
-                </div>
-                </div>
-                <div class="img_item">
                 <img src="/profile_images/2023_linna.webp">
                 <div class="overlay">
                 <br>
@@ -477,7 +469,6 @@ title: Team
             <p style="font-size: 30px; text-decoration: underline;">Brief Contributors: <br>
             <ul>
             <li>Shakya Ratna Wahane</li>
-            <li>Suraj Pradhan</li>
             <li>Prasad Murmu</li>
             <li>Suraj Kumar Behera</li>
             </ul>
