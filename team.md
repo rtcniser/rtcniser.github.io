@@ -177,98 +177,23 @@ title: Team
 <br>
 
 <div class="tabs">
-        <button class="tablink" onclick="openTab(event, 'Tab11')">2026</button>
-        <button class="tablink" onclick="openTab(event, 'Tab10')">2025</button>
-        <button class="tablink active" onclick="openTab(event, 'Tab9')">2024</button>
-        <button class="tablink" onclick="openTab(event, 'Tab8')">2023</button>
-        <button class="tablink" onclick="openTab(event, 'Tab7')">2022</button>
-        <button class="tablink" onclick="openTab(event, 'Tab6')">2021</button>
+        <button class="tablink" onclick="openTab(event, 'Tab0')">2025</button>
+        <button class="tablink active" onclick="openTab(event, 'Tab1')">2024</button>
+        <button class="tablink" onclick="openTab(event, 'Tab2')">2023</button>
+        <button class="tablink" onclick="openTab(event, 'Tab3')">2022</button>
+        <button class="tablink" onclick="openTab(event, 'Tab4')">2021</button>
         <button class="tablink" onclick="openTab(event, 'Tab5')">2020</button>
-        <button class="tablink" onclick="openTab(event, 'Tab4')">2019</button>
-        <button class="tablink" onclick="openTab(event, 'Tab3')">2018</button>
-        <button class="tablink" onclick="openTab(event, 'Tab2')">2017</button>
-        <button class="tablink" onclick="openTab(event, 'Tab1')">2016</button>
-        <button class="tablink" onclick="openTab(event, 'Tab0')">2015</button>
+        <button class="tablink" onclick="openTab(event, 'Tab6')">2019</button>
+        <button class="tablink" onclick="openTab(event, 'Tab7')">2018</button>
+        <button class="tablink" onclick="openTab(event, 'Tab8')">2017</button>
+        <button class="tablink" onclick="openTab(event, 'Tab9')">2016</button>
+        <button class="tablink" onclick="openTab(event, 'Tab310')">2015</button>
     </div>
     <div class="content">
-    <div id="Tab11" class="tabcontent" style="display:none;">
+    <div id="Tab0" class="tabcontent" style="display:none;">
             <p>Still Recruiting...</p>
     </div>
-            <div id="Tab9" class="tabcontent">
-                    <div class="img_cont">
-                            <div class="img_item">
-                                    <img src="/profile_images/2025_surya.webp">
-                                    <div class="overlay">
-                                            <br>
-                                            <span style="font-weight: bold;">Suryaditya Das</span>
-                                            <p style="font-weight: bold;">Website manager
-                                                    <span class="epithet">Unpaid labor</span>
-                                            </p>
-                                    </div>
-                            </div>
-                            <div class="img_item">
-                                    <img src="/profile_images/2025_lakshya.webp">
-                                    <div class="overlay">
-                                            <br>
-                                            <span style="font-weight: bold;">Lakshya</span>
-                                            <p style="font-weight: bold;">Technical
-                                            <span class="epithet">Game changer</span>
-                                            </p>
-                                    </div>
-                            </div>
-                            <div class="img_item">
-                                    <img src="/profile_images/2025_archit.webp">
-                                    <div class="overlay">
-                                            <br>
-                                            <span style="font-weight: bold;">Archit</span>
-                                            <p style="font-weight: bold;">SDP coordinator</p>
-                                    </div>
-                            </div>
-                            <div class="img_item">
-                                    <img src="/profile_images/2025_anshuman.webp">
-                                    <div class="overlay">
-                                            <br>
-                                            <span style="font-weight: bold;">Anshuman Mishra</span>
-                                            <p style="font-weight: bold;">Equipment handling</p>
-                                    </div>
-                            </div>
-                    </div>
-                    <div class="img_cont">
-                            <div class="img_item">
-                                    <img src="/profile_images/2025_anushka.webp">
-                                    <div class="overlay">
-                                            <br>
-                                            <span style="font-weight: bold;">Anushka Sharma</span>
-                                            <p style="font-weight: bold;">Social media manager</p>
-                                    </div>
-                            </div>
-                            <div class="img_item">
-                                    <img src="/profile_images/2025_yogeshwar.webp">
-                                    <div class="overlay">
-                                            <br>
-                                            <span style="font-weight: bold;">Kandi Yogeshwar Reddy</span>
-                                            <p style="font-weight: bold;">Technical and Photography</p>
-                                    </div>
-                            </div>
-                            <div class="img_item">
-                                    <img src="/profile_images/2025_guru.webp">
-                                    <div class="overlay">
-                                            <br>
-                                            <span style="font-weight: bold;">Guru Datta Voona</span>
-                                            <p style="font-weight: bold;">Technical</p>
-                                    </div>
-                            </div>
-                            <div class="img_item">
-                                    <img src="/profile_images/2025_anuska.webp">
-                                    <div class="overlay">
-                                            <br>
-                                            <span style="font-weight: bold;">Anuska Karmakar</span>
-                                            <p style="font-weight: bold;">Technical</p>
-                                    </div>
-                            </div>
-                    </div>
-            </div>
-    <div id="Tab9" class="tabcontent">
+    <div id="Tab1" class="tabcontent">
             <div class="img_cont">
                 <div class="img_item">
                 <img src="/profile_images/2024_aadya.webp">
@@ -372,7 +297,7 @@ title: Team
                 </div>
             </div>
         </div>
-        <div id="Tab8" class="tabcontent">
+        <div id="Tab2" class="tabcontent">
             <div class="img_cont">
                 <div class="img_item">
                 <img src="/profile_images/2023_dad.webp">
@@ -470,7 +395,7 @@ title: Team
                 </div>
             </div>
         </div>
-        <div id="Tab7" class="tabcontent">
+        <div id="Tab3" class="tabcontent">
             <div class="img_cont">
                 <div class="img_item">
                 <img src="/profile_images/2022_gayatri.webp">
@@ -549,7 +474,7 @@ title: Team
             </ul>
             </p>
         </div>
-        <div id="Tab6" class="tabcontent">
+        <div id="Tab4" class="tabcontent">
             <div class="img_cont">
                 <div class="img_item">
                 <img src="/profile_images/2021_girija.webp">
@@ -661,7 +586,7 @@ title: Team
                 </div>
             </div>
         </div>
-        <div id="Tab4" class="tabcontent">
+        <div id="Tab6" class="tabcontent">
             <div class="img_cont">
                 <div class="img_item">
                 <img src="/profile_images/2019_opj.webp">
@@ -767,7 +692,7 @@ title: Team
             </ul>
             </p>
         </div>
-        <div id="Tab3" class="tabcontent">
+        <div id="Tab7" class="tabcontent">
             <div class="img_cont">
                 <div class="img_item">
                 <img src="/profile_images/2018_jyo.webp">
@@ -833,7 +758,7 @@ title: Team
                 </div>
         </div>
         </div>
-        <div id="Tab2" class="tabcontent">
+        <div id="Tab8" class="tabcontent">
             <div class="img_cont">
                 <div class="img_item">
                 <img src="/profile_images/tooshy.jpg">
@@ -867,7 +792,7 @@ title: Team
                 </div>
             </div>
         </div>
-        <div id="Tab1" class="tabcontent">
+        <div id="Tab9" class="tabcontent">
             <div class="img_cont">
                 <div class="img_item">
                 <img src="/profile_images/tooshy.jpg">
@@ -922,7 +847,7 @@ title: Team
     for (var i = 0; i < tabcontent.length; i++) {
         tabcontent[i].style.display = "none";
     }
-    document.getElementById("Tab9").style.display = "block";
+    document.getElementById("Tab1").style.display = "block";
 });
         function openTab(event, tabName) {
             var i, tabcontent, tablinks;
