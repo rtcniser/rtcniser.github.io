@@ -9,10 +9,9 @@ title: Team
             flex-direction: row;
             flex-wrap: wrap;
             justify-content: center;
-            width: 97%;
+            width: 100%;
+            box-sizing: border-box;
             border-right: 2px solid #ccc;
-            padding-right: 10px;
-            overflow-x: none;
             background-color: black;
             padding: 10px;
             border-bottom: 3px solid darkgoldenrod;
@@ -21,27 +20,23 @@ title: Team
             flex-grow: 1;
             min-width: 50px;
             text-align: center;
-            padding: 10px;
             background: none;
             border: none;
-            padding: 10px;
             cursor: pointer;
             font-size: 16px;
-            text-align: left;
             width: 10%;
             color: white;
             font-family: 'Baskerville', serif;
             padding: 10px 15px;
-            cursor: pointer;
-            border: none;
-            background: none;
-            font-size: 16px;
             transition: color 0.3s, border-bottom 0.3s;
             flex-shrink: 0;
         }
         .tabs button.active {
             background-color: darkgoldenrod;
             border-bottom: solid 2px white;
+        }
+        .tabcontent {
+            display: none;
         }
         .content {
             flex-grow: 1;
@@ -56,7 +51,7 @@ title: Team
             justify-content: space-between;
             flex-direction: row;
             margin: 20px 50px 20px 20px;
-    }
+        }
         .img_item {
             position: relative;
             width: 23%;
@@ -64,7 +59,6 @@ title: Team
             padding: 5px 15px 5px 0px;
             overflow: hidden;
         }
-
         .img_item img {
             height: 300px;
             width: 100%;
@@ -72,11 +66,9 @@ title: Team
             object-fit: cover;
             transition: transform 0.3s ease-in-out;
         }
-
         .img_item:hover img {
             transform: scale(1.1);
         }
-
         .overlay {
             position: absolute;
             top: 0;
@@ -92,20 +84,17 @@ title: Team
             text-align: center;
             opacity: 0;
             transition: opacity 0.3s ease-in-out;
-            border-radius: none;
+            border-radius: 0;
         }
-
         .img_item:hover .overlay {
             opacity: 1;
         }
-
-        .overlay span {
+        .overlay > span {
             font-weight: bold;
             font-size: 18px;
             font-family: MyCustomFont;
             margin-top: 190px;
         }
-
         .overlay p {
             font-size: 16px;
             margin-top: 5px;
@@ -114,86 +103,160 @@ title: Team
             width: 100%;
             font-size: 16px;
             text-align: center;
-    }
-        .epithet{
+        }
+        .epithet {
             font-size: 24px;
             font-weight: bold;
             color: orange;
             text-shadow: 0 0 5px #ff8c00, 0 0 10px #ff8c00, 0 0 15px #ff4500;
             animation: flicker 0.1s infinite alternate;
         }
-        @media (max-width: 768px)
-    {
-        .img_cont {
-            display: flex;
-            width: 100%;
-            justify-content: space-between;
-            flex-direction: column;
-    }
-        .img_item {
-            width: 100%;
-            align-items: center;
-            padding: 5px 15px 5px 0px;
-            margin-bottom: 5px;
-    }
-        img {
-            height: 400px;
-            width: 100%;
-            object-fit: cover;
-            border-radius: 50px 50px 50px 50px;
-    }
-        .item_data {
-            width: 100%;
-            font-size: 16px;
-            text-align: center;  
-    }
-        .img_item:active .overlay {
-            opacity: 1;
-}
-
-        .img_item:active img {
-            transform: scale(1.1);
-            box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.5);
-}
-
-    }
-@keyframes flicker {
-    0% { opacity: 0.8; text-shadow: 0 0 5px #ff8c00, 0 0 10px #ff8c00, 0 0 15px #ff4500; }
-    50% { opacity: 1; text-shadow: 0 0 8px #ff8c00, 0 0 15px #ff4500, 0 0 20px #ff4500; }
-    100% { opacity: 0.9; text-shadow: 0 0 6px #ff8c00, 0 0 12px #ff8c00, 0 0 18px #ff4500; }
-}
-@keyframes shine-light {
-    0% { left: -100%; }
-    100% { left: 100%; }
-}
-</style>    
+        @media (max-width: 768px) {
+            .img_cont {
+                display: flex;
+                width: 100%;
+                justify-content: space-between;
+                flex-direction: column;
+            }
+            .img_item {
+                width: 100%;
+                align-items: center;
+                padding: 5px 15px 5px 0px;
+                margin-bottom: 5px;
+            }
+            .img_item img {
+                height: 400px;
+                width: 100%;
+                object-fit: cover;
+                border-radius: 50px 50px 50px 50px;
+            }
+            .item_data {
+                width: 100%;
+                font-size: 16px;
+                text-align: center;
+            }
+            .img_item:active .overlay {
+                opacity: 1;
+            }
+            .img_item:active img {
+                transform: scale(1.1);
+                box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.5);
+            }
+        }
+        @keyframes flicker {
+            0% { opacity: 0.8; text-shadow: 0 0 5px #ff8c00, 0 0 10px #ff8c00, 0 0 15px #ff4500; }
+            50% { opacity: 1; text-shadow: 0 0 8px #ff8c00, 0 0 15px #ff4500, 0 0 20px #ff4500; }
+            100% { opacity: 0.9; text-shadow: 0 0 6px #ff8c00, 0 0 12px #ff8c00, 0 0 18px #ff4500; }
+        }
+        @keyframes shine-light {
+            0% { left: -100%; }
+            100% { left: 100%; }
+        }
+</style>
 <hr>
 <div class="veil">
 <br>
-<center><p><h4 style="color: gray; font-size: 30px; font-family: MyCustomFont;">"A strong organisation needs an even stronger community to support it."</h4></p></center> 
+<center><h4 style="color: gray; font-size: 30px; font-family: MyCustomFont;">"A strong organisation needs an even stronger community to support it."</h4></center>
 
-<center><p><h4 style="font-style: italic; font-size: 22px;">Here is the list of our dedicated team members...</h4></p></center>
+<center><h4 style="font-style: italic; font-size: 22px;">Here is the list of our dedicated team members...</h4></center>
 <br>
 <br>
 
 <div class="tabs">
-        <button class="tablink" onclick="openTab(event, 'Tab0')">2025</button>
-        <button class="tablink active" onclick="openTab(event, 'Tab1')">2024</button>
-        <button class="tablink" onclick="openTab(event, 'Tab2')">2023</button>
-        <button class="tablink" onclick="openTab(event, 'Tab3')">2022</button>
-        <button class="tablink" onclick="openTab(event, 'Tab4')">2021</button>
+        <button class="tablink" onclick="openTab(event, 'Tab11')">2026</button>
+        <button class="tablink active" onclick="openTab(event, 'Tab10')">2025</button>
+        <button class="tablink" onclick="openTab(event, 'Tab9')">2024</button>
+        <button class="tablink" onclick="openTab(event, 'Tab8')">2023</button>
+        <button class="tablink" onclick="openTab(event, 'Tab7')">2022</button>
+        <button class="tablink" onclick="openTab(event, 'Tab6')">2021</button>
         <button class="tablink" onclick="openTab(event, 'Tab5')">2020</button>
-        <button class="tablink" onclick="openTab(event, 'Tab6')">2019</button>
-        <button class="tablink" onclick="openTab(event, 'Tab7')">2018</button>
-        <button class="tablink" onclick="openTab(event, 'Tab8')">2017</button>
-        <button class="tablink" onclick="openTab(event, 'Tab9')">2016</button>
-        <button class="tablink" onclick="openTab(event, 'Tab310')">2015</button>
+        <button class="tablink" onclick="openTab(event, 'Tab4')">2019</button>
+        <button class="tablink" onclick="openTab(event, 'Tab3')">2018</button>
+        <button class="tablink" onclick="openTab(event, 'Tab2')">2017</button>
+        <button class="tablink" onclick="openTab(event, 'Tab1')">2016</button>
+        <button class="tablink" onclick="openTab(event, 'Tab0')">2015</button>
     </div>
     <div class="content">
-    <div id="Tab0" class="tabcontent" style="display:none;">
+    <div id="Tab11" class="tabcontent">
             <p>Still Recruiting...</p>
     </div>
-    <div id="Tab1" class="tabcontent">
+            <div id="Tab10" class="tabcontent">
+                    <div class="img_cont">
+                            <div class="img_item">
+                                    <img src="/profile_images/2025_surya.webp">
+                                    <div class="overlay">
+                                            <br>
+                                            <span style="font-weight: bold;">Suryaditya Das</span>
+                                            <p style="font-weight: bold;">Website manager
+                                                <br>
+                                                <span class="epithet">Unpaid labor</span>
+                                            </p>
+                                    </div>
+                            </div>
+                            <div class="img_item">
+                                    <img src="/profile_images/2025_lakshya.webp">
+                                    <div class="overlay">
+                                            <br>
+                                            <span style="font-weight: bold;">Lakshya</span>
+                                            <p style="font-weight: bold;">Machine master
+                                                <br>
+                                                <span class="epithet">Game changer</span>
+                                            </p>
+                                    </div>
+                            </div>
+                            <div class="img_item">
+                                    <img src="/profile_images/2025_archit.webp">
+                                    <div class="overlay">
+                                            <br>
+                                            <span style="font-weight: bold;">Archit</span>
+                                            <p style="font-weight: bold;">SDP coordinator</p>
+                                    </div>
+                            </div>
+                            <div class="img_item">
+                                    <img src="/profile_images/2025_anshuman.webp">
+                                    <div class="overlay">
+                                            <br>
+                                            <span style="font-weight: bold;">Anshuman Mishra</span>
+                                            <p style="font-weight: bold;">Equipment handling</p>
+                                    </div>
+                            </div>
+                    </div>
+                    <div class="img_cont">
+                            <div class="img_item">
+                                    <img src="/profile_images/2025_anushka.webp">
+                                    <div class="overlay">
+                                            <br>
+                                            <span style="font-weight: bold;">Anushka Sharma</span>
+                                            <p style="font-weight: bold;">Social media manager</p>
+                                    </div>
+                            </div>
+                            <div class="img_item">
+                                    <img src="/profile_images/2025_yogeshwar.webp">
+                                    <div class="overlay">
+                                            <br>
+                                            <span style="font-weight: bold;">Kandi Yogeshwar Reddy</span>
+                                            <p style="font-weight: bold;">Technical and Photography</p>
+                                    </div>
+                            </div>
+                            <div class="img_item">
+                                    <img src="/profile_images/2025_guru.webp">
+                                    <div class="overlay">
+                                            <br>
+                                            <span style="font-weight: bold;">Guru Datta Voona</span>
+                                            <p style="font-weight: bold;">Technical</p>
+                                    </div>
+                            </div>
+                            <div class="img_item">
+                                    <img src="/profile_images/2025_anuska.webp">
+                                    <div class="overlay">
+                                            <br>
+                                            <span style="font-weight: bold;">Anuska Karmakar</span>
+                                            <p style="font-weight: bold;">Technical</p>
+                                    </div>
+                            </div>
+                    </div>
+            </div>
+    <div id="Tab9" class="tabcontent">
             <div class="img_cont">
                 <div class="img_item">
                 <img src="/profile_images/2024_aadya.webp">
@@ -297,7 +360,7 @@ title: Team
                 </div>
             </div>
         </div>
-        <div id="Tab2" class="tabcontent">
+        <div id="Tab8" class="tabcontent">
             <div class="img_cont">
                 <div class="img_item">
                 <img src="/profile_images/2023_dad.webp">
@@ -395,7 +458,7 @@ title: Team
                 </div>
             </div>
         </div>
-        <div id="Tab3" class="tabcontent">
+        <div id="Tab7" class="tabcontent">
             <div class="img_cont">
                 <div class="img_item">
                 <img src="/profile_images/2022_gayatri.webp">
@@ -466,15 +529,14 @@ title: Team
             </div>
             <br>
             <br>
-            <p style="font-size: 30px; text-decoration: underline;">Brief Contributors: <br>
+            <h3 style="text-decoration: underline;">Brief Contributors:</h3>
             <ul>
             <li>Shakya Ratna Wahane</li>
             <li>Prasad Murmu</li>
             <li>Suraj Kumar Behera</li>
             </ul>
-            </p>
         </div>
-        <div id="Tab4" class="tabcontent">
+        <div id="Tab6" class="tabcontent">
             <div class="img_cont">
                 <div class="img_item">
                 <img src="/profile_images/2021_girija.webp">
@@ -543,13 +605,12 @@ title: Team
             </div>
             <br>
             <br>
-            <p style="font-size: 30px; text-decoration: underline;">Brief Contributors: <br>
+            <h3 style="text-decoration: underline;">Brief Contributors:</h3>
             <ul>
             <li>S. Mahesh</li>
             <li>Rahul Madhav M</li>
             <li>Sreerag M</li>
             </ul>
-            </p>
         </div>
         <div id="Tab5" class="tabcontent">
             <div class="img_cont">
@@ -586,7 +647,7 @@ title: Team
                 </div>
             </div>
         </div>
-        <div id="Tab6" class="tabcontent">
+        <div id="Tab4" class="tabcontent">
             <div class="img_cont">
                 <div class="img_item">
                 <img src="/profile_images/2019_opj.webp">
@@ -686,13 +747,12 @@ title: Team
             </div>
             <br>
             <br>
-            <p style="font-size: 30px; text-decoration: underline;">Brief Contributors: <br>
+            <h3 style="text-decoration: underline;">Brief Contributors:</h3>
             <ul>
             <li>Sandeepan Sahoo</li>
             </ul>
-            </p>
         </div>
-        <div id="Tab7" class="tabcontent">
+        <div id="Tab3" class="tabcontent">
             <div class="img_cont">
                 <div class="img_item">
                 <img src="/profile_images/2018_jyo.webp">
@@ -758,7 +818,7 @@ title: Team
                 </div>
         </div>
         </div>
-        <div id="Tab8" class="tabcontent">
+        <div id="Tab2" class="tabcontent">
             <div class="img_cont">
                 <div class="img_item">
                 <img src="/profile_images/tooshy.jpg">
@@ -792,7 +852,7 @@ title: Team
                 </div>
             </div>
         </div>
-        <div id="Tab9" class="tabcontent">
+        <div id="Tab1" class="tabcontent">
             <div class="img_cont">
                 <div class="img_item">
                 <img src="/profile_images/tooshy.jpg">
@@ -822,14 +882,16 @@ title: Team
                 </div>
         </div>
         </div>
+        <div id="Tab0" class="tabcontent">
+            <p>No records yet.</p>
+        </div>
 </div>
 <br>
 <br>
 <p class="headings">Faculty In-Charge:</p>
 <hr>
 <br>
-<img float="left" style="border-radius: 100px; border: solid 5px black; margin-right: 30px; border-radius: 10px;
-    box-shadow: 0 0 15px rgba(255, 165, 0, 0.8), 0 0 30px rgba(255, 69, 0, 0.6); border-radius: 50px;" align=left src="/profile_images/subhankar.webp" height= "300" width= "300">
+<img style="border: solid 5px black; margin-right: 30px; box-shadow: 0 0 15px rgba(255, 165, 0, 0.8), 0 0 30px rgba(255, 69, 0, 0.6); border-radius: 50px;" align=left src="/profile_images/subhankar.webp" height="300" width="300">
 <br>
 <p style="font-weight: bold; font-size: xx-large;">Dr. Subhankar Mishra</p>
 <p>His visionary guidance inspires creativity and innovation, propelling the club members to push boundaries and excel in their projects. As <strong><em>Faculty-In-Charge</em></strong>, Dr. Subhankar Mishra cultivates a spirit of collaboration, empowering students to work together seamlessly towards their shared goals.
@@ -841,30 +903,22 @@ title: Team
 <br>
 <br>
 <br>
+</div>
 <script>
     document.addEventListener("DOMContentLoaded", function() {
-    var tabcontent = document.getElementsByClassName("tabcontent");
-    for (var i = 0; i < tabcontent.length; i++) {
-        tabcontent[i].style.display = "none";
-    }
-    document.getElementById("Tab1").style.display = "block";
-});
-        function openTab(event, tabName) {
-            var i, tabcontent, tablinks;
-            tabcontent = document.getElementsByClassName("tabcontent");
-            for (i = 0; i < tabcontent.length; i++) {
-                tabcontent[i].style.display = "none";
-            }
-            tablinks = document.getElementsByClassName("tablink");
-            for (i = 0; i < tablinks.length; i++) {
-                tablinks[i].className = tablinks[i].className.replace(" active", "");
-            }
-            document.getElementById(tabName).style.display = "block";
-            event.currentTarget.className += " active";
+        document.getElementById("Tab10").style.display = "block";
+    });
+    function openTab(event, tabName) {
+        var i, tabcontent, tablinks;
+        tabcontent = document.getElementsByClassName("tabcontent");
+        for (i = 0; i < tabcontent.length; i++) {
+            tabcontent[i].style.display = "none";
         }
-    </script>
-
-
-
-
-
+        tablinks = document.getElementsByClassName("tablink");
+        for (i = 0; i < tablinks.length; i++) {
+            tablinks[i].className = tablinks[i].className.replace(" active", "");
+        }
+        document.getElementById(tabName).style.display = "block";
+        event.currentTarget.className += " active";
+    }
+</script>
