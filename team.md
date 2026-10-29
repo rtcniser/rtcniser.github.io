@@ -217,7 +217,7 @@ title: Team
                                     <div class="overlay">
                                             <br>
                                             <span style="font-weight: bold;">Anshuman Mishra</span>
-                                            <p style="font-weight: bold;">Equipment handling</p>
+                                            <p style="font-weight: bold;">Inventory master</p>
                                     </div>
                             </div>
                     </div>
@@ -235,7 +235,6 @@ title: Team
                                     <div class="overlay">
                                             <br>
                                             <span style="font-weight: bold;">Kandi Yogeshwar Reddy</span>
-                                            <p style="font-weight: bold;">Technical and Photography</p>
                                     </div>
                             </div>
                             <div class="img_item">
@@ -243,7 +242,6 @@ title: Team
                                     <div class="overlay">
                                             <br>
                                             <span style="font-weight: bold;">Guru Datta Voona</span>
-                                            <p style="font-weight: bold;">Technical</p>
                                     </div>
                             </div>
                             <div class="img_item">
